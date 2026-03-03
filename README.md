@@ -139,3 +139,5 @@ Database
 - Generate round-wise plan
 
 - Run What-if simulation
+
+3/3/2025 - we have collected cutoff, rank , seats , fees , avg placement etc of colleges of benglore, delhi and mharastra
