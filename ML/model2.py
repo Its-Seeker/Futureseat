@@ -6,7 +6,6 @@ official_student_data={
     2024:1170000,
     2025:1200000,
 }
-
 base_year=2022
 growth_rate=0.04
 def get_student_count(year: int) -> int:
@@ -35,3 +34,4 @@ def predict_rank(percentile:float,year:int)->int:
     total_student=get_student_count(year)
     rank=(100-percentile)*total_student/100
     return math.ceil(rank)
+
