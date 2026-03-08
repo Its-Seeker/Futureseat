@@ -1,141 +1,16 @@
-# **FutureSeat**
+# React + Vite
 
-- Intelligent College Admission Strategy & Decision Support Platform
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- FutureSeat is a data-driven college admission decision-support system that helps students navigate competitive counseling processes with clarity and confidence.
+Currently, two official plugins are available:
 
-- Instead of simply displaying historical cutoffs, the platform transforms structured admission data into actionable insights — enabling students to understand feasibility, classify choices, and generate round-wise strategies.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# **Problem Statement**
+## React Compiler
 
-During admission counseling, students face:
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-- Lack of clarity about realistic college options
+## Expanding the ESLint configuration
 
-- No structured round-wise planning
-
-- Scattered cutoff information across websites
-
-- No clear distinction between safe and risky choices
-
-- High uncertainty in decision-making
-
-- Most existing tools only show past cutoffs without helping students create a proper strategy.
-
-# Our Solution
-
-FutureSeat converts raw cutoff data into an intelligent strategy engine that:
-
-- Classifies colleges into Safe / Target / Dream
-
-- Calculates rank gap and feasibility
-
-- Generates round-wise admission strategy
-
-- Allows scenario simulation (What-if analysis)
-
-- Enables structured college comparison
-
-- The system acts as a digital admission strategist — moving students from confusion to clarity.
-
-# Key Features
-
-- Admission Feasibility Engine
-
-- Rank vs Cutoff comparison
-
-- Rank gap calculation
-
-- Color-coded classification (Safe / Target / Dream)
-
-# Strategy Planner
-
-- Round 1, Round 2, Spot Round planning
-
-- Risk-based strategy generation
-
-- Safety vs Aggressiveness optimization
-
-# What-If Simulator
-
-- Modify rank scenario
-
-- Change category
-
-- Recalculate feasibility dynamically
-
-# Interactive Dashboard
-
-- Rank vs Cutoff visualization
-
-- Feasibility meter
-
-- Structured result cards
-
-# College Comparison
-
-- Side-by-side evaluation
-
-- Rank gap insights
-
-- Final decision support
-  
-# Tech Stack
-Frontend
-
-- React (Vite)
-
-- Tailwind CSS
-
-- Recharts
-
-Backend
-
-- Python
-
-- FastAPI
-
-Database
-
-- PostgreSQL
-
-- ML / Logic Layer
-
-
-# How It Works
-
-- User enters rank and category
-
-- Backend retrieves relevant cutoff data
-
-- Feasibility engine computes rank gap
-
-- Colleges classified into Safe / Target / Dream
-
-- Strategy planner generates round-wise plan
-
-- User can simulate alternative scenarios
-
-# Future Scope
-
-- Multi-exam support (JEE, MHT-CET, etc.)
-
-- Placement trend analytics
-
-- ROI-based branch optimization
-
-- AI-based counseling assistant
-
-- Multi-year trend forecasting
-
-# Demo Flow
-
-- Enter rank and category
-
-- View structured dashboard
-
-- Add colleges to strategy
-
-- Generate round-wise plan
-
-- Run What-if simulation
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
