@@ -1,0 +1,263 @@
+/* ================= PAGE ================= */
+body {
+  background: #f8fafc;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.rank-page {
+  width: 100%;
+}
+
+/* ================= CONTAINER ================= */
+.rank-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+/* ================= NAVBAR ================= */
+.rank-navbar {
+  background: #f9fafb;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 18px 0;
+}
+
+.rank-navbar .rank-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rank-navbar h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.rank-navbar p {
+  color: #6b7280;
+  cursor: pointer;
+}
+
+.rank-navbar p:hover {
+  color: #2563eb;
+}
+
+/* ================= HERO ================= */
+.rank-hero-section {
+  padding: 60px 0;
+}
+
+.rank-hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+/* LEFT */
+.rank-hero-left h1 {
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.rank-hero-left span {
+  color: #3b82f6;
+}
+
+.rank-hero-left p {
+  margin-top: 10px;
+  color: #6b7280;
+}
+
+/* ================= FORM ================= */
+.rank-form-box {
+  background: white;
+  margin-top: 25px;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.rank-input-group label {
+  font-size: 13px;
+  color: #6b7280;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.rank-input-group select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+/* BUTTON */
+.rank-form-box button {
+  grid-column: span 2;
+  padding: 14px;
+  background: linear-gradient(to right, #2563eb, #3b82f6);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.rank-form-box button:hover {
+  opacity: 0.9;
+}
+
+/* ================= GRAPH ================= */
+.rank-hero-right {
+  width: 350px;
+}
+
+.graph-placeholder {
+  height: 320px;
+  border-radius: 16px;
+  background: linear-gradient(to top, #dbeafe, #f8fafc);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6b7280;
+}
+
+/* ================= HOW ================= */
+.rank-how-section {
+  padding: 60px 0;
+}
+
+.rank-how-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.rank-steps {
+  display: flex;
+  gap: 20px;
+}
+
+.rank-step {
+  flex: 1;
+  background: #f3f4f6;
+  padding: 25px;
+  border-radius: 14px;
+  text-align: center;
+}
+
+.rank-circle {
+  width: 45px;
+  height: 45px;
+  background: #dbeafe;
+  border-radius: 50%;
+  margin: auto;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ================= CATEGORY ================= */
+.rank-category-section {
+  padding: 60px 0;
+}
+
+.rank-category-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.rank-cards {
+  display: flex;
+  gap: 20px;
+}
+
+/* CARD */
+.rank-card {
+  flex: 1;
+  padding: 25px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  transition: 0.2s;
+}
+
+.rank-card:hover {
+  transform: translateY(-3px);
+}
+
+/* ICON */
+.card-icon {
+  font-size: 22px;
+}
+
+/* COLORS */
+.green {
+  background: #d1fae5;
+}
+.yellow {
+  background: #fef3c7;
+}
+.red {
+  background: #fee2e2;
+}
+
+.green-icon {
+  color: #16a34a;
+}
+.yellow-icon {
+  color: #d97706;
+}
+.red-icon {
+  color: #dc2626;
+}
+
+/* ================= FOOTER ================= */
+.rank-footer {
+  background: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+  padding: 40px 0;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-content div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.footer-content h4 {
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #111827;
+}
+
+.footer-content p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #6b7280;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.footer-content p:hover {
+  color: #2563eb;
+}

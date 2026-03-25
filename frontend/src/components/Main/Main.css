@@ -1,0 +1,101 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: outfit;
+}
+
+.main-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  padding: 25px 60px;
+  color: white;
+}
+
+.main-logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.main-nav-links {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.main-nav-links li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.main-nav-links li a:hover {
+  color: #38bdf8;
+}
+
+.main-login-btn {
+  background-color: #38bdf8;
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.main-login-btn:hover {
+  background-color: #0284c7;
+}
+
+.main-hero{
+  height:90vh;
+  background-size:cover;
+  background-position:center;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.main-hero-content{
+  background:rgba(0,0,0,0.5);
+  padding:60px;
+  color:white;
+  max-width:700px;
+  border-radius:10px;
+  text-align: center;
+  margin-bottom: 240px;
+}
+
+.main-hero-content h1{
+  font-size:45px;
+  margin-bottom:15px;
+}
+
+.main-hero-content p{
+  font-size:18px;
+  margin-bottom:20px;
+}
+
+.main-search-box{
+  display:flex;
+  gap:10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.main-search-box input{
+  padding:12px;
+  font-size:16px;
+  border:none;
+  border-radius:5px;
+}
+
+.main-search-box button{
+  padding:12px 20px;
+  background:orange;
+  border:none;
+  color:white;
+  border-radius:5px;
+  cursor:pointer;
+}
