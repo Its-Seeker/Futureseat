@@ -34,7 +34,7 @@ Helps students build a better admission plan during counseling rounds.
 # Tech Stack
 - Frontend
 React (Vite)
-Tailwind CSS
+Normal CSS
 Chart libraries for visualization
 - Backend
 Python / FastAPI (API layer)

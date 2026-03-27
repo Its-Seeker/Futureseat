@@ -1,0 +1,379 @@
+State,College,Type,Course,Quota,Opening Rank,Closing Rank,Fees (L/yr),Seats,Est.,NAAC
+Andhra Pradesh,"Andhra Medical College, Visakhapatnam",Govt,MBBS,AIQ,4500,12000,0.11,200,1923,A+
+Andhra Pradesh,"Kurnool Medical College, Kurnool",Govt,MBBS,AIQ,7000,18000,0.11,200,1957,A
+Andhra Pradesh,"Guntur Medical College, Guntur",Govt,MBBS,AIQ,9000,22000,0.11,200,1946,A
+Andhra Pradesh,"Rangaraya Medical College, Kakinada",Govt,MBBS,AIQ,10000,25000,0.11,200,1958,A
+Andhra Pradesh,"Rajiv Gandhi Inst of Med Sci, Ongole",Govt,MBBS,AIQ,12000,28000,0.11,100,2007,B+
+Andhra Pradesh,"SVMC, Tirupati",Govt,MBBS,AIQ,11000,26000,0.11,200,1963,A
+Andhra Pradesh,"Siddharth Medical College, Vijayawada",Govt,MBBS,AIQ,13000,30000,0.11,200,1972,B+
+Andhra Pradesh,"Dr YSR Medical College, Nellore",Govt,MBBS,AIQ,14000,32000,0.11,150,2014,B
+Andhra Pradesh,"Narayana Medical College, Nellore",Private,MBBS,State,3000,35000,14.5,150,2009,B+
+Andhra Pradesh,"Apollo Medical College, Chittoor",Private,MBBS,State,4000,38000,15.0,150,2010,B+
+Andhra Pradesh,"Sri Venkateswara Med College, Tirupati",Private,MBBS,State,5000,42000,12.0,150,2008,B+
+Andhra Pradesh,Dr Pinnamaneni Siddhartha MC,Private,MBBS,State,6000,45000,11.0,150,2006,B
+Andhra Pradesh,"GSL Medical College, Rajahmundry",Private,MBBS,State,7000,48000,12.5,150,2008,B
+Andhra Pradesh,Nimra Inst of Medical Sciences,Private,MBBS,State,8000,52000,11.5,100,2011,B
+Andhra Pradesh,Konaseema Inst of Medical Sciences,Private,MBBS,State,9000,55000,10.5,100,2012,B
+Andhra Pradesh,Andhra Medical College,Govt,BDS,AIQ,35000,90000,0.08,40,1923,A+
+Andhra Pradesh,Sibar Inst of Dental Sciences,Private,BDS,State,5000,30000,3.5,100,2006,B
+Andhra Pradesh,Lenora Inst of Dental Sciences,Private,BDS,State,6000,35000,3.2,100,2009,B
+Andhra Pradesh,Sri Venkata Sai Inst of Dental,Private,BDS,State,7000,40000,3.0,60,2010,C
+Andhra Pradesh,Dr NTR Univ - SAM Medical College,Govt,BAMS,State,1000,8000,0.08,60,1972,B+
+Andhra Pradesh,SVAYURVEDIC Medical College,Govt,BAMS,State,2000,10000,0.08,60,1985,B
+Arunachal Pradesh,Tomo Riba Inst of Health Sciences,Govt,MBBS,AIQ,65000,140000,0.1,50,2017,B
+Arunachal Pradesh,AIIMS Itanagar,Central,MBBS,AIQ,450,2500,0.0,50,2022,A+
+Assam,"Gauhati Medical College, Guwahati",Govt,MBBS,AIQ,18000,42000,0.09,168,1960,A
+Assam,"Silchar Medical College, Silchar",Govt,MBBS,AIQ,22000,50000,0.09,100,1968,B+
+Assam,"Jorhat Medical College, Jorhat",Govt,MBBS,AIQ,25000,56000,0.09,100,1973,B+
+Assam,Dibrugarh Medical College,Govt,MBBS,AIQ,28000,62000,0.09,100,2016,B
+Assam,"Fakhruddin Ali Ahmed MC, Barpeta",Govt,MBBS,AIQ,30000,68000,0.09,100,2008,B
+Assam,Tezpur Medical College,Govt,MBBS,AIQ,32000,72000,0.09,100,2012,B
+Assam,Lakhimpur Medical College,Govt,MBBS,AIQ,34000,76000,0.09,100,2014,B
+Assam,AIIMS Guwahati,Central,MBBS,AIQ,300,1800,0.0,100,2022,A+
+Assam,"Assam Medical College, Dibrugarh",Govt,BDS,AIQ,75000,170000,0.06,40,1947,B+
+Assam,"Regional Dental College, Guwahati",Govt,BDS,AIQ,80000,180000,0.06,40,1966,B+
+Assam,GMC Guwahati Dental Wing,Govt,BDS,AIQ,85000,190000,0.06,40,1960,B+
+Bihar,Patna Medical College & Hospital,Govt,MBBS,AIQ,12000,30000,0.09,250,1925,A
+Bihar,"Nalanda Medical College, Patna",Govt,MBBS,AIQ,18000,42000,0.09,200,1970,B+
+Bihar,"Sri Krishna Medical College, Muzaffarpur",Govt,MBBS,AIQ,22000,50000,0.09,150,1971,B+
+Bihar,Darbhanga Medical College,Govt,MBBS,AIQ,25000,56000,0.09,150,1946,B+
+Bihar,"Vardhman Inst of Medical Sciences, Pawapuri",Govt,MBBS,AIQ,27000,60000,0.09,100,2002,B
+Bihar,"Jawaharlal Nehru Medical College, Bhagalpur",Govt,MBBS,AIQ,28000,62000,0.09,100,1971,B+
+Bihar,Anugrah Narayan Magadh MC,Govt,MBBS,AIQ,30000,66000,0.09,100,1972,B
+Bihar,AIIMS Patna,Central,MBBS,AIQ,250,1400,0.0,100,2012,A+
+Bihar,Katihar Medical College,Private,MBBS,State,10000,58000,9.0,100,1994,B
+Bihar,Mata Gujri Memorial MC,Private,MBBS,State,12000,65000,9.5,100,2010,B
+Bihar,"Lord Buddha Koshi MC, Saharsa",Private,MBBS,State,14000,70000,8.5,100,2012,C
+Bihar,Patna Dental College,Govt,BDS,AIQ,85000,190000,0.06,40,1956,B+
+Chandigarh,"GMCH Sector 32, Chandigarh",Govt,MBBS,AIQ,2500,9000,0.09,150,1962,A+
+Chandigarh,"PGIMER (UG Wing), Chandigarh",Central,MBBS,AIQ,800,4000,0.08,50,1962,A+
+Chandigarh,Dr HS Judge Inst of Dental Sci,Govt,BDS,AIQ,40000,100000,0.08,40,1964,A
+Chhattisgarh,"PT JNM Medical College, Raipur",Govt,MBBS,AIQ,28000,62000,0.09,200,1963,B+
+Chhattisgarh,CIMS Bilaspur,Govt,MBBS,AIQ,32000,70000,0.09,150,2009,B
+Chhattisgarh,Raipur Inst of Medical Sciences,Govt,MBBS,AIQ,30000,66000,0.09,100,2010,B
+Chhattisgarh,Late Baliram Kashyap MC,Govt,MBBS,AIQ,35000,76000,0.09,100,2012,B
+Chhattisgarh,Shri Shankaracharya Inst of Med Sci,Private,MBBS,State,8000,50000,11.0,150,2007,B
+Chhattisgarh,Chandulal Chandrakar MC,Private,MBBS,State,10000,56000,10.5,150,2009,B
+Chhattisgarh,Shri Balaji Inst of Med Sci,Private,MBBS,State,12000,62000,10.0,100,2012,C
+Chhattisgarh,"CIMS Dental College, Bilaspur",Govt,BDS,AIQ,95000,210000,0.06,40,2009,B
+Delhi,MAMC & associated hospitals,Govt,MBBS,AIQ,80,400,0.06,250,1958,A+
+Delhi,Lady Hardinge Medical College,Govt,MBBS,AIQ,120,600,0.06,200,1916,A+
+Delhi,UCMS & GTB Hospital,Govt,MBBS,AIQ,160,750,0.06,150,1971,A+
+Delhi,VMMC & Safdarjung Hospital,Govt,MBBS,AIQ,140,700,0.06,150,1954,A+
+Delhi,Hindu Rao Medical College,Govt,MBBS,AIQ,400,1800,0.06,100,1960,A
+Delhi,"ESI-PGIMSR, Basaidarapur",Central,MBBS,AIQ,350,1600,0.06,100,2003,A
+Delhi,AIIMS New Delhi,Central,MBBS,AIQ,1,50,0.0,125,1956,A+
+Delhi,AIIMS New Delhi,Central,BDS,AIQ,400,2500,0.0,40,1956,A+
+Delhi,Maulana Azad Inst of Dental Sci,Govt,BDS,AIQ,15000,50000,0.08,100,1959,A+
+Delhi,IP University Dental College,State,BDS,AIQ,18000,58000,1.5,80,2009,B+
+Delhi,Manipal College of Dental Sci (Delhi),Deemed,BDS,AIQ,12000,40000,5.5,60,2018,A
+Delhi,GMC (NDMC) Delhi,Govt,MBBS,AIQ,300,1400,0.06,150,1980,A
+Goa,"Goa Medical College, Panaji",Govt,MBBS,AIQ,6000,18000,0.07,180,1963,A
+Goa,Goa Dental College & Hospital,Govt,BDS,AIQ,55000,130000,0.07,40,1987,A
+Gujarat,"BJ Medical College, Ahmedabad",Govt,MBBS,AIQ,1800,7000,0.08,200,1946,A+
+Gujarat,"MP Shah Medical College, Jamnagar",Govt,MBBS,AIQ,3500,11000,0.08,200,1954,A
+Gujarat,"Baroda Medical College, Vadodara",Govt,MBBS,AIQ,4500,13000,0.08,200,1949,A
+Gujarat,"NHL Municipal Med College, Ahmedabad",Govt,MBBS,AIQ,5500,15500,0.08,200,1963,A
+Gujarat,"PDU Medical College, Rajkot",Govt,MBBS,AIQ,7000,18000,0.07,200,1971,A
+Gujarat,"GMERS Medical College, Gandhinagar",Govt,MBBS,AIQ,9000,22000,0.07,200,2011,B+
+Gujarat,"GMERS MC Gotri, Vadodara",Govt,MBBS,AIQ,8000,20000,0.07,150,2012,B+
+Gujarat,GMERS MC Valsad,Govt,MBBS,AIQ,10000,24000,0.07,150,2013,B
+Gujarat,GMERS MC Junagadh,Govt,MBBS,AIQ,11000,26000,0.07,150,2013,B
+Gujarat,"Smt NH Shah Medical College, Dhanbad",Govt,MBBS,AIQ,12000,28000,0.07,150,2018,B
+Gujarat,"Pramukh Swami Med College, Karamsad",Private,MBBS,State,4000,32000,12.0,150,1972,A
+Gujarat,"GMERS MC Sola, Ahmedabad",Govt,MBBS,AIQ,8500,21000,0.07,150,2012,B+
+Gujarat,"Smt BK Shah Med Inst, Vadodara",Private,MBBS,State,6000,40000,13.5,150,1992,B+
+Gujarat,"GCS Medical College, Ahmedabad",Private,MBBS,State,8000,45000,12.5,150,2009,B
+Gujarat,"Nootan Medical College, Mehsana",Private,MBBS,State,10000,52000,11.0,150,2009,B
+Gujarat,"Sumandeep Vidyapeeth, Vadodara",Deemed,MBBS,AIQ,15000,40000,13.0,150,2007,A
+Gujarat,"Govt Dental College, Ahmedabad",Govt,BDS,AIQ,38000,95000,0.06,60,1949,A
+Gujarat,"Govt Dental College, Vadodara",Govt,BDS,AIQ,42000,105000,0.06,40,1953,A
+Gujarat,"Govt Dental College, Rajkot",Govt,BDS,AIQ,45000,112000,0.06,40,1972,B+
+Haryana,PGIMS Rohtak,Govt,MBBS,AIQ,3500,12000,0.08,200,1960,A+
+Haryana,"BPS Govt Medical College (Women), Khanpur",Govt,MBBS,AIQ,5500,16000,0.07,100,2009,A
+Haryana,"ESIC Medical College, Faridabad",Central,MBBS,AIQ,4500,14000,0.06,100,2012,A
+Haryana,"Kalpana Chawla Govt MC, Karnal",Govt,MBBS,AIQ,7000,19000,0.07,100,2010,B+
+Haryana,"Pt BD Sharma UHS MC, Rohtak",Govt,MBBS,AIQ,6000,17000,0.07,100,2007,A
+Haryana,Shaheed Hasan Khan Mewati GMC,Govt,MBBS,AIQ,8000,21000,0.07,100,2011,B+
+Haryana,"SGT Medical College, Gurugram",Private,MBBS,State,5000,40000,12.0,150,2014,B+
+Haryana,Maharishi Markandeshwar MC,Deemed,MBBS,AIQ,14000,38000,11.0,150,1993,B+
+Haryana,"NC Medical College, Panipat",Private,MBBS,State,7000,45000,11.5,150,2009,B
+Haryana,World College of Medical Sciences,Private,MBBS,State,9000,50000,10.5,100,2012,B
+Haryana,"Govt Dental College, Rohtak",Govt,BDS,AIQ,48000,118000,0.06,40,1964,A
+Haryana,Jan Nayak Ch Devi Lal Med Coll,Govt,MBBS,AIQ,9000,23000,0.07,100,2012,B
+Himachal Pradesh,IGMC Shimla,Govt,MBBS,AIQ,9000,26000,0.08,150,1966,A
+Himachal Pradesh,Dr RPGMC Tanda,Govt,MBBS,AIQ,11000,30000,0.07,100,1997,B+
+Himachal Pradesh,"Shri Lal Bahadur Shastri GMC, Mandi",Govt,MBBS,AIQ,14000,36000,0.07,100,2015,B
+Himachal Pradesh,DRPGMC Kangra at Tanda,Govt,MBBS,AIQ,13000,33000,0.07,100,1997,B+
+Himachal Pradesh,AIIMS Bilaspur,Central,MBBS,AIQ,180,1100,0.0,100,2019,A+
+Himachal Pradesh,"HP Govt Dental College, Shimla",Govt,BDS,AIQ,50000,120000,0.06,40,1966,B+
+Jammu & Kashmir,GMC Srinagar,Govt,MBBS,AIQ,14000,35000,0.08,100,1959,A
+Jammu & Kashmir,GMC Jammu,Govt,MBBS,AIQ,16000,38000,0.08,100,1973,A
+Jammu & Kashmir,GMC Anantnag,Govt,MBBS,AIQ,20000,46000,0.07,100,2015,B
+Jammu & Kashmir,GMC Baramulla,Govt,MBBS,AIQ,22000,50000,0.07,100,2017,B
+Jammu & Kashmir,GMC Doda,Govt,MBBS,AIQ,25000,56000,0.07,50,2017,B
+Jammu & Kashmir,AIIMS Jammu,Central,MBBS,AIQ,280,1600,0.0,100,2019,A+
+Jammu & Kashmir,AIIMS Rajouri,Central,MBBS,AIQ,350,2000,0.0,50,2022,A+
+Jammu & Kashmir,"Govt Dental College, Srinagar",Govt,BDS,AIQ,55000,130000,0.06,40,1978,B+
+Jammu & Kashmir,"Govt Dental College, Jammu",Govt,BDS,AIQ,58000,135000,0.06,40,1978,B+
+Jharkhand,"Rajendra Inst of Med Sciences, Ranchi",Govt,MBBS,AIQ,16000,38000,0.08,160,1960,A
+Jharkhand,PMCH Dhanbad,Govt,MBBS,AIQ,20000,46000,0.07,100,1949,B+
+Jharkhand,"Mahatma Gandhi Memorial MC, Jamshedpur",Govt,MBBS,AIQ,23000,52000,0.07,100,1961,B+
+Jharkhand,"Shaheed Nirmal Mahto MC, Dhanbad",Govt,MBBS,AIQ,26000,58000,0.07,100,2012,B
+Jharkhand,Medica Inst of Med Sciences,Private,MBBS,State,8000,50000,10.5,100,2012,B
+Jharkhand,"Manipal Tata Medical College, Jamshedpur",Deemed,MBBS,AIQ,10000,30000,18.0,100,2016,A
+Jharkhand,"Dental Inst RIMS, Ranchi",Govt,BDS,AIQ,70000,160000,0.06,40,1960,B+
+Karnataka,Bangalore Medical College & RI,Govt,MBBS,AIQ,1200,5500,0.07,250,1955,A+
+Karnataka,Mysore Medical College & RI,Govt,MBBS,AIQ,2500,9000,0.07,200,1924,A+
+Karnataka,Shimoga Inst of Medical Sciences,Govt,MBBS,AIQ,4000,13000,0.07,150,2006,A
+Karnataka,Bidar Inst of Medical Sciences,Govt,MBBS,AIQ,5000,15000,0.07,100,2007,B+
+Karnataka,Kodagu Institute of Medical Sci,Govt,MBBS,AIQ,6000,17000,0.07,100,2012,B
+Karnataka,Vijayanagara Inst of Medical Sciences,Govt,MBBS,AIQ,3500,11000,0.07,200,1986,A
+Karnataka,Hassan Inst of Medical Sciences,Govt,MBBS,AIQ,4500,14000,0.07,100,2009,B+
+Karnataka,"Karnataka Inst of Medical Sciences, Hubli",Govt,MBBS,AIQ,3000,10000,0.07,200,1957,A
+Karnataka,"MS Ramaiah Medical College, Bengaluru",Private,MBBS,AIQ,4500,16000,14.0,150,1979,A+
+Karnataka,Kasturba MC Manipal,Deemed,MBBS,AIQ,1800,7500,22.0,250,1953,A+
+Karnataka,Kasturba MC Mangalore,Deemed,MBBS,AIQ,2800,9500,22.0,150,1955,A+
+Karnataka,"St John's Medical College, Bengaluru",Private,MBBS,AIQ,3500,12500,13.5,100,1963,A+
+Karnataka,JJMC Davangere,Private,MBBS,AIQ,5000,17000,11.5,150,1965,A
+Karnataka,"JSS Medical College, Mysuru",Deemed,MBBS,AIQ,4000,14000,15.5,150,1984,A+
+Karnataka,"SDM College of Medical Sciences, Dharwad",Deemed,MBBS,AIQ,4800,16000,12.0,100,1989,A
+Karnataka,KIMS Hubballi,Private,MBBS,State,4000,26000,13.0,150,1984,A
+Karnataka,Vydehi Inst of Medical Sciences,Private,MBBS,State,5000,30000,12.5,150,2000,B+
+Karnataka,"Adichunchanagiri MC, Mandya",Private,MBBS,State,5000,28000,13.5,150,1986,B+
+Karnataka,"Basaveshwara MC, Chitradurga",Private,MBBS,State,6000,32000,12.0,150,1981,B+
+Karnataka,AIIMS Mangalore,Central,MBBS,AIQ,220,1400,0.0,100,2022,A+
+Karnataka,Rajiv Gandhi Univ (Dental),Govt,BDS,AIQ,28000,75000,0.07,60,1965,A
+Karnataka,Manipal College of Dental Sciences,Deemed,BDS,AIQ,12000,42000,8.0,60,1965,A+
+Karnataka,SDM College of Dental Sciences,Deemed,BDS,AIQ,15000,50000,7.0,60,1982,A
+Karnataka,Dayananda Sagar Dental College,Private,BDS,State,3000,22000,4.5,100,2007,B
+Karnataka,Vydehi Institute of Dental Sciences,Private,BDS,State,4000,26000,4.0,100,2004,B
+Karnataka,"Govt Ayurvedic MC, Mysuru",Govt,BAMS,State,500,5000,0.06,60,1924,B+
+Karnataka,"SDM Ayurveda College, Udupi",Private,BAMS,State,1000,8000,1.5,60,1959,B+
+Kerala,Medical College Trivandrum,Govt,MBBS,AIQ,1800,7500,0.07,250,1951,A+
+Kerala,Kozhikode (Calicut) Medical College,Govt,MBBS,AIQ,2800,10000,0.07,200,1957,A+
+Kerala,Kottayam Medical College,Govt,MBBS,AIQ,3800,12500,0.07,150,1962,A
+Kerala,Thrissur Medical College,Govt,MBBS,AIQ,4800,14500,0.07,150,1981,A
+Kerala,Kollam (Pariyaram) Medical College,Govt,MBBS,AIQ,5500,16000,0.07,150,2004,A
+Kerala,Alappuzha Medical College,Govt,MBBS,AIQ,4000,13000,0.07,150,1964,A
+Kerala,Manjeri Medical College,Govt,MBBS,AIQ,6500,18000,0.07,150,2014,B+
+Kerala,Ernakulam Medical College,Govt,MBBS,AIQ,7000,19000,0.07,150,2016,B+
+Kerala,"Amrita Inst of Medical Sciences, Kochi",Deemed,MBBS,AIQ,3200,11000,18.0,100,1998,A+
+Kerala,"Pushpagiri Medical College, Tiruvalla",Private,MBBS,State,3800,26000,12.0,100,1983,A
+Kerala,"Jubilee Mission Med College, Thrissur",Private,MBBS,State,4500,30000,11.5,100,1978,A
+Kerala,"PK Das Inst of Med Sciences, Vaniamkulam",Private,MBBS,State,5000,32000,12.5,100,2003,B+
+Kerala,Malankara Orthodox Syrian MC,Private,MBBS,State,5500,35000,11.0,100,1994,B+
+Kerala,SUT Academy of Medical Sciences,Private,MBBS,State,6000,38000,13.5,100,2012,B
+Kerala,MOSC MC Kolenchery,Private,MBBS,State,5000,32000,10.5,100,1980,B+
+Kerala,"Govt Dental College, Trivandrum",Govt,BDS,AIQ,22000,65000,0.07,40,1962,A
+Kerala,"Govt Dental College, Calicut",Govt,BDS,AIQ,25000,70000,0.07,40,1964,A
+Kerala,"Govt Dental College, Kottayam",Govt,BDS,AIQ,28000,75000,0.07,40,1971,A
+Kerala,PMS College of Dental Science,Private,BDS,State,2000,18000,4.5,60,2004,B
+Kerala,Amrita School of Dentistry,Deemed,BDS,AIQ,8000,35000,8.0,60,1999,A+
+Kerala,"Govt Ayurvedic College, Trivandrum",Govt,BAMS,State,300,3500,0.06,60,1958,A
+Kerala,"Vaidyaratnam PSV MC, Thrissur",Private,BAMS,State,800,6000,1.8,60,1976,B+
+Madhya Pradesh,"Gandhi Medical College, Bhopal",Govt,MBBS,AIQ,18000,42000,0.09,200,1955,A+
+Madhya Pradesh,"MGM Medical College, Indore",Govt,MBBS,AIQ,20000,46000,0.09,200,1948,A
+Madhya Pradesh,"GR Medical College, Gwalior",Govt,MBBS,AIQ,22000,50000,0.09,200,1946,A
+Madhya Pradesh,"NS Medical College, Jabalpur",Govt,MBBS,AIQ,25000,56000,0.08,150,1955,A
+Madhya Pradesh,"Bundelkhand Medical College, Sagar",Govt,MBBS,AIQ,28000,62000,0.08,100,1969,B+
+Madhya Pradesh,"RD Gardi Medical College, Ujjain",Govt,MBBS,AIQ,30000,67000,0.08,100,2017,B
+Madhya Pradesh,"Govt Medical College, Rewa",Govt,MBBS,AIQ,27000,60000,0.08,100,1963,B+
+Madhya Pradesh,AIIMS Bhopal,Central,MBBS,AIQ,180,900,0.0,100,2012,A+
+Madhya Pradesh,"Index Medical College, Indore",Private,MBBS,State,6000,42000,10.5,150,2009,B
+Madhya Pradesh,"Sri Aurobindo Med College, Indore",Private,MBBS,State,5000,38000,11.0,150,2003,B+
+Madhya Pradesh,"LN Medical College, Bhopal",Private,MBBS,State,8000,50000,10.0,150,2012,B
+Madhya Pradesh,"People's Medical College, Bhopal",Private,MBBS,State,7000,45000,11.5,150,2006,B
+Madhya Pradesh,"Chirayu Medical College, Bhopal",Private,MBBS,State,9000,52000,10.0,150,2009,B
+Madhya Pradesh,"Govt Dental College, Bhopal",Govt,BDS,AIQ,75000,170000,0.06,40,1955,A
+Madhya Pradesh,"Govt Dental College, Indore",Govt,BDS,AIQ,80000,180000,0.06,40,1948,A
+Madhya Pradesh,"Govt Dental College, Gwalior",Govt,BDS,AIQ,85000,185000,0.06,40,1946,B+
+Madhya Pradesh,"Govt Ayurvedic College, Bhopal",Govt,BAMS,State,500,5000,0.06,60,1970,B
+Madhya Pradesh,Pt Khushilal Sharma Ayurvedic MC,Govt,BAMS,State,600,6000,0.06,60,1975,B
+Maharashtra,"Grant Medical College, Mumbai",Govt,MBBS,AIQ,900,4500,0.07,200,1845,A+
+Maharashtra,"Seth GS Medical College, Mumbai",Govt,MBBS,AIQ,700,3800,0.07,200,1926,A+
+Maharashtra,"BJ Medical College, Pune",Govt,MBBS,AIQ,1100,5500,0.07,200,1946,A+
+Maharashtra,Nagpur Medical College,Govt,MBBS,AIQ,1900,8000,0.07,180,1947,A+
+Maharashtra,Nair Hospital Medical College,Govt,MBBS,AIQ,1400,6500,0.07,150,1925,A+
+Maharashtra,"Lokmanya Tilak MC, Mumbai",Govt,MBBS,AIQ,1600,7000,0.07,200,1964,A
+Maharashtra,"Government Medical College, Aurangabad",Govt,MBBS,AIQ,2500,9500,0.07,200,1956,A
+Maharashtra,"Govt Medical College, Latur",Govt,MBBS,AIQ,3500,12000,0.07,150,1997,A
+Maharashtra,"Govt Medical College, Miraj",Govt,MBBS,AIQ,3000,11000,0.07,150,1962,A
+Maharashtra,TNMC & BYL Nair Hospital,Govt,MBBS,AIQ,1300,6000,0.07,200,1921,A+
+Maharashtra,AIIMS Nagpur,Central,MBBS,AIQ,130,800,0.0,100,2018,A+
+Maharashtra,"Armed Forces Medical College, Pune",Central,MBBS,AIQ,100,600,0.0,150,1948,A+
+Maharashtra,Kasturba Health Society MC,Private,MBBS,State,2000,18000,14.0,100,1956,A
+Maharashtra,"Bharati Vidyapeeth MC, Pune",Deemed,MBBS,AIQ,3800,14000,13.5,150,1989,A
+Maharashtra,"DY Patil Medical College, Navi Mumbai",Deemed,MBBS,AIQ,2800,11000,18.0,150,2002,A
+Maharashtra,DY Patil MC Kolhapur,Deemed,MBBS,AIQ,4500,16000,17.0,150,2011,B+
+Maharashtra,"MGM Medical College, Navi Mumbai",Private,MBBS,AIQ,3200,12000,14.0,150,1999,A
+Maharashtra,"Krishna Vishwa Vidyapeeth, Karad",Deemed,MBBS,AIQ,5000,18000,12.0,150,1981,A
+Maharashtra,"Jawaharlal Nehru MC, Wardha",Deemed,MBBS,AIQ,4000,14500,13.0,150,1991,A
+Maharashtra,"Govt Dental College, Mumbai",Govt,BDS,AIQ,18000,55000,0.07,60,1938,A+
+Maharashtra,"Govt Dental College, Nagpur",Govt,BDS,AIQ,22000,65000,0.07,60,1947,A+
+Maharashtra,"Govt Dental College, Aurangabad",Govt,BDS,AIQ,25000,70000,0.07,40,1956,A
+Maharashtra,Nair Hospital Dental College,Govt,BDS,AIQ,20000,60000,0.07,60,1954,A+
+Maharashtra,"MGV's KBH Dental College, Nasik",Private,BDS,State,2000,16000,3.8,100,2000,B+
+Maharashtra,"Pravara Dental College, Loni",Deemed,BDS,AIQ,10000,35000,5.5,100,1992,B+
+Maharashtra,Annasaheb Chudaman Patil MC,Private,MBBS,State,6000,35000,13.0,150,2009,B
+Maharashtra,"Govt Ayurvedic MC, Nagpur",Govt,BAMS,State,300,4000,0.06,60,1958,B+
+Maharashtra,Bharati Vidyapeeth (Ayurveda),Deemed,BAMS,State,800,7000,1.8,60,1998,B+
+Manipur,"Regional Inst of Medical Sciences, Imphal",Govt,MBBS,AIQ,38000,85000,0.08,100,1972,B+
+Manipur,JNIMS Imphal,Govt,MBBS,AIQ,45000,100000,0.08,100,2009,B
+Manipur,Churachandpur Medical College,Private,MBBS,State,10000,60000,10.0,100,2018,C
+Meghalaya,NEIGRIHMS Shillong,Central,MBBS,AIQ,28000,65000,0.06,50,2009,A
+Meghalaya,Nazareth Hospital Medical College,Private,MBBS,State,12000,65000,10.5,100,2020,B
+Mizoram,"Zoram Medical College, Falkawn",Govt,MBBS,AIQ,52000,115000,0.08,50,2018,B
+Nagaland,Naga Hospital Authority MC,Govt,MBBS,State,1000,8000,0.07,50,2022,C
+Odisha,"SCB Medical College, Cuttack",Govt,MBBS,AIQ,7000,20000,0.08,250,1944,A
+Odisha,"VSS Medical College, Burla",Govt,MBBS,AIQ,9000,24000,0.08,200,1956,A
+Odisha,"MKCG Medical College, Berhampur",Govt,MBBS,AIQ,11000,28000,0.07,200,1962,A
+Odisha,"SLN Medical College, Koraput",Govt,MBBS,AIQ,18000,42000,0.07,100,2014,B
+Odisha,"Pandit Raghunath Murmu MC, Baripada",Govt,MBBS,AIQ,16000,38000,0.07,100,2012,B
+Odisha,AIIMS Bhubaneswar,Central,MBBS,AIQ,160,850,0.0,100,2012,A+
+Odisha,"Hi-Tech Medical College, Bhubaneswar",Private,MBBS,State,4000,35000,11.5,150,2008,B+
+Odisha,Kalinga Inst of Medical Sciences,Private,MBBS,State,3000,30000,13.5,150,2008,B+
+Odisha,"Sum Medical College, Bhubaneswar",Private,MBBS,State,5000,38000,12.0,150,2007,B+
+Odisha,"Govt Dental College, Cuttack",Govt,BDS,AIQ,58000,140000,0.06,40,1944,A
+Puducherry,JIPMER Puducherry,Central,MBBS,AIQ,1,100,0.0,150,1956,A+
+Puducherry,JIPMER Puducherry,Central,BDS,AIQ,2000,12000,0.0,30,1956,A+
+Puducherry,"Aarupadai Veedu MC, Puducherry",Deemed,MBBS,AIQ,15000,38000,12.5,100,1990,B+
+Puducherry,"Vinayaka Missions MC, Salem",Deemed,MBBS,AIQ,18000,45000,11.5,100,1998,B
+Puducherry,Sri Manakula Vinayagar MC,Private,MBBS,State,5000,35000,11.0,150,2000,B
+Puducherry,"Govt Dental College, Puducherry",Govt,BDS,AIQ,30000,80000,0.07,40,1956,A
+Punjab,"Govt Medical College, Amritsar",Govt,MBBS,AIQ,4500,14000,0.08,200,1864,A+
+Punjab,"Govt Medical College, Patiala",Govt,MBBS,AIQ,6000,17000,0.08,200,1953,A
+Punjab,"Guru Gobind Singh MC, Faridkot",Govt,MBBS,AIQ,7500,20000,0.08,100,1973,A
+Punjab,"Govt Medical College, Chandigarh (PGIMER)",Govt,MBBS,AIQ,800,4000,0.08,50,1962,A+
+Punjab,AIIMS Bathinda,Central,MBBS,AIQ,220,1300,0.0,100,2018,A+
+Punjab,"DMC & Hospital, Ludhiana",Private,MBBS,AIQ,3500,13000,12.0,100,1975,A
+Punjab,"Christian Medical College, Ludhiana",Private,MBBS,AIQ,3000,12000,8.5,60,1894,A+
+Punjab,Sri Guru Ram Dass Inst MC,Private,MBBS,State,4000,32000,10.5,100,2007,B+
+Punjab,"Adesh Medical College, Bathinda",Private,MBBS,State,6000,42000,11.5,100,2012,B
+Punjab,"Gian Sagar Medical College, Banur",Private,MBBS,State,8000,48000,10.0,150,2008,B
+Punjab,"Govt Dental College, Amritsar",Govt,BDS,AIQ,42000,105000,0.07,40,1947,A
+Punjab,"Govt Dental College, Patiala",Govt,BDS,AIQ,45000,110000,0.07,40,1953,A
+Rajasthan,"SMS Medical College, Jaipur",Govt,MBBS,AIQ,2800,9500,0.08,250,1947,A+
+Rajasthan,"RNT Medical College, Udaipur",Govt,MBBS,AIQ,4500,14000,0.08,200,1953,A
+Rajasthan,"SN Medical College, Jodhpur",Govt,MBBS,AIQ,5500,16000,0.08,200,1965,A
+Rajasthan,"JLN Medical College, Ajmer",Govt,MBBS,AIQ,6500,18500,0.08,200,1965,A
+Rajasthan,"SP Medical College, Bikaner",Govt,MBBS,AIQ,7500,21000,0.08,200,1965,A
+Rajasthan,"Govt Medical College, Kota",Govt,MBBS,AIQ,8000,22000,0.07,150,2002,B+
+Rajasthan,Jhalawar Medical College,Govt,MBBS,AIQ,7000,19500,0.07,100,2010,B+
+Rajasthan,RUHS College of Medical Sciences,Govt,MBBS,AIQ,6000,17000,0.07,100,2014,B+
+Rajasthan,"Govt Medical College, Bharatpur",Govt,MBBS,AIQ,10000,26000,0.07,100,2014,B
+Rajasthan,"Govt Medical College, Barmer",Govt,MBBS,AIQ,12000,30000,0.07,100,2016,B
+Rajasthan,AIIMS Jodhpur,Central,MBBS,AIQ,160,800,0.0,100,2012,A+
+Rajasthan,"Mahatma Gandhi MC, Jaipur",Private,MBBS,State,4000,30000,11.5,150,2000,B+
+Rajasthan,"Pacific Medical College, Udaipur",Private,MBBS,State,6000,40000,10.5,150,2007,B
+Rajasthan,NIMS University MC,Private,MBBS,State,7000,44000,10.0,150,2008,B
+Rajasthan,"Geetanjali Medical College, Udaipur",Private,MBBS,State,5000,36000,13.5,150,2008,B+
+Rajasthan,"Govt Dental College, Jaipur",Govt,BDS,AIQ,32000,85000,0.07,40,1947,A
+Rajasthan,"Govt Dental College, Jodhpur",Govt,BDS,AIQ,36000,92000,0.07,40,1965,A
+Rajasthan,"Govt Dental College, Ajmer",Govt,BDS,AIQ,38000,95000,0.07,40,1965,B+
+Rajasthan,"Govt Ayurvedic College, Jaipur",Govt,BAMS,State,400,4500,0.07,100,1956,B+
+Sikkim,Sikkim Manipal Inst of Medical Sciences,Deemed,MBBS,AIQ,25000,60000,13.0,100,1995,B+
+Sikkim,Central Referral Hospital (SMIMS),Deemed,MBBS,State,8000,45000,12.5,100,1995,B
+Tamil Nadu,"Madras Medical College, Chennai",Govt,MBBS,AIQ,450,2800,0.06,250,1835,A+
+Tamil Nadu,"Stanley Medical College, Chennai",Govt,MBBS,AIQ,700,4200,0.06,200,1938,A+
+Tamil Nadu,"Kilpauk Medical College, Chennai",Govt,MBBS,AIQ,900,5000,0.06,200,1960,A+
+Tamil Nadu,Coimbatore Medical College,Govt,MBBS,AIQ,1300,6200,0.06,200,1964,A+
+Tamil Nadu,Tirunelveli Medical College,Govt,MBBS,AIQ,1600,7200,0.06,200,1965,A
+Tamil Nadu,Madurai Medical College,Govt,MBBS,AIQ,1100,5800,0.06,200,1954,A
+Tamil Nadu,Chengalpattu Medical College,Govt,MBBS,AIQ,2000,8500,0.06,200,1964,A
+Tamil Nadu,Thanjavur Medical College,Govt,MBBS,AIQ,1800,8000,0.06,200,1959,A
+Tamil Nadu,Kanyakumari Government MC,Govt,MBBS,AIQ,2200,9000,0.06,200,2015,B+
+Tamil Nadu,Dharmapuri Medical College,Govt,MBBS,AIQ,2500,9800,0.06,200,2014,B+
+Tamil Nadu,"PSG Inst of Med Sciences, Coimbatore",Private,MBBS,AIQ,2200,9500,13.5,150,1984,A+
+Tamil Nadu,"Sri Ramachandra Inst, Chennai",Deemed,MBBS,AIQ,1800,8500,17.5,150,1985,A+
+Tamil Nadu,"Chettinad Hospital & RI, Chennai",Deemed,MBBS,AIQ,2800,11000,16.0,150,1999,A
+Tamil Nadu,AIIMS Madurai,Central,MBBS,AIQ,190,1050,0.0,100,2021,A+
+Tamil Nadu,"Christian Medical College, Vellore",Deemed,MBBS,AIQ,280,1400,5.0,100,1900,A+
+Tamil Nadu,"SRM Medical College, Kattankulathur",Deemed,MBBS,AIQ,5000,18000,17.0,150,2002,A
+Tamil Nadu,"Meenakshi Medical College, Chennai",Private,MBBS,State,3000,25000,12.5,150,1999,B+
+Tamil Nadu,"Vinayaka Missions MC, Salem",Deemed,MBBS,AIQ,16000,42000,11.5,150,2001,B+
+Tamil Nadu,"ACS Medical College, Chennai",Private,MBBS,State,4000,30000,13.0,150,2006,B
+Tamil Nadu,Saveetha Medical College,Deemed,MBBS,AIQ,6000,20000,16.5,150,2008,B+
+Tamil Nadu,"Govt Dental College, Chennai",Govt,BDS,AIQ,15000,48000,0.06,50,1920,A+
+Tamil Nadu,"Govt Dental College, Madurai",Govt,BDS,AIQ,18000,55000,0.06,40,1954,A+
+Tamil Nadu,"Govt Dental College, Trichy",Govt,BDS,AIQ,20000,60000,0.06,40,1960,A
+Tamil Nadu,"Saveetha Dental College, Chennai",Deemed,BDS,AIQ,8000,30000,7.5,100,1988,A
+Tamil Nadu,"SRM Dental College, Chennai",Deemed,BDS,AIQ,10000,35000,7.0,100,2002,B+
+Tamil Nadu,Meenakshi Ammal Dental College,Deemed,BDS,AIQ,9000,32000,6.5,100,1988,B+
+Tamil Nadu,"Govt Ayurvedic College, Chennai",Govt,BAMS,State,500,5000,0.06,50,1952,B+
+Telangana,"Osmania Medical College, Hyderabad",Govt,MBBS,AIQ,3800,12500,0.07,200,1846,A+
+Telangana,"Gandhi Medical College, Hyderabad",Govt,MBBS,AIQ,3200,11000,0.07,200,1954,A+
+Telangana,"Kakatiya Medical College, Warangal",Govt,MBBS,AIQ,4800,14500,0.07,150,1959,A
+Telangana,"Govt Medical College, Nizamabad",Govt,MBBS,AIQ,8000,21000,0.07,150,2009,B+
+Telangana,"Govt Medical College, Suryapet",Govt,MBBS,AIQ,9000,23000,0.07,150,2016,B
+Telangana,"Govt Medical College, Nalgonda",Govt,MBBS,AIQ,8500,22000,0.07,150,2016,B
+Telangana,Nizam's Inst of Medical Sciences,Govt,MBBS,AIQ,1800,7500,0.07,150,1963,A+
+Telangana,AIIMS Bibinagar,Central,MBBS,AIQ,190,1050,0.0,100,2018,A+
+Telangana,"Apollo Medical College, Hyderabad",Private,MBBS,State,3000,25000,16.0,150,2002,A
+Telangana,"Yashoda Medical College, Hyderabad",Private,MBBS,State,4000,30000,14.5,150,2007,B+
+Telangana,"MNR Medical College, Sangareddy",Private,MBBS,State,5000,35000,13.0,150,2009,B
+Telangana,Deccan College of Med Sciences,Private,MBBS,State,6000,38000,12.5,150,1983,B+
+Telangana,Shadan Inst of Medical Sciences,Private,MBBS,State,7000,42000,11.5,100,2008,B
+Telangana,Mahavir Inst of Med Sciences,Private,MBBS,State,8000,46000,11.0,100,2012,C
+Telangana,"Govt Dental College, Hyderabad",Govt,BDS,AIQ,25000,70000,0.07,40,1954,A+
+Telangana,"Govt Dental College, Afzalgunj",Govt,BDS,AIQ,28000,75000,0.07,40,1963,A
+Telangana,Panineeya Inst of Dental Sciences,Private,BDS,State,2500,20000,4.8,100,2006,B
+Telangana,Kamineni Inst of Dental Sciences,Deemed,BDS,AIQ,12000,40000,5.5,100,2011,B+
+Telangana,"Govt Ayurvedic College, Hyderabad",Govt,BAMS,State,400,4000,0.07,60,1946,B+
+Tripura,Agartala Govt Medical College,Govt,MBBS,AIQ,38000,86000,0.08,100,1981,B+
+Tripura,AIIMS Tripura (Gomati),Central,MBBS,AIQ,380,2200,0.0,50,2020,A+
+Uttar Pradesh,"King George's Medical University, Lucknow",Govt,MBBS,AIQ,1800,7500,0.08,250,1905,A+
+Uttar Pradesh,"Moti Lal Nehru Med College, Allahabad",Govt,MBBS,AIQ,5500,16000,0.08,200,1961,A
+Uttar Pradesh,"BRD Medical College, Gorakhpur",Govt,MBBS,AIQ,7000,19000,0.08,200,1969,A
+Uttar Pradesh,"MLN Medical College, Allahabad",Govt,MBBS,AIQ,6000,17500,0.08,200,1961,A
+Uttar Pradesh,"Sarojini Naidu Medical College, Agra",Govt,MBBS,AIQ,9000,23000,0.07,200,1854,A
+Uttar Pradesh,"Govt Medical College, Kannauj",Govt,MBBS,AIQ,11000,27000,0.07,100,2011,B
+Uttar Pradesh,"Govt Medical College, Jalaun",Govt,MBBS,AIQ,12000,29000,0.07,100,2014,B
+Uttar Pradesh,"Govt Medical College, Azamgarh",Govt,MBBS,AIQ,13000,31000,0.07,100,2016,B
+Uttar Pradesh,SGPGI Lucknow,Central,MBBS,AIQ,900,4200,0.07,60,1983,A+
+Uttar Pradesh,AIIMS Gorakhpur,Central,MBBS,AIQ,230,1250,0.0,100,2019,A+
+Uttar Pradesh,AIIMS Rae Bareli,Central,MBBS,AIQ,280,1500,0.0,100,2020,A+
+Uttar Pradesh,ERA's Lucknow Medical College,Private,MBBS,State,4000,36000,10.5,150,1999,B
+Uttar Pradesh,"Rama Medical College, Hapur",Private,MBBS,State,5000,40000,10.0,150,2007,B
+Uttar Pradesh,"GS Medical College, Hapur",Private,MBBS,State,6000,42000,10.5,150,2009,B
+Uttar Pradesh,"Teerthanker Mahaveer MC, Moradabad",Private,MBBS,State,5000,38000,11.0,150,2003,B+
+Uttar Pradesh,Muzaffarnagar Medical College,Private,MBBS,State,7000,44000,9.5,150,2007,B
+Uttar Pradesh,"Rohilkhand Medical College, Bareilly",Private,MBBS,State,8000,48000,9.0,150,2008,B
+Uttar Pradesh,"Hind Medical College, Lucknow",Private,MBBS,State,9000,52000,9.0,100,2012,C
+Uttar Pradesh,"KGMU Dental College, Lucknow",Govt,BDS,AIQ,20000,60000,0.08,40,1905,A+
+Uttar Pradesh,"Dental College GSVM MC, Kanpur",Govt,BDS,AIQ,25000,68000,0.07,40,1960,A
+Uttar Pradesh,"Kothiwal Dental College, Moradabad",Private,BDS,State,2000,16000,3.8,100,1994,B
+Uttar Pradesh,"Saraswati Dental College, Lucknow",Private,BDS,State,2500,18000,3.5,100,2001,B
+Uttar Pradesh,"Govt Ayurvedic College, Lucknow",Govt,BAMS,State,300,4000,0.07,100,1888,A
+Uttar Pradesh,"Rajkiya Ayurvedic College, Varanasi",Govt,BAMS,State,400,5000,0.07,100,1957,B+
+Uttar Pradesh,UP Rural Inst of Medical Sciences,Govt,MBBS,AIQ,10000,25000,0.07,100,2009,B+
+Uttarakhand,AIIMS Rishikesh,Central,MBBS,AIQ,90,550,0.0,100,2012,A+
+Uttarakhand,AIIMS Rishikesh,Central,BDS,AIQ,4500,16000,0.0,30,2012,A+
+Uttarakhand,HNB Medical Education Univ (Srinagar),Govt,MBBS,AIQ,28000,65000,0.08,100,1989,B+
+Uttarakhand,"Govt Medical College, Haldwani",Govt,MBBS,AIQ,25000,58000,0.08,100,2009,B+
+Uttarakhand,Veer Chandra Singh Garhwali MC,Govt,MBBS,AIQ,30000,68000,0.08,100,2014,B
+Uttarakhand,"Shri Guru Ram Rai Inst, Dehradun",Private,MBBS,State,4000,35000,11.0,100,2003,B+
+Uttarakhand,Himalayan Inst of Medical Sciences,Private,MBBS,State,5000,40000,11.5,100,1985,B+
+Uttarakhand,Graphic Era Medical College,Private,MBBS,State,6000,44000,12.0,100,2020,B
+Uttarakhand,Uttaranch Dental & Medical Res Inst,Private,BDS,State,2000,15000,3.5,60,2007,B
+West Bengal,"Medical College, Kolkata",Govt,MBBS,AIQ,1000,5000,0.07,200,1835,A+
+West Bengal,"NRS Medical College, Kolkata",Govt,MBBS,AIQ,1400,6500,0.07,200,1873,A+
+West Bengal,"SSKM & IPGMER, Kolkata",Govt,MBBS,AIQ,900,4500,0.07,100,1707,A+
+West Bengal,"RG Kar Medical College, Kolkata",Govt,MBBS,AIQ,1800,8000,0.07,200,1916,A
+West Bengal,"North Bengal Medical College, Siliguri",Govt,MBBS,AIQ,3800,12000,0.07,150,1968,A
+West Bengal,Bankura Sammilani Medical College,Govt,MBBS,AIQ,4800,14500,0.07,150,1978,A
+West Bengal,Murshidabad Medical College,Govt,MBBS,AIQ,5800,17000,0.07,100,2012,B+
+West Bengal,Calcutta National Medical College,Govt,MBBS,AIQ,2800,10500,0.07,150,1948,A
+West Bengal,Burdwan Medical College,Govt,MBBS,AIQ,3200,11500,0.07,150,1969,A
+West Bengal,Midnapore Medical College,Govt,MBBS,AIQ,4000,12500,0.07,150,1981,A
+West Bengal,Malda Medical College,Govt,MBBS,AIQ,6500,18500,0.07,100,2014,B
+West Bengal,Purulia Govt Medical College,Govt,MBBS,AIQ,7000,20000,0.07,100,2016,B
+West Bengal,AIIMS Kalyani,Central,MBBS,AIQ,180,1100,0.0,100,2019,A+
+West Bengal,Calcutta Medical College (Dental),Govt,BDS,AIQ,14000,48000,0.07,60,1920,A+
+West Bengal,North Bengal Dental College,Govt,BDS,AIQ,18000,56000,0.07,40,1968,A
+West Bengal,"Institute of Dental Sciences, Bhubaneswar",Private,BDS,State,3000,22000,5.0,60,2007,B
+West Bengal,Haldia Inst of Dental Sciences,Private,BDS,State,4000,26000,4.5,60,2009,B
+West Bengal,Guru Nanak Inst of Dental Sciences,Private,BDS,State,3500,24000,4.8,60,2008,B
+West Bengal,JR Bhalotia College of Dentistry,Private,BDS,State,5000,30000,4.5,60,2013,B
+West Bengal,"Govt Homeopathic MC, Kolkata",Govt,BHMS,State,200,3000,0.06,50,1951,B+
+West Bengal,DT Medical College (Homeo),Private,BHMS,State,800,7000,1.2,60,1988,B

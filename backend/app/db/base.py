@@ -1,5 +1,4 @@
-from sqlalchemy.orm import DeclarativeBase
+from app.db.base_class import Base  
 
-
-class Base(DeclarativeBase):
-    pass
+import app.models.college  
+import app.models.cutoff   
