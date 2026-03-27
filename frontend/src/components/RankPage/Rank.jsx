@@ -2,8 +2,10 @@ import React from "react";
 import './rank.css'
 import { FaLinkedin, FaEnvelope, FaTwitter } from "react-icons/fa";
 import { FaShieldAlt, FaTrophy, FaStar } from "react-icons/fa";
+import { useNavigate } from "react-router-dom";
 
 const Rank = () => {
+    const navigate = useNavigate();
     return (
         <div className="rank-page">
 
@@ -11,7 +13,9 @@ const Rank = () => {
             <div className="rank-navbar">
                 <div className="rank-container">
                     <h2>Rank Vision</h2>
-                    <p>About</p>
+                    <button onClick={() => navigate("/about")}>
+                        About
+                    </button>
                 </div>
             </div>
 
