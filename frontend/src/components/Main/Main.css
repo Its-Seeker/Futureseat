@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: outfit;
+  font-family: "Segoe UI", sans-serif;
 }
 
 .main-navbar {
@@ -25,13 +25,17 @@
   gap: 25px;
 }
 
-.main-nav-links li a {
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
+.main-nav-links li button {
+  background: transparent;      /* white hata diya */
+  border: none;                 /* border hata diya */
+  color: white;                 /* navbar ke hisaab se */
+  font-size: 16px;
+  cursor: pointer;
+  padding: 5px 10px;
 }
 
-.main-nav-links li a:hover {
+/* hover effect */
+.main-nav-links li button:hover {
   color: #38bdf8;
 }
 
@@ -98,4 +102,47 @@
   color:white;
   border-radius:5px;
   cursor:pointer;
+}
+
+/* footer */
+.Main-footer {
+  background-color: black;
+  color: white;
+  border-top: 1px solid #e5e7eb;
+  padding: 40px 0;
+}
+
+.footer-message{
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-message div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.footer-message h4 {
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.footer-message p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #6b7280;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.footer-message p:hover {
+  color: #2563eb;
 }
