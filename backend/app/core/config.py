@@ -1,12 +1,16 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from pydantic import Field, field_validator
 
-
 class Settings(BaseSettings):
     APP_NAME: str = "FutureSeat API"
     APP_ENV:  str = "development"
 
     DATABASE_URL: str
+    
+    # Add these back! Pydantic needs to know to look for them in the .env file.
+    ADMIN_USERNAME: str
+    ADMIN_PASSWORD: str
+    ADMIN_SESSION_SECRET: str
 
     CORS_ORIGINS: list[str] = Field(
         default_factory=lambda: [
@@ -14,10 +18,6 @@ class Settings(BaseSettings):
             "http://127.0.0.1:5173",
         ]
     )
-
-    ADMIN_USERNAME:       str = "admin"
-    ADMIN_PASSWORD:       str = "9100"
-    ADMIN_SESSION_SECRET: str = "AIzaSyDJ9nqv4VaV48Wi8v-HGyQjZbjZq7k2Q58"
 
     @field_validator("CORS_ORIGINS", mode="before")
     @classmethod
@@ -31,7 +31,8 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",
+        # Adding this prevents crashes if you have extra unused variables in your .env
+        extra="ignore" 
     )
-
 
 settings = Settings()
