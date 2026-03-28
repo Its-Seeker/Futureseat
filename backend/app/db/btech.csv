@@ -1,0 +1,1765 @@
+college	branch	category	gender	special	opening_rank	closing_rank
+DTU	CSE	GEN	Male		11352	15118
+DTU	CSE	GEN	Female		15118	27670
+DTU	CSE	EWS	Male		27670	31247
+DTU	CSE	EWS	Female		31247	49930
+DTU	CSE	OBC	Male		49930	60658
+DTU	CSE	OBC	Female		60658	109484
+DTU	CSE	SC	Male		109484	127751
+DTU	CSE	ST	Male		356659	375308
+DTU	CSE	ST	Female		375308	17868
+DTU	CSE	GEN	Male	Sports	17868	164943
+DTU	CSE	GEN	Male	PwD	164943	293227
+DTU	CSE	EWS	Male	PwD	293227	863726
+DTU	CSE	OBC	Male	PwD	863726	701955
+DTU	CSE-DA	GEN	Male		12442	19590
+DTU	CSE-DA	GEN	Female		19590	28333
+DTU	CSE-DA	OBC	Male		54273	57393
+DTU	CSE-DA	OBC	Female		57393	107590
+DTU	CSE-DA	GEN	Male	Sports	22510	164213
+DTU	IT	GEN	Male		14561	20121
+DTU	IT	GEN	Female		20121	33875
+DTU	IT	EWS	Male		33875	38505
+DTU	IT	EWS	Female		38505	70083
+DTU	IT	OBC	Male		70083	86242
+DTU	IT	OBC	Female		86242	134617
+DTU	IT	ST	Male		553889	747794
+DTU	IT	ST	Female		747794	24641
+DTU	IT	GEN	Male	Sports	24641	236246
+DTU	IT	GEN	Male	PwD	236246	327036
+DTU	IT	EWS	Male	PwD	327036	968761
+DTU	IT-CS	GEN	Male		19027	23570
+DTU	IT-CS	GEN	Female		23570	36194
+DTU	IT-CS	OBC	Male		83250	96775
+DTU	IT-CS	OBC	Female		96775	165771
+DTU	IT-CS	SC	Male		165771	208540
+DTU	IT-CS	GEN	Male	Sports	24313	226990
+DTU	SE	GEN	Male		18706	20996
+DTU	SE	GEN	Female		20996	42387
+DTU	SE	EWS	Male		42387	42751
+DTU	SE	EWS	Female		42751	80436
+DTU	SE	OBC	Male		80436	106011
+DTU	SE	OBC	Female		106011	175926
+DTU	SE	SC	Male		175926	197551
+DTU	SE	ST	Male		641245	667981
+DTU	SE	ST	Female		667981	23372
+DTU	SE	GEN	Male	Sports	23372	333904
+DTU	SE	GEN	Male	PwD	333904	345115
+DTU	MAC	GEN	Male		20458	23503
+DTU	MAC	GEN	Female		23503	49805
+DTU	MAC	EWS	Male		49805	61080
+DTU	MAC	EWS	Female		61080	100268
+DTU	MAC	OBC	Male		100268	115408
+DTU	MAC	OBC	Female		115408	200587
+DTU	MAC	SC	Male		200587	242941
+DTU	MAC	GEN	Male	Sports	28383	340318
+DTU	MAC	GEN	Male	PwD	340318	419962
+DTU	ECE	GEN	Male		22278	26356
+DTU	ECE	GEN	Female		26356	55620
+DTU	ECE	EWS	Male		55620	92816
+DTU	ECE	EWS	Female		92816	105320
+DTU	ECE	OBC	Male		105320	121035
+DTU	ECE	OBC	Female		121035	209811
+DTU	ECE	ST	Male		911267	967902
+DTU	ECE	ST	Female		967902	30102
+DTU	ECE	GEN	Male	Sports	30102	440684
+DTU	TECH	GEN	Male		24842	27868
+DTU	TECH	GEN	Female		27868	60649
+DTU	TECH	OBC	Male		109834	144448
+DTU	TECH	OBC	Female		144448	222503
+DTU	TECH	GEN	Male	Sports	52888	451368
+DTU	EE	GEN	Male		31589	42199
+DTU	EE	GEN	Female		42199	79048
+DTU	EE	EWS	Male		79048	132804
+DTU	EE	EWS	Female		132804	147712
+DTU	EE	OBC	Male		147712	192885
+DTU	EE	OBC	Female		192885	286821
+DTU	EE	SC	Male		286821	453582
+DTU	EE	GEN	Male	Sports	54655	838112
+DTU	ME	GEN	Male		44365	79234
+DTU	ME	GEN	Female		79234	110006
+DTU	ME	EWS	Male		110006	174639
+DTU	ME	EWS	Female		174639	183462
+DTU	ME	OBC	Male		183462	335482
+DTU	ME	OBC	Female		335482	378952
+DTU	ME	SC	Male		378952	661821
+DTU	ME	GEN	Male	Sports	91460	774676
+DTU	AUTO	GEN	Male		45443	57002
+DTU	AUTO	GEN	Female		57002	111566
+DTU	AUTO	OBC	Male		189390	322243
+DTU	AUTO	OBC	Female		322243	418258
+DTU	EP	GEN	Male		45024	56476
+DTU	EP	GEN	Female		56476	111899
+DTU	EP	OBC	Male		200344	236184
+DTU	EP	OBC	Female		236184	440143
+DTU	EP	SC	Male		440143	451812
+DTU	CHE	GEN	Male		49816	55917
+DTU	CHE	GEN	Female		55917	125062
+DTU	CHE	EWS	Male		125062	200985
+DTU	CHE	EWS	Female		200985	221288
+DTU	CHE	OBC	Male		221288	340919
+DTU	CHE	OBC	Female		340919	469072
+DTU	CHE	GEN	Male	Sports	95129	1279355
+DTU	CE	GEN	Male		56161	85250
+DTU	CE	GEN	Female		85250	134993
+DTU	CE	EWS	Male		134993	199792
+DTU	CE	EWS	Female		199792	236405
+DTU	CE	OBC	Male		236405	365974
+DTU	CE	OBC	Female		365974	475427
+DTU	CE	SC	Male		475427	668920
+DTU	CE	ST	Male		420855	810016
+DTU	CE	ST	Female		810016	136962
+DTU	CE	GEN	Male	Sports	136962	1071740
+DTU	PIE	GEN	Male		51783	83392
+DTU	PIE	GEN	Female		83392	129464
+DTU	PIE	OBC	Male		238229	411736
+DTU	PIE	OBC	Female		411736	499047
+DTU	PIE	SC	Male		499047	699975
+DTU	ENV	GEN	Male		58622	88486
+DTU	ENV	GEN	Female		88486	149774
+DTU	ENV	OBC	Male		245862	418006
+DTU	ENV	OBC	Female		418006	521018
+DTU	ENV	SC	Male		521018	653980
+DTU	ENV	GEN	Male	Sports	96556	1007481
+DTU	BT	GEN	Male		59055	80880
+DTU	BT	GEN	Female		80880	140244
+DTU	BT	EWS	Male		140244	203570
+DTU	BT	EWS	Female		203570	252856
+DTU	BT	OBC	Male		252856	418769
+DTU	BT	OBC	Female		418769	510076
+DTU	BT	GEN	Male	Sports	129631	916464
+DTU	CSE	GEN	Male	CW	205133	102477
+DTU	CSE	EWS	Male	CW	102477	86912
+DTU	CSE	SC	Male	CW	242191	476260
+DTU	CSE-DS	GEN	Male	CW	88380	115837
+DTU	CSE-DS	EWS	Male	CW	115837	95366
+DTU	IT-CS	GEN	Male	CW	393724	118959
+DTU	SE	GEN	Male	CW	1261139	137016
+DTU	SE	EWS	Male	CW	137016	160204
+DTU	MAC	GEN	Male	CW	24086	147398
+DTU	MAC	EWS	Male	CW	147398	181575
+DTU	ECE	GEN	Male	CW	40931	177633
+DTU	ECE	EWS	Male	CW	177633	188916
+DTU	EE	GEN	Male	CW	92984	240501
+DTU	EE	EWS	Male	CW	240501	384882
+DTU	ME	GEN	Male	CW	121599	124364
+DTU	ME	EWS	Male	CW	124364	699925
+DTU	ME-AUTO	GEN	Male	CW	116177	345801
+DTU	ME-AUTO	EWS	Male	CW	345801	559592
+DTU	CHE	GEN	Male	CW	152965	384417
+DTU	CHE	EWS	Male	CW	384417	350209
+DTU	CE	GEN	Male	CW	152423	342635
+DTU	CE	EWS	Male	CW	342635	688703
+DTU	CSE	GEN	Male		6200	6391
+DTU	CSE	GEN	Female		6391	8557
+DTU	CSE	EWS	Male		8557	12353
+DTU	CSE	OBC	Female		21525	53632
+DTU	CSE	SC	Male		53632	67313
+DTU	CSE	SC	Female		67313	92242
+DTU	CSE	GEN	Male	PwD	43518	152345
+DTU	CSE	EWS	Male	PwD	152345	134244
+DTU	CSE	OBC	Male	PwD	134244	1035172
+DTU	IT	SC	Male		61749	85292
+DTU	IT	SC	Female		85292	105678
+DTU	SE	GEN	Male		8165	11158
+DTU	SE	GEN	Female		11158	11153
+DTU	SE	GEN	Male	PwD	127567	213306
+DTU	MAC	GEN	Male		8348	11612
+DTU	MAC	GEN	Female		11612	11956
+DTU	ECE	SC	Male		85687	118125
+DTU	ECE	SC	Female		118125	89324
+DTU	ECE	ST	Male		89324	234478
+DTU	EE	GEN	Male		11227	12644
+DTU	EE	GEN	Female		12644	16450
+DTU	EE	OBC	Female		43567	108911
+DTU	EE	GEN	Male	PwD	340487	723998
+DTU	EE	EWS	Male	PwD	723998	592591
+DTU	ME	GEN	Male		16022	22085
+DTU	ME	GEN	Female		22085	20369
+DTU	ME	OBC	Female		51115	130322
+DTU	ME-AUTO	ST	Male		243131	391598
+DTU	ME-AUTO	ST	Female		391598	505224
+DTU	EP	OBC	Female		60488	133584
+DTU	CHE	OBC	Female		59488	142624
+DTU	PIE	GEN	Male		18665	28229
+DTU	PIE	GEN	Female		28229	27458
+DTU	ENV	GEN	Male		19949	29881
+DTU	ENV	GEN	Female		29881	28047
+DTU	BT	GEN	Male		19876	23292
+DTU	BT	GEN	Female		23292	28900
+DTU	CSE	OBC	Male	CW	867962	405412
+DTU	CSE	SC	Male	CW	405412	444900
+DTU	ECE	GEN	Male	CW	216593	88020
+DTU	ME	OBC	Male	CW	375936	274465
+IGDTUW	CSE-AI	GEN	Male		44405	44405
+IGDTUW	CSE	GEN	Male		50687	50687
+IGDTUW	ECE-AI	GEN	Male		75759	75759
+IGDTUW	ECE	GEN	Male		79574	79574
+IGDTUW	IT	GEN	Male		64223	64223
+IGDTUW	AI-ML	GEN	Male		64133	64133
+IGDTUW	MAE	GEN	Male		92818	92818
+IGDTUW	DMAM	GEN	Male		94672	94672
+IGDTUW	MAC	GEN	Male		69001	69001
+IGDTUW	B.Arch	GEN	Male		2977	2977
+IGDTUW	CSE-AI	GEN	Male	CW	73137	73137
+IGDTUW	CSE	GEN	Male	CW	103166	103166
+IGDTUW	ECE-AI	GEN	Male	CW	163090	163090
+IGDTUW	ECE	GEN	Male	CW	141971	141971
+IGDTUW	IT	GEN	Male	CW	121378	121378
+IGDTUW	AI-ML	GEN	Male	CW	106901	106901
+IGDTUW	MAE	GEN	Male	CW	188819	188819
+IGDTUW	DMAM	GEN	Male	CW	189095	189095
+IGDTUW	MAC	GEN	Male	CW	132749	132749
+IGDTUW	B.Arch	GEN	Male	CW	5547	5547
+IGDTUW	CSE-AI	GEN	Male	PwD	433013	433013
+IGDTUW	CSE	GEN	Male	PwD	313995	313995
+IGDTUW	ECE-AI	GEN	Male	PwD	1070615	1070615
+IGDTUW	ECE	GEN	Male	PwD	1360126	1360126
+IGDTUW	IT	GEN	Male	PwD	946450	946450
+IGDTUW	AI-ML	GEN	Male	PwD	518972	518972
+IGDTUW	MAC	GEN	Male	PwD	758044	758044
+IGDTUW	B.Arch	GEN	Male	PwD	5674	5674
+IGDTUW	CSE-AI	SC	Male		413693	413693
+IGDTUW	CSE	SC	Male		399917	399917
+IGDTUW	ECE-AI	SC	Male		698598	698598
+IGDTUW	ECE	SC	Male		597563	597563
+IGDTUW	IT	SC	Male		516592	516592
+IGDTUW	AI-ML	SC	Male		470209	470209
+IGDTUW	MAE	SC	Male		820634	820634
+IGDTUW	DMAM	SC	Male		856293	856293
+IGDTUW	MAC	SC	Male		617454	617454
+IGDTUW	B.Arch	SC	Male		21675	21675
+IGDTUW	CSE-AI	ST	Male		1183864	1183864
+IGDTUW	CSE	ST	Male		969509	969509
+IGDTUW	B.Arch	ST	Male		17580	17580
+IGDTUW	CSE-AI	OBC	Male		186225	186225
+IGDTUW	CSE	OBC	Male		204747	204747
+IGDTUW	ECE-AI	OBC	Male		339542	339542
+IGDTUW	ECE	OBC	Male		346713	346713
+IGDTUW	IT	OBC	Male		270817	270817
+IGDTUW	AI-ML	OBC	Male		280051	280051
+IGDTUW	MAE	OBC	Male		425801	425801
+IGDTUW	DMAM	OBC	Male		450146	450146
+IGDTUW	MAC	OBC	Male		306445	306445
+IGDTUW	B.Arch	OBC	Male		18619	18619
+IGDTUW	CSE-AI	OBC	Male	CW	324939	324939
+IGDTUW	CSE	OBC	Male	CW	371303	371303
+IGDTUW	ECE-AI	OBC	Male	CW	423703	423703
+IGDTUW	ECE	OBC	Male	CW	448138	448138
+IGDTUW	IT	OBC	Male	CW	396019	396019
+IGDTUW	AI-ML	OBC	Male	CW	377508	377508
+IGDTUW	MAE	OBC	Male	CW	491287	491287
+IGDTUW	MAC	OBC	Male	CW	479854	479854
+IGDTUW	CSE-AI	EWS	Male		90958	90958
+IGDTUW	CSE	EWS	Male		118163	118163
+IGDTUW	ECE-AI	EWS	Male		183883	183883
+IGDTUW	ECE	EWS	Male		192517	192517
+IGDTUW	IT	EWS	Male		151085	151085
+IGDTUW	AI-ML	EWS	Male		135852	135852
+IGDTUW	MAE	EWS	Male		244309	244309
+IGDTUW	DMAM	EWS	Male		245925	245925
+IGDTUW	MAC	EWS	Male		163983	163983
+IGDTUW	B.Arch	EWS	Male		18377	18377
+IGDTUW	CSE-AI	EWS	Male	CW	305236	305236
+IGDTUW	CSE	EWS	Male	CW	297111	297111
+IGDTUW	ECE-AI	EWS	Male	CW	556266	556266
+IGDTUW	AI-ML	EWS	Male	CW	638944	638944
+IGDTUW	MAE	EWS	Male	CW	273427	273427
+IGDTUW	CSE-AI	GEN	Male		23158	23158
+IGDTUW	CSE	GEN	Male		20667	20667
+IGDTUW	ECE-AI	GEN	Male		27368	27368
+IGDTUW	ECE	GEN	Male		27449	27449
+IGDTUW	IT	GEN	Male		25486	25486
+IGDTUW	AI-ML	GEN	Male		25326	25326
+IGDTUW	MAE	GEN	Male		30228	30228
+IGDTUW	DMAM	GEN	Male		31577	31577
+IGDTUW	MAC	GEN	Male		26176	26176
+IGDTUW	B.Arch	GEN	Male		1129	1129
+IGDTUW	CSE-AI	GEN	Male	CW	99379	99379
+IGDTUW	CSE	GEN	Male	CW	162681	162681
+IGDTUW	ECE-AI	GEN	Male	CW	170117	170117
+IGDTUW	B.Arch	GEN	Male	CW	5527	5527
+IGDTUW	CSE-AI	GEN	Male	PwD	156220	156220
+IGDTUW	CSE	GEN	Male	PwD	130295	130295
+IGDTUW	ECE	GEN	Male	PwD	263399	263399
+IGDTUW	IT	GEN	Male	PwD	183061	183061
+IGDTUW	CSE-AI	SC	Male		171651	171651
+IGDTUW	CSE	SC	Male		159820	159820
+IGDTUW	ECE-AI	SC	Male		190655	190655
+IGDTUW	ECE	SC	Male		189771	189771
+IGDTUW	IT	SC	Male		181040	181040
+IGDTUW	AI-ML	SC	Male		185443	185443
+IGDTUW	MAE	SC	Male		193338	193338
+IGDTUW	DMAM	SC	Male		206949	206949
+IGDTUW	MAC	SC	Male		190705	190705
+IGDTUW	IT	SC	Male	CW	181214	181214
+IGDTUW	CSE-AI	ST	Male		240177	240177
+IGDTUW	CSE	ST	Male		298847	298847
+IGDTUW	ECE-AI	ST	Male		362325	362325
+IGDTUW	ECE	ST	Male		237746	237746
+IGDTUW	IT	ST	Male		339001	339001
+IGDTUW	AI-ML	ST	Male		301035	301035
+IGDTUW	MAE	ST	Male		385313	385313
+IGDTUW	MAC	ST	Male		356418	356418
+IGDTUW	B.Arch	ST	Male		8691	8691
+IGDTUW	CSE-AI	OBC	Male		48607	48607
+IGDTUW	CSE	OBC	Male		44123	44123
+IGDTUW	ECE-AI	OBC	Male		55626	55626
+IGDTUW	ECE	OBC	Male		53744	53744
+IGDTUW	IT	OBC	Male		50746	50746
+IGDTUW	AI-ML	OBC	Male		51611	51611
+IGDTUW	MAE	OBC	Male		59229	59229
+IGDTUW	DMAM	OBC	Male		57384	57384
+IGDTUW	MAC	OBC	Male		53447	53447
+IGDTUW	B.Arch	OBC	Male		3307	3307
+IGDTUW	CSE-AI	OBC	Male	CW	373417	373417
+IGDTUW	IT	OBC	Male	CW	919670	919670
+IGDTUW	MAE	OBC	Male	CW	68346	68346
+IGDTUW	CSE	OBC	Male	PwD	877504	877504
+IGDTUW	ECE-AI	OBC	Male	PwD	696244	696244
+IGDTUW	CSE-AI	EWS	Male		32454	32454
+IGDTUW	CSE	EWS	Male		29387	29387
+IGDTUW	ECE-AI	EWS	Male		38849	38849
+IGDTUW	ECE	EWS	Male		36953	36953
+IGDTUW	IT	EWS	Male		32978	32978
+IGDTUW	AI-ML	EWS	Male		33019	33019
+IGDTUW	MAE	EWS	Male		40700	40700
+IGDTUW	MAC	EWS	Male		35532	35532
+IGDTUW	AI-ML	EWS	Male	CW	116909	116909
+Indian Institute of Technology Bhubaneswar	CE	GEN	Male		10922	16156
+Indian Institute of Technology Bhubaneswar	CE	GEN	Female		19820	23960
+Indian Institute of Technology Bhubaneswar	CE	EWS	Male		2214	2346
+Indian Institute of Technology Bhubaneswar	CE	EWS	Female		3688	3698
+Indian Institute of Technology Bhubaneswar	CE	OBC	Male		4402	5414
+Indian Institute of Technology Bhubaneswar	CE	OBC	Female		8189	8600
+Indian Institute of Technology Bhubaneswar	CE	SC	Male		2203	2872
+Indian Institute of Technology Bhubaneswar	CE	SC	Female		2833	3644
+Indian Institute of Technology Bhubaneswar	CE	ST	Male		883	1093
+Indian Institute of Technology Bhubaneswar	CE	ST	Female		1402	1429
+Indian Institute of Technology Bhubaneswar	CSE	GEN	Male		2344	4162
+Indian Institute of Technology Bhubaneswar	CSE	GEN	Female		4082	6467
+Indian Institute of Technology Bhubaneswar	CSE	EWS	Male		426	538
+Indian Institute of Technology Bhubaneswar	CSE	EWS	Female		923	1035
+Indian Institute of Technology Bhubaneswar	CSE	OBC	Male		984	1510
+Indian Institute of Technology Bhubaneswar	CSE	OBC	Female		2515	3264
+Indian Institute of Technology Bhubaneswar	CSE	SC	Male		344	747
+Indian Institute of Technology Bhubaneswar	CSE	SC	Female		1158	1330
+Indian Institute of Technology Bhubaneswar	CSE	ST	Male		136	265
+Indian Institute of Technology Bhubaneswar	CSE	ST	Female		663	663
+Indian Institute of Technology Bhubaneswar	EE	GEN	Male		5974	8165
+Indian Institute of Technology Bhubaneswar	EE	GEN	Female		13141	16009
+Indian Institute of Technology Bhubaneswar	EE	EWS	Male		1077	1224
+Indian Institute of Technology Bhubaneswar	EE	EWS	Female		2525	2530
+Indian Institute of Technology Bhubaneswar	EE	OBC	Male		2573	3215
+Indian Institute of Technology Bhubaneswar	EE	OBC	Female		5062	5488
+Indian Institute of Technology Bhubaneswar	EE	SC	Male		1524	1828
+Indian Institute of Technology Bhubaneswar	EE	SC	Female		2175	2175
+Indian Institute of Technology Bhubaneswar	EE	ST	Male		552	919
+Indian Institute of Technology Bhubaneswar	EE	ST	Female		846	846
+Indian Institute of Technology Bhubaneswar	ECE	GEN	Male		3873	5885
+Indian Institute of Technology Bhubaneswar	ECE	GEN	Female		8993	10965
+Indian Institute of Technology Bhubaneswar	ECE	EWS	Male		671	817
+Indian Institute of Technology Bhubaneswar	ECE	EWS	Female		1429	1429
+Indian Institute of Technology Bhubaneswar	ECE	OBC	Male		1763	2248
+Indian Institute of Technology Bhubaneswar	ECE	OBC	Female		3747	4785
+Indian Institute of Technology Bhubaneswar	ECE	SC	Male		987	1481
+Indian Institute of Technology Bhubaneswar	ECE	SC	Female		1476	1476
+Indian Institute of Technology Bhubaneswar	ECE	ST	Male		511	563
+Indian Institute of Technology Bhubaneswar	ECE	ST	Female		830	830
+Indian Institute of Technology Bhubaneswar	EP	GEN	Male		9525	12466
+Indian Institute of Technology Bhubaneswar	EP	GEN	Female		21659	22403
+Indian Institute of Technology Bhubaneswar	EP	EWS	Male		1931	2184
+Indian Institute of Technology Bhubaneswar	EP	OBC	Male		3628	4834
+Indian Institute of Technology Bhubaneswar	EP	OBC	Female		6849	6849
+Indian Institute of Technology Bhubaneswar	EP	SC	Male		2568	2874
+Indian Institute of Technology Bhubaneswar	EP	SC	Female		3531	3531
+Indian Institute of Technology Bhubaneswar	EP	ST	Male		1221	1221
+Indian Institute of Technology Bhubaneswar	MAC	GEN	Male		4174	4708
+Indian Institute of Technology Bhubaneswar	MAC	GEN	Female		7679	8804
+Indian Institute of Technology Bhubaneswar	MAC	EWS	Male		739	770
+Indian Institute of Technology Bhubaneswar	MAC	OBC	Male		1664	2092
+Indian Institute of Technology Bhubaneswar	MAC	OBC	Female		4715	4715
+Indian Institute of Technology Bhubaneswar	MAC	SC	Male		989	1200
+Indian Institute of Technology Bhubaneswar	MAC	SC	Female		2114	2114
+Indian Institute of Technology Bhubaneswar	MAC	ST	Male		619	769
+Indian Institute of Technology Bhubaneswar	ME	GEN	Male		7759	11678
+Indian Institute of Technology Bhubaneswar	ME	GEN	Female		17144	20366
+Indian Institute of Technology Bhubaneswar	ME	EWS	Male		1573	1717
+Indian Institute of Technology Bhubaneswar	ME	EWS	Female		2880	3157
+Indian Institute of Technology Bhubaneswar	ME	OBC	Male		3085	4142
+Indian Institute of Technology Bhubaneswar	ME	OBC	Female		6760	7664
+Indian Institute of Technology Bhubaneswar	ME	SC	Male		1859	2479
+Indian Institute of Technology Bhubaneswar	ME	SC	Female		3073	3388
+Indian Institute of Technology Bhubaneswar	ME	ST	Male		915	1134
+Indian Institute of Technology Bhubaneswar	ME	ST	Female		1532	1578
+Indian Institute of Technology Bhubaneswar	MME	GEN	Male		11591	16268
+Indian Institute of Technology Bhubaneswar	MME	GEN	Female		21631	22981
+Indian Institute of Technology Bhubaneswar	MME	EWS	Male		2436	2514
+Indian Institute of Technology Bhubaneswar	MME	OBC	Male		5336	5774
+Indian Institute of Technology Bhubaneswar	MME	OBC	Female		8849	9160
+Indian Institute of Technology Bhubaneswar	MME	SC	Male		2742	3054
+Indian Institute of Technology Bhubaneswar	MME	SC	Female		3877	3877
+Indian Institute of Technology Bhubaneswar	MME	ST	Male		1195	1406
+Indian Institute of Technology Bhubaneswar	MME	ST	Female		1764	1764
+Indian Institute of Technology Bombay	AE	GEN	Male		1195	2361
+Indian Institute of Technology Bombay	AE	GEN	Female		4812	5994
+Indian Institute of Technology Bombay	AE	EWS	Male		297	489
+Indian Institute of Technology Bombay	AE	EWS	Female		1160	1160
+Indian Institute of Technology Bombay	AE	OBC	Male		928	1295
+Indian Institute of Technology Bombay	AE	OBC	Female		2823	3571
+Indian Institute of Technology Bombay	AE	SC	Male		238	703
+Indian Institute of Technology Bombay	AE	SC	Female		459	1252
+Indian Institute of Technology Bombay	AE	ST	Male		315	474
+Indian Institute of Technology Bombay	AE	ST	Female		684	684
+Indian Institute of Technology Bombay	AG	GEN	Male		6087	8343
+Indian Institute of Technology Bombay	AG	GEN	Female		13688	13761
+Indian Institute of Technology Bombay	AG	EWS	Male		1123	1311
+Indian Institute of Technology Bombay	AG	EWS	Female		2839	2839
+Indian Institute of Technology Bombay	AG	OBC	Male		2786	4014
+Indian Institute of Technology Bombay	AG	OBC	Female		5934	5934
+Indian Institute of Technology Bombay	AG	SC	Male		2140	2370
+Indian Institute of Technology Bombay	AG	SC	Female		2950	2950
+Indian Institute of Technology Bombay	AG	ST	Male		1063	1070
+Indian Institute of Technology Bombay	AG	ST	Female		1581	1581
+Indian Institute of Technology Bombay	BS-MATH	GEN	Male		753	1067
+Indian Institute of Technology Bombay	BS-MATH	GEN	Female		3432	3432
+Indian Institute of Technology Bombay	BS-MATH	EWS	Male		397	397
+Indian Institute of Technology Bombay	BS-MATH	EWS	Female		1085	1085
+Indian Institute of Technology Bombay	BS-MATH	OBC	Male		742	1018
+Indian Institute of Technology Bombay	BS-MATH	OBC	Female		4453	4453
+Indian Institute of Technology Bombay	BS-MATH	SC	Male		556	1147
+Indian Institute of Technology Bombay	BS-MATH	SC	Female		1771	1771
+Indian Institute of Technology Bombay	BS-MATH	ST	Male		557	557
+Indian Institute of Technology Bombay	CHE	GEN	Male		601	2464
+Indian Institute of Technology Bombay	CHE	GEN	Female		4813	5969
+Indian Institute of Technology Bombay	CHE	EWS	Male		385	500
+Indian Institute of Technology Bombay	CHE	EWS	Female		1139	1152
+Indian Institute of Technology Bombay	CHE	OBC	Male		800	1255
+Indian Institute of Technology Bombay	CHE	OBC	Female		2840	3552
+Indian Institute of Technology Bombay	CHE	SC	Male		443	735
+Indian Institute of Technology Bombay	CHE	SC	Female		1124	1242
+Indian Institute of Technology Bombay	CHE	ST	Male		308	469
+Indian Institute of Technology Bombay	CHE	ST	Female		523	649
+Indian Institute of Technology Bombay	CHEM	GEN	Male		3133	7228
+Indian Institute of Technology Bombay	CHEM	GEN	Female		9368	10435
+Indian Institute of Technology Bombay	CHEM	EWS	Male		986	1353
+Indian Institute of Technology Bombay	CHEM	OBC	Male		2801	3637
+Indian Institute of Technology Bombay	CHEM	OBC	Female		6467	6573
+Indian Institute of Technology Bombay	CHEM	SC	Male		1436	2164
+Indian Institute of Technology Bombay	CHEM	SC	Female		719	719
+Indian Institute of Technology Bombay	CHEM	ST	Male		910	1140
+Indian Institute of Technology Bombay	CHEM	ST	Female		1540	1540
+Indian Institute of Technology Bombay	CE	GEN	Male		2666	4250
+Indian Institute of Technology Bombay	CE	GEN	Female		6085	8597
+Indian Institute of Technology Bombay	CE	EWS	Male		522	725
+Indian Institute of Technology Bombay	CE	EWS	Female		1442	1643
+Indian Institute of Technology Bombay	CE	OBC	Male		973	1829
+Indian Institute of Technology Bombay	CE	OBC	Female		3469	4597
+Indian Institute of Technology Bombay	CE	SC	Male		444	946
+Indian Institute of Technology Bombay	CE	SC	Female		824	1778
+Indian Institute of Technology Bombay	CE	ST	Male		23	290
+Indian Institute of Technology Bombay	CE	ST	Female		294	522
+Indian Institute of Technology Bombay	CSE	GEN	Male		1	66
+Indian Institute of Technology Bombay	CSE	GEN	Female		29	369
+Indian Institute of Technology Bombay	CSE	EWS	Male		5	20
+Indian Institute of Technology Bombay	CSE	EWS	Female		38	53
+Indian Institute of Technology Bombay	CSE	OBC	Male		6	54
+Indian Institute of Technology Bombay	CSE	OBC	Female		70	331
+Indian Institute of Technology Bombay	CSE	SC	Male		1	31
+Indian Institute of Technology Bombay	CSE	SC	Female		111	270
+Indian Institute of Technology Bombay	CSE	ST	Male		2	19
+Indian Institute of Technology Bombay	CSE	ST	Female		17	76
+Indian Institute of Technology Bombay	ECO	GEN	Male		1531	2372
+Indian Institute of Technology Bombay	ECO	GEN	Female		3744	4928
+Indian Institute of Technology Bombay	ECO	EWS	Male		498	554
+Indian Institute of Technology Bombay	ECO	EWS	Female		978	978
+Indian Institute of Technology Bombay	ECO	OBC	Male		993	1405
+Indian Institute of Technology Bombay	ECO	OBC	Female		2899	3344
+Indian Institute of Technology Bombay	ECO	SC	Male		371	855
+Indian Institute of Technology Bombay	ECO	SC	Female		1565	1565
+Indian Institute of Technology Bombay	ECO	ST	Male		691	828
+Indian Institute of Technology Bombay	ECO	ST	Female		564	564
+Indian Institute of Technology Bombay	EE	GEN	Male		106	433
+Indian Institute of Technology Bombay	EE	GEN	Female		779	1914
+Indian Institute of Technology Bombay	EE	EWS	Male		51	113
+Indian Institute of Technology Bombay	EE	EWS	Female		235	396
+Indian Institute of Technology Bombay	EE	OBC	Male		122	339
+Indian Institute of Technology Bombay	EE	OBC	Female		588	1117
+Indian Institute of Technology Bombay	EE	SC	Male		57	163
+Indian Institute of Technology Bombay	EE	SC	Female		345	753
+Indian Institute of Technology Bombay	EE	ST	Male		21	96
+Indian Institute of Technology Bombay	EE	ST	Female		196	260
+Indian Institute of Technology Bombay	ENE	GEN	Male		1810	2584
+Indian Institute of Technology Bombay	ENE	GEN	Female		4087	6136
+Indian Institute of Technology Bombay	ENE	EWS	Male		381	494
+Indian Institute of Technology Bombay	ENE	EWS	Female		1422	1422
+Indian Institute of Technology Bombay	ENE	OBC	Male		1089	1455
+Indian Institute of Technology Bombay	ENE	OBC	Female		3365	3818
+Indian Institute of Technology Bombay	ENE	SC	Male		320	841
+Indian Institute of Technology Bombay	ENE	SC	Female		2222	2222
+Indian Institute of Technology Bombay	ENE	ST	Male		678	732
+Indian Institute of Technology Bombay	ENE	ST	Female		1090	1090
+Indian Institute of Technology Bombay	EP	GEN	Male		122	1539
+Indian Institute of Technology Bombay	EP	GEN	Female		3126	5593
+Indian Institute of Technology Bombay	EP	EWS	Male		260	615
+Indian Institute of Technology Bombay	EP	EWS	Female		1172	1172
+Indian Institute of Technology Bombay	EP	OBC	Male		269	1247
+Indian Institute of Technology Bombay	EP	OBC	Female		1588	3828
+Indian Institute of Technology Bombay	EP	SC	Male		483	850
+Indian Institute of Technology Bombay	EP	SC	Female		1089	1213
+Indian Institute of Technology Bombay	EP	ST	Male		353	638
+Indian Institute of Technology Bombay	EP	ST	Female		642	642
+Indian Institute of Technology Bombay	ESE	GEN	Male		3143	4777
+Indian Institute of Technology Bombay	ESE	GEN	Female		8026	8925
+Indian Institute of Technology Bombay	ESE	EWS	Male		802	959
+Indian Institute of Technology Bombay	ESE	EWS	Female		2412	2412
+Indian Institute of Technology Bombay	ESE	OBC	Male		2015	2587
+Indian Institute of Technology Bombay	ESE	OBC	Female		5175	5253
+Indian Institute of Technology Bombay	ESE	SC	Male		1143	1375
+Indian Institute of Technology Bombay	ESE	SC	Female		2221	2221
+Indian Institute of Technology Bombay	ESE	ST	Male		792	821
+Indian Institute of Technology Bombay	ESE	ST	Female		1239	1239
+Indian Institute of Technology Bombay	IEOR	GEN	Male		264	1273
+Indian Institute of Technology Bombay	IEOR	GEN	Female		2669	3012
+Indian Institute of Technology Bombay	IEOR	EWS	Male		161	222
+Indian Institute of Technology Bombay	IEOR	EWS	Female		711	711
+Indian Institute of Technology Bombay	IEOR	OBC	Male		668	974
+Indian Institute of Technology Bombay	IEOR	OBC	Female		2844	2913
+Indian Institute of Technology Bombay	IEOR	SC	Male		332	692
+Indian Institute of Technology Bombay	IEOR	SC	Female		1172	1172
+Indian Institute of Technology Bombay	IEOR	ST	Male		104	289
+Indian Institute of Technology Bombay	IEOR	ST	Female		582	582
+Indian Institute of Technology Bombay	ME	GEN	Male		490	1834
+Indian Institute of Technology Bombay	ME	GEN	Female		2816	4693
+Indian Institute of Technology Bombay	ME	EWS	Male		201	336
+Indian Institute of Technology Bombay	ME	EWS	Female		859	1086
+Indian Institute of Technology Bombay	ME	OBC	Male		335	946
+Indian Institute of Technology Bombay	ME	OBC	Female		1158	2632
+Indian Institute of Technology Bombay	ME	SC	Male		168	513
+Indian Institute of Technology Bombay	ME	SC	Female		859	1179
+Indian Institute of Technology Bombay	ME	ST	Male		129	291
+Indian Institute of Technology Bombay	ME	ST	Female		636	766
+Indian Institute of Technology Bombay	MEMS	GEN	Male		2712	4345
+Indian Institute of Technology Bombay	MEMS	GEN	Female		6628	8075
+Indian Institute of Technology Bombay	MEMS	EWS	Male		580	917
+Indian Institute of Technology Bombay	MEMS	EWS	Female		1515	1782
+Indian Institute of Technology Bombay	MEMS	OBC	Male		1356	2159
+Indian Institute of Technology Bombay	MEMS	OBC	Female		3893	4903
+Indian Institute of Technology Bombay	MEMS	SC	Male		968	1345
+Indian Institute of Technology Bombay	MEMS	SC	Female		2121	2209
+Indian Institute of Technology Bombay	MEMS	ST	Male		377	677
+Indian Institute of Technology Bombay	MEMS	ST	Female		864	1156
+Indian Institute of Technology Mandi	GE	GEN	Male		8480	11034
+Indian Institute of Technology Mandi	GE	GEN	Female		16970	17710
+Indian Institute of Technology Mandi	GE	EWS	Male		1494	1847
+Indian Institute of Technology Mandi	GE	EWS	Female		2826	2826
+Indian Institute of Technology Mandi	GE	OBC	Male		4150	4674
+Indian Institute of Technology Mandi	GE	OBC	Female		9103	9476
+Indian Institute of Technology Mandi	GE	SC	Male		2311	2520
+Indian Institute of Technology Mandi	GE	SC	Female		3866	3866
+Indian Institute of Technology Mandi	GE	ST	Male		1216	1315
+Indian Institute of Technology Mandi	MSE	GEN	Male		12260	14368
+Indian Institute of Technology Mandi	MSE	GEN	Female		23443	23642
+Indian Institute of Technology Mandi	MSE	EWS	Male		2056	2271
+Indian Institute of Technology Mandi	MSE	EWS	Female		3895	3895
+Indian Institute of Technology Mandi	MSE	OBC	Male		4835	5451
+Indian Institute of Technology Mandi	MSE	OBC	Female		9183	9922
+Indian Institute of Technology Mandi	MSE	SC	Male		2554	2890
+Indian Institute of Technology Mandi	MSE	SC	Female		3968	3968
+Indian Institute of Technology Mandi	MSE	ST	Male		1334	1460
+Indian Institute of Technology Mandi	MAC	GEN	Male		3945	4285
+Indian Institute of Technology Mandi	MAC	GEN	Female		9721	9846
+Indian Institute of Technology Mandi	MAC	EWS	Male		529	614
+Indian Institute of Technology Mandi	MAC	EWS	Female		1303	1303
+Indian Institute of Technology Mandi	MAC	OBC	Male		1498	1935
+Indian Institute of Technology Mandi	MAC	OBC	Female		4094	4949
+Indian Institute of Technology Mandi	MAC	SC	Male		1007	1329
+Indian Institute of Technology Mandi	MAC	SC	Female		1559	1559
+Indian Institute of Technology Mandi	MAC	ST	Male		600	617
+Indian Institute of Technology Mandi	ME-VLSI	GEN	Male		4593	6166
+Indian Institute of Technology Mandi	ME-VLSI	GEN	Female		11355	12496
+Indian Institute of Technology Mandi	ME-VLSI	EWS	Male		898	1006
+Indian Institute of Technology Mandi	ME-VLSI	EWS	Female		2405	2405
+Indian Institute of Technology Mandi	ME-VLSI	OBC	Male		1975	2842
+Indian Institute of Technology Mandi	ME-VLSI	OBC	Female		6323	6451
+Indian Institute of Technology Mandi	ME-VLSI	SC	Male		929	1503
+Indian Institute of Technology Mandi	ME-VLSI	SC	Female		3604	3604
+Indian Institute of Technology Mandi	ME-VLSI	ST	Male		924	994
+Indian Institute of Technology Mandi	BE	GEN	Male		12646	14879
+Indian Institute of Technology Mandi	BE	GEN	Female		24904	25194
+Indian Institute of Technology Mandi	BE	EWS	Male		2230	2242
+Indian Institute of Technology Mandi	BE	EWS	Female		3890	3890
+Indian Institute of Technology Mandi	BE	OBC	Male		5377	5772
+Indian Institute of Technology Mandi	BE	OBC	Female		9009	10160
+Indian Institute of Technology Mandi	BE	SC	Male		2930	3229
+Indian Institute of Technology Mandi	BE	SC	Female		3971	3971
+Indian Institute of Technology Mandi	BE	ST	Male		1495	1499
+Indian Institute of Technology Mandi	BS-CHEM	GEN	Male		13425	17491
+Indian Institute of Technology Mandi	BS-CHEM	GEN	Female		25305	26718
+Indian Institute of Technology Mandi	BS-CHEM	EWS	Male		2420	2515
+Indian Institute of Technology Mandi	BS-CHEM	EWS	Female		4218	4218
+Indian Institute of Technology Mandi	BS-CHEM	OBC	Male		5718	6092
+Indian Institute of Technology Mandi	BS-CHEM	OBC	Female		10467	10536
+Indian Institute of Technology Mandi	BS-CHEM	SC	Male		2926	3267
+Indian Institute of Technology Mandi	BS-CHEM	SC	Female		4340	4340
+Indian Institute of Technology Mandi	BS-CHEM	ST	Male		1465	1525
+Indian Institute of Technology Mandi	CE	GEN	Male		10954	14274
+Indian Institute of Technology Mandi	CE	GEN	Female		21169	23543
+Indian Institute of Technology Mandi	CE	EWS	Male		2022	2221
+Indian Institute of Technology Mandi	CE	EWS	Female		3378	3378
+Indian Institute of Technology Mandi	CE	OBC	Male		4433	5093
+Indian Institute of Technology Mandi	CE	OBC	Female		8286	8761
+Indian Institute of Technology Mandi	CE	SC	Male		2040	2666
+Indian Institute of Technology Mandi	CSE	GEN	Male		5921	6922
+Indian Institute of Technology Mandi	CSE	GEN	Female		6922	7997
+Indian Institute of Technology Mandi	CSE	EWS	Male		369	527
+Indian Institute of Technology Mandi	CSE	EWS	Female		1012	1042
+Indian Institute of Technology Mandi	CSE	OBC	Male		904	1454
+Indian Institute of Technology Mandi	CSE	OBC	Female		3513	3841
+Indian Institute of Technology Mandi	CSE	SC	Male		615	767
+Indian Institute of Technology Mandi	CSE	SC	Female		1096	1216
+Indian Institute of Technology Mandi	CSE	ST	Male		167	370
+Indian Institute of Technology Mandi	CSE	ST	Female		780	780
+Indian Institute of Technology Mandi	DS-AI	GEN	Male		3221	3928
+Indian Institute of Technology Mandi	DS-AI	GEN	Female		8476	9741
+Indian Institute of Technology Mandi	DS-AI	EWS	Male		524	722
+Indian Institute of Technology Mandi	DS-AI	EWS	Female		1287	1287
+Indian Institute of Technology Mandi	DS-AI	OBC	Male		1474	1782
+Indian Institute of Technology Mandi	DS-AI	OBC	Female		4364	4773
+Indian Institute of Technology Mandi	DS-AI	SC	Male		765	1075
+Indian Institute of Technology Mandi	DS-AI	SC	Female		1666	1666
+Indian Institute of Technology Mandi	DS-AI	ST	Male		448	525
+Indian Institute of Technology Mandi	DS-AI	ST	Female		876	876
+Indian Institute of Technology Mandi	EE	GEN	Male		5136	7590
+Indian Institute of Technology Mandi	EE	GEN	Female		11244	14984
+Indian Institute of Technology Mandi	EE	EWS	Male		973	1134
+Indian Institute of Technology Mandi	EE	EWS	Female		2383	2383
+Indian Institute of Technology Mandi	EE	OBC	Male		2504	3288
+Indian Institute of Technology Mandi	EE	OBC	Female		6397	6755
+Indian Institute of Technology Mandi	EE	SC	Male		1231	1826
+Indian Institute of Technology Mandi	EE	SC	Female		2359	2978
+Indian Institute of Technology Mandi	EE	ST	Male		712	907
+Indian Institute of Technology Mandi	EE	ST	Female		1335	1335
+Indian Institute of Technology Mandi	EP	GEN	Male		8831	12110
+Indian Institute of Technology Mandi	EP	GEN	Female		19108	20778
+Indian Institute of Technology Mandi	EP	EWS	Male		1894	2064
+Indian Institute of Technology Mandi	EP	EWS	Female		3646	3646
+Indian Institute of Technology Mandi	EP	OBC	Male		4046	4854
+Indian Institute of Technology Mandi	EP	OBC	Female		7637	8218
+Indian Institute of Technology Mandi	EP	SC	Male		2540	2888
+Indian Institute of Technology Mandi	EP	SC	Female		3966	3966
+Indian Institute of Technology Mandi	EP	ST	Male		1190	1366
+Indian Institute of Technology Mandi	ME	GEN	Male		8023	10267
+Indian Institute of Technology Mandi	ME	GEN	Female		17438	20608
+Indian Institute of Technology Mandi	ME	EWS	Male		1354	1672
+Indian Institute of Technology Mandi	ME	EWS	Female		3012	3012
+Indian Institute of Technology Mandi	ME	OBC	Male		3470	4165
+Indian Institute of Technology Mandi	ME	OBC	Female		7239	8444
+Indian Institute of Technology Mandi	ME	SC	Male		1708	2274
+Indian Institute of Technology Mandi	ME	SC	Female		3295	3615
+Indian Institute of Technology Mandi	ME	ST	Male		1022	1129
+Indian Institute of Technology Mandi	ME	ST	Female		1769	1769
+Shri Balwant Institute of Technology	CSE	GEN	Male	Minority	140675	140675
+Shri Balwant Institute of Technology	CSE	GEN	Male		298963	431413
+Shri Balwant Institute of Technology	CSE	GEN	Male		108642	114303
+Shri Balwant Institute of Technology	CSE	SC	Male		446245	446245
+Shri Balwant Institute of Technology	EEE	GEN	Male		404024	439485
+Shri Balwant Institute of Technology	EEE	GEN	Male		116755	116755
+Shri Balwant Institute of Technology	ECE	GEN	Male		373630	441060
+Shri Balwant Institute of Technology	ECE	GEN	Male		114897	114897
+Shri Balwant Institute of Technology	ECE	SC	Male		469721	469721
+Shri Balwant Institute of Technology	IT	GEN	Male		390641	441104
+Shri Balwant Institute of Technology	IT	GEN	Male		122147	122147
+Shri Balwant Institute of Technology	IT	SC	Male		443581	443581
+Shri Balwant Institute of Technology	ME	GEN	Male		416241	445564
+Shri Balwant Institute of Technology	ME	GEN	Male		124683	124683
+Shri Balwant Institute of Technology	ME	SC	Male		501088	501088
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	GEN	Female		255566	741722
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	GEN	Male		124715	216167
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	SC	Male		923582	923582
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	GEN	Female		162643	162643
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	GEN	Male		89380	100487
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	SC	Male		315743	315743
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	ST	Male		828862	828862
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	GEN	Female		408830	851945
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	GEN	Male		86359	234727
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	GEN	Female		139385	139385
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	GEN	Male		85671	99652
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	SC	Male		237556	286967
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	ST	Male		352336	352336
+Vivekanand Institute of Professional Studies - Technical Campus	CSE	GEN	Male		117684	173998
+Vivekanand Institute of Professional Studies - Technical Campus	CSE	SC	Male		677772	755451
+Vivekanand Institute of Professional Studies - Technical Campus	CSE	GEN	Female		137787	137787
+Vivekanand Institute of Professional Studies - Technical Campus	CSE	GEN	Male		78675	85476
+Vivekanand Institute of Professional Studies - Technical Campus	ECE-VLSI	GEN	Male		248721	383105
+Vivekanand Institute of Professional Studies - Technical Campus	ECE-VLSI	GEN	Female		171072	171072
+Vivekanand Institute of Professional Studies - Technical Campus	ECE-VLSI	GEN	Male		117063	126586
+Vivekanand Institute of Professional Studies - Technical Campus	ECE-VLSI	SC	Male		402290	402290
+Vivekanand Institute of Professional Studies - Technical Campus	IIOT	GEN	Male		259992	300345
+Vivekanand Institute of Professional Studies - Technical Campus	IIOT	GEN	Male		101830	106693
+Vivekanand Institute of Professional Studies - Technical Campus	IIOT	SC	Male		374273	374273
+BM Institute of Engineering & Technology (Jain Minority Institute) Sonepat	AI-ML	GEN	Male		107281	409323
+BM Institute of Engineering & Technology (Jain Minority Institute) Sonepat	AI-ML	SC	Male		429121	429121
+BM Institute of Engineering & Technology (Jain Minority Institute) Sonepat	CSE	GEN	Male		88461	402226
+BM Institute of Engineering & Technology (Jain Minority Institute) Sonepat	CSE	SC	Male		416585	416585
+Bhagwan Parshuram Institute of Technology	CSE	GEN	Male		57023	138984
+Bhagwan Parshuram Institute of Technology	CSE	SC	Male		188565	729142
+Bhagwan Parshuram Institute of Technology	CSE	ST	Male		204238	448209
+Bhagwan Parshuram Institute of Technology	CSE-DS	GEN	Male		61599	147321
+Bhagwan Parshuram Institute of Technology	CSE-DS	SC	Male		733388	829513
+Bhagwan Parshuram Institute of Technology	CSE-DS	ST	Male		551695	551695
+Bhagwan Parshuram Institute of Technology	ECE	GEN	Male		70543	234250
+Bhagwan Parshuram Institute of Technology	ECE	SC	Male		274083	276711
+Bhagwan Parshuram Institute of Technology	EEE	GEN	Male		80640	309030
+Bhagwan Parshuram Institute of Technology	EEE	SC	Male		313881	313881
+Bhagwan Parshuram Institute of Technology	IT	GEN	Male		61186	165854
+Bhagwan Parshuram Institute of Technology	IT	SC	Male		248732	1074675
+Bhagwan Parshuram Institute of Technology	IT	ST	Male		563874	564163
+Bharati Vidyapeeth's College of Engineering	CSE	GEN	Male		56183	125163
+Bharati Vidyapeeth's College of Engineering	CSE	SC	Male		221718	575813
+Bharati Vidyapeeth's College of Engineering	ECE	GEN	Male		70225	241777
+Bharati Vidyapeeth's College of Engineering	ECE	SC	Male		276315	295994
+Bharati Vidyapeeth's College of Engineering	EEE	GEN	Male		76170	305045
+Bharati Vidyapeeth's College of Engineering	EEE	SC	Male		307409	307409
+Bharati Vidyapeeth's College of Engineering	ICE	GEN	Male		93990	360846
+Bharati Vidyapeeth's College of Engineering	IT	GEN	Male		64182	146895
+Bharati Vidyapeeth's College of Engineering	IT	SC	Male		245286	980846
+Bharati Vidyapeeth's College of Engineering	IT	ST	Male		787016	787016
+Delhi Technical Campus	AI-DS	GEN	Male		106123	416059
+Delhi Technical Campus	AI-DS	SC	Male		405425	888917
+Delhi Technical Campus	AI-ML	GEN	Male		113908	416832
+Delhi Technical Campus	CSE	GEN	Male		72800	375537
+Delhi Technical Campus	CSE	SC	Male		278285	853696
+Delhi Technical Campus	CST	GEN	Male		96755	429644
+Delhi Technical Campus	CST	SC	Male		288940	288940
+Dr. Akhilesh Das Gupta Institute of Technology & Management	AI-DS	GEN	Male		74493	294005
+Dr. Akhilesh Das Gupta Institute of Technology & Management	AI-DS	SC	Male		315559	338617
+Dr. Akhilesh Das Gupta Institute of Technology & Management	AI-ML	GEN	Male		89918	298637
+Dr. Akhilesh Das Gupta Institute of Technology & Management	AI-ML	SC	Male		339871	368095
+Dr. Akhilesh Das Gupta Institute of Technology & Management	CE	GEN	Male		60884	401941
+Dr. Akhilesh Das Gupta Institute of Technology & Management	CE	SC	Male		391997	513831
+Dr. Akhilesh Das Gupta Institute of Technology & Management	CSE	GEN	Male		63967	245475
+Dr. Akhilesh Das Gupta Institute of Technology & Management	CSE	SC	Male		255362	1101899
+Dr. Akhilesh Das Gupta Institute of Technology & Management	CST	GEN	Male		72370	208061
+Dr. Akhilesh Das Gupta Institute of Technology & Management	ECE	GEN	Male		98451	315862
+Dr. Akhilesh Das Gupta Institute of Technology & Management	ECE	SC	Male		352801	377191
+Dr. Akhilesh Das Gupta Institute of Technology & Management	IT	GEN	Male		82275	261984
+Dr. Akhilesh Das Gupta Institute of Technology & Management	IT	SC	Male		284631	327425
+Dr. Akhilesh Das Gupta Institute of Technology & Management	ME	GEN	Male		105660	391163
+Dr. Akhilesh Das Gupta Institute of Technology & Management	ME	SC	Male		405541	405541
+Greater Noida Institute of Technology	CSE	GEN	Male		105811	422121
+Greater Noida Institute of Technology	CSE	SC	Male		387538	426270
+Greater Noida Institute of Technology	IT	GEN	Male		114901	432369
+Greater Noida Institute of Technology	IT	SC	Male		419839	419839
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	CSE	GEN	Male		61689	190025
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	CSE	SC	Male		284364	904631
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	CSE-AIML	GEN	Male		94055	196791
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	CSE-AIML	SC	Male		370575	370575
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	CSE-DS	GEN	Male		94731	214127
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	CSE-DS	SC	Male		354292	354292
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	ECE	GEN	Male		99524	288751
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	ECE	SC	Male		370946	370946
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	IT	GEN	Male		81513	226193
+Guru Teg Bahadur Institute of Technology (Sikh Minority Institute)	IT	SC	Male		333553	339713
+Guru Tegh Bahadur 4th Centenary Engineering College	CSE	GEN	Male		79327	247586
+Guru Tegh Bahadur 4th Centenary Engineering College	CSE	SC	Male		333845	1056368
+Guru Tegh Bahadur 4th Centenary Engineering College	CSE	ST	Male		804253	804253
+HMR Institute of Technology & Management	AI-DS	GEN	Male		113797	391166
+HMR Institute of Technology & Management	AI-DS	SC	Male		433448	433448
+HMR Institute of Technology & Management	AI-ML	GEN	Male		112691	401205
+HMR Institute of Technology & Management	AI-ML	SC	Male		435948	996459
+HMR Institute of Technology & Management	CSE	GEN	Male		94226	347735
+HMR Institute of Technology & Management	CSE	SC	Male		369994	419409
+HMR Institute of Technology & Management	CSE-CS	GEN	Male		111463	358179
+HMR Institute of Technology & Management	CSE-CS	SC	Male		430921	430921
+HMR Institute of Technology & Management	IT	GEN	Male		112602	373569
+HMR Institute of Technology & Management	IT	SC	Male		423438	423438
+JIMS Engineering Management Technical Campus	AI-DS	GEN	Male		110332	436044
+JIMS Engineering Management Technical Campus	AI-DS	SC	Male		442812	442812
+JIMS Engineering Management Technical Campus	AI-ML	GEN	Male		51110	432383
+JIMS Engineering Management Technical Campus	AI-ML	SC	Male		445552	445552
+JIMS Engineering Management Technical Campus	CSE	GEN	Male		78132	390850
+JIMS Engineering Management Technical Campus	CSE	SC	Male		401257	425503
+JIMS Engineering Management Technical Campus	CST	GEN	Male		120681	435829
+JIMS Engineering Management Technical Campus	CST	SC	Male		446175	446175
+Maharaja Agrasen Institute of Technology	CSE	GEN	Male		16445	71198
+Maharaja Agrasen Institute of Technology	CSE	SC	Male		137908	344028
+Maharaja Agrasen Institute of Technology	CSE-AI	GEN	Male		40106	92264
+Maharaja Agrasen Institute of Technology	CSE-AI	SC	Male		154505	456317
+Maharaja Agrasen Institute of Technology	CSE-AI	ST	Male		520822	520822
+Maharaja Agrasen Institute of Technology	CSE-AIML	GEN	Male		33766	90166
+Maharaja Agrasen Institute of Technology	CSE-AIML	SC	Male		178988	484845
+Maharaja Agrasen Institute of Technology	CSE-AIML	ST	Male		544492	544492
+Maharaja Agrasen Institute of Technology	CSE-DS	GEN	Male		49917	99433
+Maharaja Agrasen Institute of Technology	CSE-DS	SC	Male		201731	517366
+Maharaja Agrasen Institute of Technology	CSE-DS	ST	Male		473849	473849
+Maharaja Agrasen Institute of Technology	CST	GEN	Male		38725	92051
+Maharaja Agrasen Institute of Technology	CST	SC	Male		184306	473978
+Maharaja Agrasen Institute of Technology	CST	ST	Male		463873	979353
+Maharaja Agrasen Institute of Technology	ECE	GEN	Male		54126	136135
+Maharaja Agrasen Institute of Technology	ECE	SC	Male		225062	911182
+Maharaja Agrasen Institute of Technology	ECE-ACT	GEN	Male		61115	174542
+Maharaja Agrasen Institute of Technology	ECE-ACT	SC	Male		248115	719699
+Maharaja Agrasen Institute of Technology	ECE-ACT	ST	Male		611318	611318
+Maharaja Agrasen Institute of Technology	ECE-VLSI	GEN	Male		64835	217058
+Maharaja Agrasen Institute of Technology	ECE-VLSI	SC	Male		269275	822428
+Maharaja Agrasen Institute of Technology	EEE	GEN	Male		54370	233079
+Maharaja Agrasen Institute of Technology	EEE	SC	Male		244957	250281
+Maharaja Agrasen Institute of Technology	IT	GEN	Male		41100	115407
+Maharaja Agrasen Institute of Technology	IT	SC	Male		189456	614756
+Maharaja Agrasen Institute of Technology	ME	GEN	Male		73652	298293
+Maharaja Agrasen Institute of Technology	ME	SC	Male		297836	297836
+Maharaja Agrasen Institute of Technology	ME-AUTO	GEN	Male		79920	309290
+Maharaja Surajmal Institute Technology	CSE	GEN	Male		41380	106017
+Maharaja Surajmal Institute Technology	CSE	SC	Male		179742	403977
+Maharaja Surajmal Institute Technology	CSE	ST	Male		399181	436681
+Maharaja Surajmal Institute Technology	ECE	GEN	Male		62782	180104
+Maharaja Surajmal Institute Technology	ECE	SC	Male		254227	968464
+Maharaja Surajmal Institute Technology	ECE	ST	Male		456761	456761
+Maharaja Surajmal Institute Technology	EEE	GEN	Male		70628	255554
+Maharaja Surajmal Institute Technology	EEE	SC	Male		270912	270912
+Maharaja Surajmal Institute Technology	IT	GEN	Male		53659	129489
+Maharaja Surajmal Institute Technology	IT	SC	Male		202338	664425
+Shri Balwant Institute of Technology	CSE	GEN	Male		108642	431413
+Shri Balwant Institute of Technology	CSE	SC	Male		446245	446245
+Shri Balwant Institute of Technology	ECE	GEN	Male		114897	441060
+Shri Balwant Institute of Technology	ECE	SC	Male		469721	469721
+Shri Balwant Institute of Technology	EEE	GEN	Male		116755	439485
+Shri Balwant Institute of Technology	IT	GEN	Male		122147	441104
+Shri Balwant Institute of Technology	IT	SC	Male		443581	443581
+Shri Balwant Institute of Technology	ME	GEN	Male		124683	445564
+Shri Balwant Institute of Technology	ME	SC	Male		501088	501088
+Trinity Institute of Innovations in Professional Studies	CSE	GEN	Male		108466	408297
+Trinity Institute of Innovations in Professional Studies	CSE	SC	Male		381834	381834
+Trinity Institute of Innovations in Professional Studies	CST	GEN	Male		118804	438098
+Trinity Institute of Innovations in Professional Studies	IT	GEN	Male		122060	437148
+Trinity Institute of Innovations in Professional Studies	IT	SC	Male		446957	446957
+University School of Automation & Robotics	AI-DS	EWS	Male		59821	130508
+University School of Automation & Robotics	AI-DS	GEN	Male		55279	117624
+University School of Automation & Robotics	AI-DS	OBC	Male		202996	247411
+University School of Automation & Robotics	AI-DS	SC	Male		180408	521345
+University School of Automation & Robotics	AI-ML	EWS	Male		73232	152934
+University School of Automation & Robotics	AI-ML	GEN	Male		43575	133323
+University School of Automation & Robotics	AI-ML	OBC	Male		255558	290834
+University School of Automation & Robotics	AI-ML	SC	Male		141825	563879
+University School of Automation & Robotics	AI-ML	ST	Male		247932	247932
+University School of Automation & Robotics	AR	EWS	Male		85556	251453
+University School of Automation & Robotics	AR	GEN	Male		65382	212959
+University School of Automation & Robotics	AR	OBC	Male		296251	417390
+University School of Automation & Robotics	AR	SC	Male		239509	1066075
+University School of Automation & Robotics	IIOT	EWS	Male		87121	247687
+University School of Automation & Robotics	IIOT	GEN	Male		72789	215066
+University School of Automation & Robotics	IIOT	OBC	Male		295011	404349
+University School of Automation & Robotics	IIOT	SC	Male		239537	251425
+University School of Chemical Technology	BCE	EWS	Male		389670	404838
+University School of Chemical Technology	BCE	GEN	Male		105568	360051
+University School of Chemical Technology	BCE	OBC	Male		458983	512822
+University School of Chemical Technology	CHE	EWS	Male		104468	422269
+University School of Chemical Technology	CHE	GEN	Male		69484	339192
+University School of Chemical Technology	CHE	OBC	Male		449658	483717
+University School of Information & Communication Technology	CSE	EWS	Male		26188	69055
+University School of Information & Communication Technology	CSE	GEN	Male		20894	42640
+University School of Information & Communication Technology	CSE	OBC	Male		103588	128644
+University School of Information & Communication Technology	CSE	SC	Male		59555	193487
+University School of Information & Communication Technology	CSE	ST	Male		660137	677802
+University School of Information & Communication Technology	ECE	EWS	Male		55040	103241
+University School of Information & Communication Technology	ECE	GEN	Male		26698	70012
+University School of Information & Communication Technology	ECE	OBC	Male		163786	201431
+University School of Information & Communication Technology	ECE	SC	Male		157636	465651
+University School of Information & Communication Technology	ECE	ST	Male		430388	476197
+University School of Information & Communication Technology	IT	EWS	Male		26801	78241
+University School of Information & Communication Technology	IT	GEN	Male		24710	53406
+University School of Information & Communication Technology	IT	OBC	Male		138831	167817
+University School of Information & Communication Technology	IT	SC	Male		75492	260603
+University School of Information & Communication Technology	IT	ST	Male		857251	857251
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	GEN	Male		89380	216167
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	SC	Male		315743	923582
+Vivekanand Institute of Professional Studies - Technical Campus	AI-DS	ST	Male		828862	828862
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	GEN	Male		85671	234727
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	SC	Male		237556	286967
+Vivekanand Institute of Professional Studies - Technical Campus	AI-ML	ST	Male		352336	352336
+Vivekanand Institute of Professional Studies - Technical Campus	CSE	GEN	Male		78675	173998
+Vivekanand Institute of Professional Studies - Technical Campus	ECE-VLSI	GEN	Male		117063	383105
+Vivekanand Institute of Professional Studies - Technical Campus	ECE-VLSI	SC	Male		402290	402290
+Vivekanand Institute of Professional Studies - Technical Campus	IIOT	GEN	Male		101830	300345
+Vivekanand Institute of Professional Studies - Technical Campus	IIOT	SC	Male		374273	374273
+NIT Warangal	CSE				5000	8500
+NIT Warangal	ECE				8000	14000
+NIT Warangal	ME				14000	22000
+NIT Warangal	CE				18000	28000
+NIT Warangal	CHE				20000	30000
+NIT Warangal	AI-ML				4000	7500
+JNTU Kakinada	CSE				1	5000
+JNTU Kakinada	ECE				1	8000
+JNTU Kakinada	ME				5000	15000
+JNTU Anantapur	CSE				1	6000
+JNTU Anantapur	ECE				3000	10000
+Andhra University	CSE				1	4000
+Andhra University	ECE				2000	8000
+Andhra University	CE				8000	18000
+KL University	CSE				1	50000
+KL University	ECE				10000	70000
+KL University	AI-ML				1	40000
+Vignan University	CSE				1	60000
+Vignan University	ECE				5000	80000
+RGUKT Nuzvid	CSE				1	8000
+RGUKT Basar	CSE				1	9000
+Anil Neerukonda IT	CSE				5000	20000
+Sri Venkateswara University	CE				10000	25000
+Koneru Lakshmaiah Univ	AI-ML				1	35000
+NIT Arunachal Pradesh	CSE				50000	120000
+NIT Arunachal Pradesh	ECE				60000	130000
+NIT Arunachal Pradesh	CE				70000	140000
+Rajiv Gandhi University	CSE				1	5000
+IIT Guwahati	CSE				100	500
+IIT Guwahati	ECE				200	800
+IIT Guwahati	ME				400	1500
+IIT Guwahati	CHE				600	2000
+IIT Guwahati	CE				800	2500
+IIT Guwahati	AI-ML				80	400
+NIT Silchar	CSE				12000	22000
+NIT Silchar	ECE				18000	30000
+NIT Silchar	ME				25000	40000
+NIT Silchar	CE				30000	50000
+Assam Engineering College	CSE				1	3000
+Tezpur University	CSE				40000	70000
+Jorhat Engineering College	ME				2000	8000
+NIT Patna	CSE				10000	20000
+NIT Patna	ECE				15000	28000
+NIT Patna	ME				22000	38000
+NIT Patna	CE				28000	45000
+BIT Sindri	CSE				1	5000
+BIT Sindri	ME				3000	10000
+Muzaffarpur Inst of Tech	CE				5000	15000
+Patna Science College	CSE				1	4000
+NIT Raipur	CSE				12000	24000
+NIT Raipur	ECE				18000	32000
+NIT Raipur	ME				26000	42000
+NIT Raipur	CHE				30000	50000
+NIT Raipur	CE				32000	55000
+Rungta College of Engg	CSE				1	10000
+Bhilai Institute of Tech	CSE				2000	12000
+CSVTU Bhilai	CSE				1	8000
+NIT Goa	CSE				14000	26000
+NIT Goa	ECE				20000	35000
+NIT Goa	ME				28000	46000
+Goa Engineering College	CSE				1	2000
+Goa Engineering College	ECE				500	3000
+Don Bosco College of Engg	CSE				1000	5000
+IIT Gandhinagar	CSE				50	400
+IIT Gandhinagar	ME				300	1200
+IIT Gandhinagar	CHE				500	1800
+IIT Gandhinagar	CE				700	2200
+NIT Surat (SVNIT)	CSE				8000	16000
+NIT Surat (SVNIT)	ECE				12000	22000
+NIT Surat (SVNIT)	ME				18000	32000
+NIT Surat (SVNIT)	CE				24000	40000
+NIT Surat (SVNIT)	CHE				22000	38000
+LDCE Ahmedabad	CSE				1	3000
+LDCE Ahmedabad	ME				2000	8000
+DDIT Nadiad	CSE				500	4000
+Nirma University	CSE				1	80000
+Nirma University	ECE				10000	100000
+Charotar University	CSE				2000	12000
+PDEU Gandhinagar	CSE				1	20000
+Marwadi University	CSE				1	150000
+Pandit Deendayal Energy Univ	AI-ML				1	15000
+NIT Kurukshetra	CSE				7000	14000
+NIT Kurukshetra	ECE				11000	20000
+NIT Kurukshetra	ME				16000	28000
+NIT Kurukshetra	CE				22000	38000
+NIT Kurukshetra	AI-ML				6000	12000
+Thapar Inst Patiala	CSE				5000	18000
+Thapar Inst Patiala	ECE				8000	25000
+Thapar Inst Patiala	ME				15000	35000
+DCR Univ of S&T Murthal	CSE				1	5000
+MDU Rohtak	CSE				2000	8000
+Chandigarh University	CSE				1	100000
+Chandigarh University	AI-ML				1	80000
+Amity University Gurugram	CSE				1	150000
+GD Goenka University	CSE				1	200000
+NIT Hamirpur	CSE				9000	18000
+NIT Hamirpur	ECE				14000	26000
+NIT Hamirpur	ME				20000	35000
+NIT Hamirpur	CE				26000	44000
+Jaypee University Solan	CSE				1	100000
+HPU Shimla	CSE				1	4000
+NIT Jamshedpur	CSE				10000	19000
+NIT Jamshedpur	ECE				15000	27000
+NIT Jamshedpur	ME				20000	36000
+NIT Jamshedpur	CE				26000	44000
+BIT Mesra	CSE				10000	30000
+BIT Mesra	ECE				15000	40000
+BIT Mesra	ME				20000	50000
+IISc Bangalore	CSE				1	50
+IIT Dharwad	CSE				200	800
+IIT Dharwad	ME				500	2000
+NIT Surathkal	CSE				4000	8000
+NIT Surathkal	ECE				6000	12000
+NIT Surathkal	ME				9000	18000
+NIT Surathkal	CE				12000	22000
+NIT Surathkal	CHE				14000	25000
+NIT Surathkal	AI-ML				3500	7000
+IIIT Bangalore	CSE				1	5000
+RV College of Engineering	CSE				1	500
+RV College of Engineering	ECE				200	800
+PES University	CSE				1	1000
+PES University	AI-ML				1	800
+BMS College of Engg	CSE				100	600
+BMS College of Engg	ECE				400	1200
+Manipal Academy	CSE				1	2000
+Manipal Academy	ECE				500	4000
+Manipal Academy	ME				1000	6000
+M S Ramaiah Inst of Tech	CSE				200	700
+Dayananda Sagar College	CSE				400	1500
+UVCE Bangalore	CSE				50	400
+JSS Science and Tech	CSE				300	1000
+Nitte Meenakshi IT	CSE				800	3000
+Ramaiah Inst of Tech	AI-ML				100	600
+NIT Calicut	CSE				3000	7000
+NIT Calicut	ECE				5000	11000
+NIT Calicut	ME				8000	17000
+NIT Calicut	CE				10000	20000
+NIT Calicut	CHE				12000	22000
+College of Engg Trivandrum	CSE				1	1000
+College of Engg Trivandrum	ECE				500	2500
+Govt Engg College Thrissur	CSE				800	2500
+Model Engg College Kochi	CSE				1000	3000
+CUSAT Kochi	CSE				500	2000
+TKMCE Kollam	CSE				1500	4000
+Rajagiri Sch of Engg	CSE				2000	5000
+LBS Inst of Tech	ECE				1000	3500
+IIT Indore	CSE				80	450
+IIT Indore	ECE				150	700
+IIT Indore	ME				300	1300
+IIT Indore	CE				500	1800
+NIT Bhopal (MANIT)	CSE				8000	16000
+NIT Bhopal (MANIT)	ECE				12000	22000
+NIT Bhopal (MANIT)	ME				18000	32000
+NIT Bhopal (MANIT)	CE				22000	40000
+NIT Bhopal (MANIT)	CHE				20000	36000
+IIIT Gwalior	CSE				6000	14000
+RGPV Bhopal	CSE				1	8000
+SGSITS Indore	CSE				500	5000
+Symbiosis Indore	CSE				1	50000
+LNCT Bhopal	CSE				1	100000
+IIT Bombay	CSE				1	67
+IIT Bombay	ECE				30	150
+IIT Bombay	ME				100	400
+IIT Bombay	CHE				200	700
+IIT Bombay	CE				300	900
+IIT Bombay	AI-ML				1	50
+NIT Nagpur	CSE				9000	17000
+NIT Nagpur	ECE				13000	24000
+NIT Nagpur	ME				19000	33000
+NIT Nagpur	CE				24000	42000
+COEP Pune	CSE				1	500
+COEP Pune	ECE				200	1200
+COEP Pune	ME				500	2000
+VJTI Mumbai	CSE				100	600
+VJTI Mumbai	ECE				300	1500
+SPIT Mumbai	CSE				200	800
+PICT Pune	CSE				400	2000
+Walchand College Sangli	ME				1000	4000
+VIT Pune	CSE				600	3000
+Symbiosis Pune	CSE				1	30000
+MIT Pune	CSE				800	4000
+DBIT Mumbai	CSE				1000	5000
+RAIT Navi Mumbai	CSE				1200	6000
+Pune Vidyarthi Griha	CSE				700	3500
+NIT Manipur	CSE				60000	130000
+NIT Manipur	ECE				70000	150000
+Manipur Inst of Tech	CSE				1	3000
+NIT Meghalaya	CSE				65000	140000
+NIT Meghalaya	ECE				75000	160000
+Shillong College of Engg	CSE				1	5000
+NIT Mizoram	CSE				70000	150000
+NIT Mizoram	ECE				80000	160000
+NIT Mizoram	CE				85000	170000
+NIT Nagaland	CSE				75000	160000
+NIT Nagaland	CE				85000	170000
+NIT Nagaland	ECE				80000	165000
+IIT Delhi	CSE				1	65
+IIT Delhi	ECE				20	120
+IIT Delhi	ME				80	350
+IIT Delhi	CHE				150	600
+IIT Delhi	CE				250	800
+IIT Delhi	AI-ML				1	55
+DTU Delhi	CSE				5000	12000
+DTU Delhi	ECE				8000	18000
+DTU Delhi	ME				12000	25000
+DTU Delhi	AI-ML				4000	10000
+NSIT Delhi	CSE				6000	14000
+NSIT Delhi	ECE				9000	20000
+IIIT Delhi	CSE				3000	8000
+IIIT Delhi	ECE				5000	12000
+IIIT Delhi	AI-ML				2500	7000
+Netaji Subhas Univ of Tech	CSE				8000	18000
+IP University	CSE				1	5000
+Jamia Millia Islamia	CSE				20000	45000
+Ambedkar Inst of Tech	CSE				5000	20000
+IIT Bhubaneswar	CSE				120	600
+IIT Bhubaneswar	ME				400	1600
+IIT Bhubaneswar	CE				600	2200
+NIT Rourkela	CSE				5000	10000
+NIT Rourkela	ECE				8000	15000
+NIT Rourkela	ME				12000	22000
+NIT Rourkela	CE				16000	28000
+NIT Rourkela	CHE				18000	30000
+VSSUT Burla	CSE				1	5000
+CET Bhubaneswar	CSE				500	4000
+KIIT University	CSE				1	30000
+KIIT University	ECE				5000	50000
+Silicon Institute of Tech	CSE				1	60000
+IIT Ropar	CSE				90	480
+IIT Ropar	ECE				180	900
+IIT Ropar	ME				400	1700
+Thapar Inst Patiala	CSE				5000	18000
+Thapar Inst Patiala	ECE				8000	25000
+Thapar Inst Patiala	ME				14000	32000
+PEC Chandigarh	CSE				6000	18000
+PEC Chandigarh	ECE				10000	26000
+Chandigarh University	CSE				1	100000
+Chandigarh University	AI-ML				1	80000
+GNDEC Ludhiana	CSE				1	6000
+LPU Jalandhar	CSE				1	200000
+IIT Jodhpur	CSE				70	420
+IIT Jodhpur	ECE				140	700
+IIT Jodhpur	ME				320	1400
+IIT Jodhpur	AI-ML				60	380
+BITS Pilani	CSE				1	2000
+BITS Pilani	ECE				500	5000
+BITS Pilani	ME				1000	8000
+BITS Pilani	CHE				2000	10000
+NIT Jaipur (MNIT)	CSE				8000	16000
+NIT Jaipur (MNIT)	ECE				12000	22000
+NIT Jaipur (MNIT)	ME				18000	30000
+NIT Jaipur (MNIT)	CE				22000	38000
+IIIT Kota	CSE				6000	15000
+RTU Kota	CSE				1	8000
+Poornima Univ Jaipur	CSE				1	150000
+NIT Sikkim	CSE				65000	140000
+NIT Sikkim	ECE				75000	150000
+Sikkim Manipal Inst of Tech	CSE				1	10000
+IIT Madras	CSE				1	68
+IIT Madras	ECE				25	130
+IIT Madras	ME				90	380
+IIT Madras	CHE				180	650
+IIT Madras	CE				280	900
+IIT Madras	AI-ML				1	55
+NIT Trichy	CSE				2500	5500
+NIT Trichy	ECE				4000	9000
+NIT Trichy	ME				7000	15000
+NIT Trichy	CE				10000	19000
+NIT Trichy	CHE				12000	22000
+NIT Trichy	AI-ML				2000	5000
+Anna University CEG	CSE				1	500
+Anna University CEG	ECE				200	1500
+Anna University CEG	ME				800	3000
+PSG College Coimbatore	CSE				400	2000
+SSN College Chennai	CSE				300	1500
+VIT Vellore	CSE				1	5000
+VIT Vellore	ECE				1000	10000
+VIT Vellore	ME				3000	20000
+VIT Vellore	AI-ML				1	3000
+SRM Chennai	CSE				1	8000
+SRM Chennai	ECE				2000	15000
+SRM Chennai	AI-ML				1	6000
+Amrita Coimbatore	CSE				1	6000
+SASTRA University	CSE				1	50000
+Madras Institute of Tech	CSE				200	1000
+IIT Hyderabad	CSE				60	350
+IIT Hyderabad	ECE				120	600
+IIT Hyderabad	ME				300	1300
+IIT Hyderabad	AI-ML				50	300
+BITS Hyderabad	CSE				800	4000
+BITS Hyderabad	ECE				2000	8000
+IIIT Hyderabad	CSE				2000	6000
+IIIT Hyderabad	AI-ML				1500	5000
+JNTU Hyderabad	CSE				1	3000
+JNTU Hyderabad	ECE				1000	6000
+Osmania University	CSE				500	4000
+Chaitanya Bharathi IT	CSE				1000	5000
+CBIT Hyderabad	ECE				2000	8000
+VNR VJIET	CSE				800	4000
+NIT Agartala	CSE				40000	90000
+NIT Agartala	ECE				50000	110000
+NIT Agartala	CE				60000	120000
+TIT Agartala	CSE				1	5000
+IIT Kanpur	CSE				1	63
+IIT Kanpur	ECE				15	110
+IIT Kanpur	ME				70	320
+IIT Kanpur	CHE				160	600
+IIT Kanpur	CE				240	800
+IIT BHU Varanasi	CSE				110	580
+IIT BHU Varanasi	ME				350	1500
+IIT BHU Varanasi	CHE				550	2000
+MNNIT Allahabad	CSE				7000	14000
+MNNIT Allahabad	ECE				11000	20000
+MNNIT Allahabad	ME				16000	28000
+MNNIT Allahabad	CE				20000	36000
+IIIT Allahabad	CSE				5000	13000
+IIIT Allahabad	ECE				8000	18000
+Amity University Noida	CSE				1	200000
+HBTU Kanpur	CSE				1	8000
+AKTU (Affiliated Colls)	CSE				5000	40000
+GLA University Mathura	CSE				1	80000
+JSS Noida	CSE				1	80000
+Sharda University	CSE				1	250000
+IIT Roorkee	CSE				1	58
+IIT Roorkee	ECE				10	100
+IIT Roorkee	ME				60	280
+IIT Roorkee	CHE				120	500
+IIT Roorkee	CE				200	750
+NIT Uttarakhand	CSE				20000	40000
+NIT Uttarakhand	ECE				28000	52000
+Graphic Era University	CSE				1	100000
+UPES Dehradun	CSE				1	80000
+DIT University Dehradun	CSE				1	120000
+IIT Kharagpur	CSE				1	62
+IIT Kharagpur	ECE				20	130
+IIT Kharagpur	ME				80	350
+IIT Kharagpur	CHE				160	620
+IIT Kharagpur	CE				240	820
+IIT Kharagpur	AI-ML				1	50
+NIT Durgapur	CSE				8000	16000
+NIT Durgapur	ECE				12000	22000
+NIT Durgapur	ME				18000	30000
+NIT Durgapur	CE				22000	38000
+Jadavpur University	CSE				1	800
+Jadavpur University	ECE				400	2000
+Jadavpur University	ME				1000	4000
+Jadavpur University	CE				1500	5000
+Jadavpur University	CHE				2000	6000
+IIEST Shibpur	CSE				600	2500
+IIEST Shibpur	ME				1200	4500
+Heritage IT Kolkata	CSE				2000	8000
+Techno Main Saltlake	CSE				2500	9000
+MAKAUT Affiliated Colls	CSE				3000	12000
+Netaji Subhas University of Technology	CSAI	HS	OPEN	Gender-Neutral	5398	7946
+Netaji Subhas University of Technology	CSAI	HS	OPEN	Female-only (including supernumerary)	10557	14127
+Netaji Subhas University of Technology	CSAI	HS	EWS	Gender-Neutral	17520	18161
+Netaji Subhas University of Technology	CSAI	HS	EWS	Female-only (including supernumerary)	45894	51563
+Netaji Subhas University of Technology	CSAI	HS	OBC-NCL	Gender-Neutral	31699	35812
+Netaji Subhas University of Technology	CSAI	HS	OBC-NCL	Female-only (including supernumerary)	79382	79382
+Netaji Subhas University of Technology	CSAI	HS	SC	Gender-Neutral	87219	107246
+Netaji Subhas University of Technology	CSAI	HS	SC	Female-only (including supernumerary)	145136	145136
+Netaji Subhas University of Technology	CSAI	HS	ST	Gender-Neutral	160822	180658
+Netaji Subhas University of Technology	CSAI	HS	ST	Female-only (including supernumerary)	335926	335926
+Netaji Subhas University of Technology	CSAI	HS	OPEN (PwD)	Gender-Neutral	146747	398179
+Netaji Subhas University of Technology	CSAI	HS	OBC-NCL (PwD)	Gender-Neutral	298614	83144
+Netaji Subhas University of Technology	CSAI	HS	SC (PwD)	Gender-Neutral	449212	229299
+Netaji Subhas University of Technology	CSAI	HS	ST (PwD)	Gender-Neutral	1410918	457248
+Netaji Subhas University of Technology	CSAI	HS	OPEN (PwD)	Gender-Neutral	146747	146747
+Netaji Subhas University of Technology	CSAI	HS	OBC-NCL (PwD)	Gender-Neutral	298614	298614
+Netaji Subhas University of Technology	CSAI	HS	SC (PwD)	Gender-Neutral	449212	449212
+Netaji Subhas University of Technology	CSAI	HS	ST (PwD)	Gender-Neutral	1410918	1410918
+Netaji Subhas University of Technology	CSE	HS	OPEN	Gender-Neutral	8019	10907
+Netaji Subhas University of Technology	CSE	HS	OPEN	Female-only (including supernumerary)	14127	18652
+Netaji Subhas University of Technology	CSE	HS	EWS	Gender-Neutral	27670	29658
+Netaji Subhas University of Technology	CSE	HS	EWS	Female-only (including supernumerary)	46550	46550
+Netaji Subhas University of Technology	CSE	HS	OBC-NCL	Gender-Neutral	45586	48539
+Netaji Subhas University of Technology	CSE	HS	OBC-NCL	Female-only (including supernumerary)	75046	84454
+Netaji Subhas University of Technology	CSE	HS	SC	Gender-Neutral	107246	117715
+Netaji Subhas University of Technology	CSE	HS	SC	Female-only (including supernumerary)	138729	145305
+Netaji Subhas University of Technology	CSE	HS	ST	Gender-Neutral	336846	343647
+Netaji Subhas University of Technology	CSE	HS	ST	Female-only (including supernumerary)	569974	569974
+Netaji Subhas University of Technology	CSE	HS	EWS (PwD)	Gender-Neutral	195752	61577
+Netaji Subhas University of Technology	CSE	HS	OBC-NCL (PwD)	Gender-Neutral	322633	87660
+Netaji Subhas University of Technology	CSE	HS	SC (PwD)	Gender-Neutral	210630	210630
+Netaji Subhas University of Technology	CSE	HS	OPEN (PwD)	Gender-Neutral	155404	155404
+Netaji Subhas University of Technology	CSE	HS	EWS (PwD)	Gender-Neutral	195752	195752
+Netaji Subhas University of Technology	CSE	HS	OBC-NCL (PwD)	Gender-Neutral	322633	322633
+Netaji Subhas University of Technology	CSE	HS	ST (PwD)	Gender-Neutral	410087	410087
+Netaji Subhas University of Technology	CSE	HS	Kashmiri Migrant	Gender-Neutral	476338	476338
+Netaji Subhas University of Technology	CSDS	HS	OPEN	Gender-Neutral	10137	12614
+Netaji Subhas University of Technology	CSDS	HS	OPEN	Female-only (including supernumerary)	15103	20125
+Netaji Subhas University of Technology	CSDS	HS	EWS	Gender-Neutral	29498	31843
+Netaji Subhas University of Technology	CSDS	HS	EWS	Female-only (including supernumerary)	58486	58486
+Netaji Subhas University of Technology	CSDS	HS	OBC-NCL	Gender-Neutral	55225	55225
+Netaji Subhas University of Technology	CSDS	HS	OBC-NCL	Female-only (including supernumerary)	84166	84549
+Netaji Subhas University of Technology	CSDS	HS	SC	Gender-Neutral	117210	128099
+Netaji Subhas University of Technology	CSDS	HS	SC	Female-only (including supernumerary)	145305	148245
+Netaji Subhas University of Technology	CSDS	HS	ST	Gender-Neutral	377928	385222
+Netaji Subhas University of Technology	CSDS	HS	OBC-NCL (PwD)	Gender-Neutral	89301	89301
+Netaji Subhas University of Technology	CSDS	HS	EWS (PwD)	Gender-Neutral	166041	166041
+Netaji Subhas University of Technology	CSDS	HS	SC (PwD)	Gender-Neutral	454326	454326
+Netaji Subhas University of Technology	IT	HS	OPEN	Gender-Neutral	13103	16301
+Netaji Subhas University of Technology	IT	HS	OPEN	Female-only (including supernumerary)	17248	22065
+Netaji Subhas University of Technology	IT	HS	EWS	Gender-Neutral	38273	44570
+Netaji Subhas University of Technology	IT	HS	EWS	Female-only (including supernumerary)	59499	59499
+Netaji Subhas University of Technology	IT	HS	OBC-NCL	Gender-Neutral	70201	72460
+Netaji Subhas University of Technology	IT	HS	OBC-NCL	Female-only (including supernumerary)	93797	97154
+Netaji Subhas University of Technology	IT	HS	SC	Gender-Neutral	156936	172341
+Netaji Subhas University of Technology	IT	HS	SC	Female-only (including supernumerary)	175636	206831
+Netaji Subhas University of Technology	IT	HS	ST	Gender-Neutral	606589	616283
+Netaji Subhas University of Technology	IT	HS	ST	Female-only (including supernumerary)	680357	680357
+Netaji Subhas University of Technology	IT	HS	EWS (PwD)	Gender-Neutral	127854	127854
+Netaji Subhas University of Technology	IT	HS	OBC-NCL (PwD)	Gender-Neutral	139393	139393
+Netaji Subhas University of Technology	IT	HS	SC (PwD)	Gender-Neutral	209008	209008
+Netaji Subhas University of Technology	ITNS	HS	OPEN	Gender-Neutral	15988	19226
+Netaji Subhas University of Technology	ITNS	HS	OPEN	Female-only (including supernumerary)	21475	24421
+Netaji Subhas University of Technology	ITNS	HS	EWS	Gender-Neutral	44046	48377
+Netaji Subhas University of Technology	ITNS	HS	EWS	Female-only (including supernumerary)	59291	77017
+Netaji Subhas University of Technology	ITNS	HS	OBC-NCL	Gender-Neutral	84958	86115
+Netaji Subhas University of Technology	ITNS	HS	OBC-NCL	Female-only (including supernumerary)	114250	115607
+Netaji Subhas University of Technology	ITNS	HS	SC	Gender-Neutral	175926	187812
+Netaji Subhas University of Technology	ITNS	HS	SC	Female-only (including supernumerary)	197551	274065
+Netaji Subhas University of Technology	ITNS	HS	ST	Gender-Neutral	646562	713674
+Netaji Subhas University of Technology	ITNS	HS	ST (PwD)	Gender-Neutral	712098	712098
+Netaji Subhas University of Technology	ITNS	HS	OBC-NCL (PwD)	Gender-Neutral	191803	191803
+Netaji Subhas University of Technology	MAC	HS	OPEN	Gender-Neutral	17176	20967
+Netaji Subhas University of Technology	MAC	HS	OPEN	Female-only (including supernumerary)	21653	25534
+Netaji Subhas University of Technology	MAC	HS	EWS	Gender-Neutral	47238	50842
+Netaji Subhas University of Technology	MAC	HS	EWS	Female-only (including supernumerary)	80751	92043
+Netaji Subhas University of Technology	MAC	HS	OBC-NCL	Gender-Neutral	96700	98154
+Netaji Subhas University of Technology	MAC	HS	OBC-NCL	Female-only (including supernumerary)	135201	135201
+Netaji Subhas University of Technology	MAC	HS	SC	Gender-Neutral	200188	205362
+Netaji Subhas University of Technology	MAC	HS	SC	Female-only (including supernumerary)	221221	226125
+Netaji Subhas University of Technology	MAC	HS	ST	Gender-Neutral	947189	947189
+Netaji Subhas University of Technology	MAC	HS	EWS (PwD)	Gender-Neutral		31778
+Netaji Subhas University of Technology	MAC	HS	OBC-NCL (PwD)	Gender-Neutral	353540	353540
+Netaji Subhas University of Technology	ECE	HS	OPEN	Gender-Neutral	21182	25052
+Netaji Subhas University of Technology	ECE	HS	OPEN	Female-only (including supernumerary)	27878	32842
+Netaji Subhas University of Technology	ECE	HS	EWS	Gender-Neutral	57047	61377
+Netaji Subhas University of Technology	ECE	HS	EWS	Female-only (including supernumerary)	103745	103745
+Netaji Subhas University of Technology	ECE	HS	OBC-NCL	Gender-Neutral	113914	115535
+Netaji Subhas University of Technology	ECE	HS	OBC-NCL	Female-only (including supernumerary)	166443	174856
+Netaji Subhas University of Technology	ECE	HS	SC	Gender-Neutral	222447	235553
+Netaji Subhas University of Technology	ECE	HS	SC	Female-only (including supernumerary)	297085	386469
+Netaji Subhas University of Technology	ECE	HS	ST	Gender-Neutral	994613	1100168
+Netaji Subhas University of Technology	ECE	HS	EWS (PwD)	Gender-Neutral		47716
+Netaji Subhas University of Technology	ECE	HS	OBC-NCL (PwD)	Gender-Neutral	159072	159072
+Netaji Subhas University of Technology	ECE	HS	SC (PwD)	Gender-Neutral	495463	237741
+Netaji Subhas University of Technology	ECE	HS	SC (PwD)	Gender-Neutral	495463	495463
+Netaji Subhas University of Technology	EVDT	HS	OPEN	Gender-Neutral	22049	26229
+Netaji Subhas University of Technology	EVDT	HS	OPEN	Female-only (including supernumerary)	31173	38500
+Netaji Subhas University of Technology	EVDT	HS	EWS	Gender-Neutral	64457	67665
+Netaji Subhas University of Technology	EVDT	HS	EWS	Female-only (including supernumerary)	94776	94776
+Netaji Subhas University of Technology	EVDT	HS	OBC-NCL	Gender-Neutral	125450	128434
+Netaji Subhas University of Technology	EVDT	HS	OBC-NCL	Female-only (including supernumerary)	176581	190216
+Netaji Subhas University of Technology	EVDT	HS	SC	Gender-Neutral	234442	263501
+Netaji Subhas University of Technology	EVDT	HS	SC	Female-only (including supernumerary)	298494	473670
+Netaji Subhas University of Technology	EVDT	HS	ST	Gender-Neutral	1258832	1258832
+Netaji Subhas University of Technology	EVDT	HS	OBC-NCL (PwD)	Gender-Neutral	246224	246224
+Netaji Subhas University of Technology	EVDT	HS	SC (PwD)	Gender-Neutral	537380	511854
+Netaji Subhas University of Technology	EE	HS	OPEN	Gender-Neutral	28346	34252
+Netaji Subhas University of Technology	EE	HS	OPEN	Female-only (including supernumerary)	48317	57483
+Netaji Subhas University of Technology	EE	HS	EWS	Gender-Neutral	79231	84176
+Netaji Subhas University of Technology	EE	HS	EWS	Female-only (including supernumerary)	149315	162850
+Netaji Subhas University of Technology	EE	HS	OBC-NCL	Gender-Neutral	157393	160670
+Netaji Subhas University of Technology	EE	HS	OBC-NCL	Female-only (including supernumerary)	301282	301282
+Netaji Subhas University of Technology	EE	HS	SC	Gender-Neutral	310313	341340
+Netaji Subhas University of Technology	EE	HS	SC	Female-only (including supernumerary)	568334	695557
+Netaji Subhas University of Technology	EE	HS	ST	Gender-Neutral	1150595	1150595
+Netaji Subhas University of Technology	EE	HS	EWS (PwD)	Gender-Neutral		98553
+Netaji Subhas University of Technology	EE	HS	OBC-NCL (PwD)	Gender-Neutral	202816	202816
+Netaji Subhas University of Technology	EE	HS	SC (PwD)	Gender-Neutral	742149	423231
+Netaji Subhas University of Technology	EE	HS	OBC-NCL (PwD)	Gender-Neutral	202816	742149
+Netaji Subhas University of Technology	ICE	HS	OPEN	Gender-Neutral	32800	39133
+Netaji Subhas University of Technology	ICE	HS	OPEN	Female-only (including supernumerary)	68175	72920
+Netaji Subhas University of Technology	ICE	HS	EWS	Gender-Neutral	101440	103539
+Netaji Subhas University of Technology	ICE	HS	EWS	Female-only (including supernumerary)	202641	202641
+Netaji Subhas University of Technology	ICE	HS	OBC-NCL	Gender-Neutral	171966	180826
+Netaji Subhas University of Technology	ICE	HS	OBC-NCL	Female-only (including supernumerary)	335787	355443
+Netaji Subhas University of Technology	ICE	HS	SC	Gender-Neutral	410401	463839
+Netaji Subhas University of Technology	ICE	HS	SC	Female-only (including supernumerary)	639232	701184
+Netaji Subhas University of Technology	ICE	HS	OPEN (PwD)	Gender-Neutral	98553	110653
+Netaji Subhas University of Technology	ICE	HS	EWS (PwD)	Gender-Neutral		254388
+Netaji Subhas University of Technology	ICE	HS	OBC-NCL (PwD)	Gender-Neutral	254388	451813
+Netaji Subhas University of Technology	ICE	HS	SC (PwD)	Gender-Neutral	1053928	1053928
+Netaji Subhas University of Technology	ME	HS	OPEN	Gender-Neutral	40875	48319
+Netaji Subhas University of Technology	ME	HS	OPEN	Female-only (including supernumerary)	77297	86822
+Netaji Subhas University of Technology	ME	HS	EWS	Gender-Neutral	115185	123175
+Netaji Subhas University of Technology	ME	HS	EWS	Female-only (including supernumerary)	205964	210150
+Netaji Subhas University of Technology	ME	HS	OBC-NCL	Gender-Neutral	199028	207591
+Netaji Subhas University of Technology	ME	HS	OBC-NCL	Female-only (including supernumerary)	394687	432106
+Netaji Subhas University of Technology	ME	HS	SC	Gender-Neutral	420385	474963
+Netaji Subhas University of Technology	ME	HS	SC	Female-only (including supernumerary)	695557	761432
+Netaji Subhas University of Technology	ME	HS	ST	Gender-Neutral	904236	904236
+Netaji Subhas University of Technology	ME	HS	EWS (PwD)	Gender-Neutral		151116
+Netaji Subhas University of Technology	ME	HS	OBC-NCL (PwD)	Gender-Neutral	332856	273836
+Netaji Subhas University of Technology	ME	HS	SC (PwD)	Gender-Neutral	1242095	626103
+Netaji Subhas University of Technology	ME	HS	OBC-NCL (PwD)	Gender-Neutral	332856	1242095
+Netaji Subhas University of Technology	BT	HS	OPEN	Gender-Neutral	50912	60434
+Netaji Subhas University of Technology	BT	HS	OPEN	Female-only (including supernumerary)	79513	88803
+Netaji Subhas University of Technology	BT	HS	EWS	Gender-Neutral	136340	151099
+Netaji Subhas University of Technology	BT	HS	EWS	Female-only (including supernumerary)	201548	201548
+Netaji Subhas University of Technology	BT	HS	OBC-NCL	Gender-Neutral	243953	259953
+Netaji Subhas University of Technology	BT	HS	OBC-NCL	Female-only (including supernumerary)	377127	377127
+Netaji Subhas University of Technology	BT	HS	SC	Gender-Neutral	471832	529169
+Netaji Subhas University of Technology	BT	HS	SC	Female-only (including supernumerary)	578573	677932
+Netaji Subhas University of Technology	BT	HS	OPEN (PwD)	Gender-Neutral	125218	175286
+Netaji Subhas University of Technology	BT	HS	OBC-NCL (PwD)	Gender-Neutral	952139	1063589
+Netaji Subhas University of Technology	BT	HS	ST (PwD)	Gender-Neutral	1448255	1448255
+Netaji Subhas University of Technology	CSDA*	HS	OPEN	Gender-Neutral	22567	28092
+Netaji Subhas University of Technology	CSDA*	HS	OPEN	Female-only (including supernumerary)	34972	46242
+Netaji Subhas University of Technology	CSDA*	HS	EWS	Gender-Neutral	59210	59210
+Netaji Subhas University of Technology	CSDA*	HS	EWS	Female-only (including supernumerary)	115204	115204
+Netaji Subhas University of Technology	CSDA*	HS	OBC-NCL	Gender-Neutral	117480	120050
+Netaji Subhas University of Technology	CSDA*	HS	OBC-NCL	Female-only (including supernumerary)	147461	147461
+Netaji Subhas University of Technology	CSDA*	HS	SC	Gender-Neutral	232581	233900
+Netaji Subhas University of Technology	CSDA*	HS	SC	Female-only (including supernumerary)	393845	441677
+Netaji Subhas University of Technology	CSDA*	HS	ST	Gender-Neutral	984860	1171733
+Netaji Subhas University of Technology	CSDA*	HS	EWS (PwD)	Gender-Neutral		57247
+Netaji Subhas University of Technology	CSDA*	HS	SC (PwD)	Gender-Neutral		211511
+Netaji Subhas University of Technology	CSDA*	HS	EWS (PwD)	Gender-Neutral		255186
+Netaji Subhas University of Technology	CSDA*	HS	SC (PwD)	Gender-Neutral		641169
+Netaji Subhas University of Technology	CIOT*	HS	OPEN	Gender-Neutral	25520	31856
+Netaji Subhas University of Technology	CIOT*	HS	OPEN	Female-only (including supernumerary)	43715	52490
+Netaji Subhas University of Technology	CIOT*	HS	EWS	Gender-Neutral	69454	73974
+Netaji Subhas University of Technology	CIOT*	HS	EWS	Female-only (including supernumerary)	118353	118353
+Netaji Subhas University of Technology	CIOT*	HS	OBC-NCL	Gender-Neutral	132993	137360
+Netaji Subhas University of Technology	CIOT*	HS	OBC-NCL	Female-only (including supernumerary)	201821	281905
+Netaji Subhas University of Technology	CIOT*	HS	SC	Gender-Neutral	239028	247976
+Netaji Subhas University of Technology	CIOT*	HS	SC	Female-only (including supernumerary)	392970	477611
+Netaji Subhas University of Technology	CIOT*	HS	ST	Gender-Neutral	1100168	1220645
+Netaji Subhas University of Technology	CIOT*	HS	ST	Female-only (including supernumerary)	1239050	1239050
+Netaji Subhas University of Technology	CIOT*	HS	OPEN (PwD)	Gender-Neutral	48060	71270
+Netaji Subhas University of Technology	CIOT*	HS	EWS (PwD)	Gender-Neutral	185420	185420
+Netaji Subhas University of Technology	CIOT*	HS	EWS (PwD)	Gender-Neutral	185420	354232
+Netaji Subhas University of Technology	ECAM*	HS	OPEN	Gender-Neutral	29985	36172
+Netaji Subhas University of Technology	ECAM*	HS	OPEN	Female-only (including supernumerary)	63876	69943
+Netaji Subhas University of Technology	ECAM*	HS	EWS	Gender-Neutral	80518	88776
+Netaji Subhas University of Technology	ECAM*	HS	EWS	Female-only (including supernumerary)	170028	193549
+Netaji Subhas University of Technology	ECAM*	HS	OBC-NCL	Gender-Neutral	155383	160492
+Netaji Subhas University of Technology	ECAM*	HS	OBC-NCL	Female-only (including supernumerary)	318196	329782
+Netaji Subhas University of Technology	ECAM*	HS	SC	Gender-Neutral	309259	348748
+Netaji Subhas University of Technology	ECAM*	HS	SC	Female-only (including supernumerary)	624607	638238
+Netaji Subhas University of Technology	ECAM*	HS	ST	Gender-Neutral	1248079	1248079
+Netaji Subhas University of Technology	ECAM*	HS	EWS (PwD)	Gender-Neutral		86806
+Netaji Subhas University of Technology	ECAM*	HS	OBC-NCL (PwD)	Gender-Neutral	262562	262562
+Netaji Subhas University of Technology	ECAM*	HS	SC (PwD)	Gender-Neutral	499976	344946
+Netaji Subhas University of Technology	ECAM*	HS	OBC-NCL (PwD)	Gender-Neutral	262562	537380
+Netaji Subhas University of Technology	MEEV**	HS	OPEN	Gender-Neutral	46689	55009
+Netaji Subhas University of Technology	MEEV**	HS	OPEN	Female-only (including supernumerary)	85847	90397
+Netaji Subhas University of Technology	MEEV**	HS	EWS	Gender-Neutral	138598	150283
+Netaji Subhas University of Technology	MEEV**	HS	EWS	Female-only (including supernumerary)	187881	235810
+Netaji Subhas University of Technology	MEEV**	HS	OBC-NCL	Gender-Neutral	224222	253256
+Netaji Subhas University of Technology	MEEV**	HS	OBC-NCL	Female-only (including supernumerary)	419938	450893
+Netaji Subhas University of Technology	MEEV**	HS	SC	Gender-Neutral	453868	495675
+Netaji Subhas University of Technology	MEEV**	HS	SC	Female-only (including supernumerary)	752497	809371
+Netaji Subhas University of Technology	MEEV**	HS	OPEN (PwD)	Gender-Neutral	110653	152353
+Netaji Subhas University of Technology	MEEV**	HS	OBC-NCL (PwD)	Gender-Neutral	743731	1434042
+Netaji Subhas University of Technology	MEEV**	HS	OBC-NCL (PwD)	Gender-Neutral	743731	1301768
+Netaji Subhas University of Technology	CE**	HS	OPEN	Gender-Neutral	52192	61299
+Netaji Subhas University of Technology	CE**	HS	OPEN	Female-only (including supernumerary)	86192	95702
+Netaji Subhas University of Technology	CE**	HS	EWS	Gender-Neutral	140244	158357
+Netaji Subhas University of Technology	CE**	HS	EWS	Female-only (including supernumerary)	234728	249387
+Netaji Subhas University of Technology	CE**	HS	OBC-NCL	Gender-Neutral	245862	262325
+Netaji Subhas University of Technology	CE**	HS	OBC-NCL	Female-only (including supernumerary)	440696	454862
+Netaji Subhas University of Technology	CE**	HS	SC	Gender-Neutral	464634	533192
+Netaji Subhas University of Technology	CE**	HS	SC	Female-only (including supernumerary)	668389	770451
+Netaji Subhas University of Technology	CE**	HS	ST	Gender-Neutral	609755	609755
+Netaji Subhas University of Technology	CE**	HS	EWS (PwD)	Gender-Neutral		174482
+Netaji Subhas University of Technology	GI**	HS	OPEN	Gender-Neutral	53257	62530
+Netaji Subhas University of Technology	GI**	HS	OPEN	Female-only (including supernumerary)	87863	95857
+Netaji Subhas University of Technology	GI**	HS	EWS	Gender-Neutral	145890	159500
+Netaji Subhas University of Technology	GI**	HS	EWS	Female-only (including supernumerary)	235810	247319
+Netaji Subhas University of Technology	GI**	HS	OBC-NCL	Gender-Neutral	246616	266294
+Netaji Subhas University of Technology	GI**	HS	OBC-NCL	Female-only (including supernumerary)	431031	444865
+Netaji Subhas University of Technology	GI**	HS	SC	Gender-Neutral	481926	546256
+Netaji Subhas University of Technology	GI**	HS	SC	Female-only (including supernumerary)	721801	827708
+Netaji Subhas University of Technology	GI**	HS	OPEN (PwD)	Gender-Neutral	139896	164724
+Netaji Subhas University of Technology	GI**	HS	EWS (PwD)	Gender-Neutral		281850
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	HS	OPEN	Gender-Neutral	2345	2998
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	HS	EWS	Gender-Neutral	22788	22788
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	HS	OBC-NCL	Gender-Neutral	11435	15543
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	HS	SC	Gender-Neutral	12426	22729
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	HS	ST	Gender-Neutral	14047	14047
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	HS	SC (PwD)	Gender-Neutral		5785
+Netaji Subhas University of Technology	CSAI	OS	OPEN	Gender-Neutral	4411	6050
+Netaji Subhas University of Technology	CSAI	OS	OPEN	Female-only (including supernumerary)	5059	7408
+Netaji Subhas University of Technology	CSAI	OS	EWS	Gender-Neutral	7709	9647
+Netaji Subhas University of Technology	CSAI	OS	EWS	Female-only (including supernumerary)	9612	16975
+Netaji Subhas University of Technology	CSAI	OS	OBC-NCL	Gender-Neutral	12098	14512
+Netaji Subhas University of Technology	CSAI	OS	OBC-NCL	Female-only (including supernumerary)	20185	20185
+Netaji Subhas University of Technology	CSAI	OS	SC	Gender-Neutral	52893	55963
+Netaji Subhas University of Technology	CSAI	OS	ST	Gender-Neutral	80545	133524
+Netaji Subhas University of Technology	CSAI	OS	OPEN (PwD)	Gender-Neutral	39666	39666
+Netaji Subhas University of Technology	CSE	OS	OPEN	Gender-Neutral	4519	6249
+Netaji Subhas University of Technology	CSE	OS	OPEN	Female-only (including supernumerary)	6451	7495
+Netaji Subhas University of Technology	CSE	OS	EWS	Gender-Neutral	5940	9255
+Netaji Subhas University of Technology	CSE	OS	OBC-NCL	Gender-Neutral	13695	15149
+Netaji Subhas University of Technology	CSE	OS	OBC-NCL	Female-only (including supernumerary)	22041	22041
+Netaji Subhas University of Technology	CSE	OS	SC	Gender-Neutral	55475	55475
+Netaji Subhas University of Technology	CSE	OS	SC	Female-only (including supernumerary)	56400	56400
+Netaji Subhas University of Technology	CSE	OS	ST	Gender-Neutral	122889	125637
+Netaji Subhas University of Technology	CSE	OS	OPEN (PwD)	Gender-Neutral	83599	782499
+Netaji Subhas University of Technology	CSE	OS	EWS (PwD)	Gender-Neutral	56383	56383
+Netaji Subhas University of Technology	CSE	OS	EWS (PwD)	Gender-Neutral	56383	83599
+Netaji Subhas University of Technology	CSE	OS	SC (PwD)	Gender-Neutral		175269
+Netaji Subhas University of Technology	CSDS	OS	OPEN	Gender-Neutral	5459	7037
+Netaji Subhas University of Technology	CSDS	OS	EWS	Gender-Neutral	8197	10560
+Netaji Subhas University of Technology	CSDS	OS	EWS	Female-only (including supernumerary)	14559	19699
+Netaji Subhas University of Technology	CSDS	OS	OBC-NCL	Gender-Neutral	13994	16330
+Netaji Subhas University of Technology	CSDS	OS	SC	Gender-Neutral	55963	60975
+Netaji Subhas University of Technology	CSDS	OS	SC	Female-only (including supernumerary)	83515	97521
+Netaji Subhas University of Technology	CSDS	OS	ST	Gender-Neutral	133524	156622
+Netaji Subhas University of Technology	IT	OS	OPEN	Gender-Neutral	6495	7651
+Netaji Subhas University of Technology	IT	OS	OPEN	Female-only (including supernumerary)	8486	11578
+Netaji Subhas University of Technology	IT	OS	EWS	Gender-Neutral	9255	11736
+Netaji Subhas University of Technology	IT	OS	OBC-NCL	Gender-Neutral	16330	16836
+Netaji Subhas University of Technology	IT	OS	OBC-NCL	Female-only (including supernumerary)	24543	25912
+Netaji Subhas University of Technology	IT	OS	SC	Gender-Neutral	75651	76142
+Netaji Subhas University of Technology	IT	OS	SC	Female-only (including supernumerary)	97521	104350
+Netaji Subhas University of Technology	IT	OS	ST	Gender-Neutral	124480	140115
+Netaji Subhas University of Technology	IT	OS	EWS (PwD)	Gender-Neutral		34677
+Netaji Subhas University of Technology	IT	OS	EWS (PwD)	Gender-Neutral		134260
+Netaji Subhas University of Technology	ITNS	OS	OPEN	Gender-Neutral	7315	8583
+Netaji Subhas University of Technology	ITNS	OS	OPEN	Female-only (including supernumerary)	9673	13117
+Netaji Subhas University of Technology	ITNS	OS	EWS	Gender-Neutral	11153	12655
+Netaji Subhas University of Technology	ITNS	OS	OBC-NCL	Gender-Neutral	16464	17594
+Netaji Subhas University of Technology	ITNS	OS	SC	Gender-Neutral	76028	85191
+Netaji Subhas University of Technology	ITNS	OS	ST	Gender-Neutral	150085	183056
+Netaji Subhas University of Technology	ITNS	OS	ST	Female-only (including supernumerary)	216309	213349
+Netaji Subhas University of Technology	MAC	OS	OPEN	Gender-Neutral	7476	7841
+Netaji Subhas University of Technology	MAC	OS	OPEN	Female-only (including supernumerary)	12201	12382
+Netaji Subhas University of Technology	MAC	OS	EWS	Gender-Neutral	11366	12102
+Netaji Subhas University of Technology	MAC	OS	OBC-NCL	Gender-Neutral	18263	18719
+Netaji Subhas University of Technology	MAC	OS	SC	Gender-Neutral	80343	37144
+Netaji Subhas University of Technology	MAC	OS	SC	Female-only (including supernumerary)		83360
+Netaji Subhas University of Technology	MAC	OS	ST	Gender-Neutral	140115	162475
+Netaji Subhas University of Technology	ECE	OS	OPEN	Gender-Neutral	8376	9819
+Netaji Subhas University of Technology	ECE	OS	OPEN	Female-only (including supernumerary)	15183	15817
+Netaji Subhas University of Technology	ECE	OS	EWS	Gender-Neutral	12086	14401
+Netaji Subhas University of Technology	ECE	OS	EWS	Female-only (including supernumerary)	16199	20804
+Netaji Subhas University of Technology	ECE	OS	OBC-NCL	Gender-Neutral	20126	20462
+Netaji Subhas University of Technology	ECE	OS	OBC-NCL	Female-only (including supernumerary)	29811	41404
+Netaji Subhas University of Technology	ECE	OS	SC	Gender-Neutral	85191	93958
+Netaji Subhas University of Technology	ECE	OS	SC	Female-only (including supernumerary)	118125	145778
+Netaji Subhas University of Technology	ECE	OS	ST	Gender-Neutral	166647	209471
+Netaji Subhas University of Technology	ECE	OS	ST	Female-only (including supernumerary)	237746	283057
+Netaji Subhas University of Technology	ECE	OS	OPEN (PwD)	Gender-Neutral	183097	183097
+Netaji Subhas University of Technology	ECE	OS	EWS (PwD)	Gender-Neutral	507505	177579
+Netaji Subhas University of Technology	ECE	OS	OBC-NCL (PwD)	Gender-Neutral		399184
+Netaji Subhas University of Technology	EVDT	OS	OPEN	Gender-Neutral	9135	10438
+Netaji Subhas University of Technology	EVDT	OS	OPEN	Female-only (including supernumerary)	14764	14764
+Netaji Subhas University of Technology	EVDT	OS	EWS	Gender-Neutral	14401	14473
+Netaji Subhas University of Technology	EVDT	OS	OBC-NCL	Gender-Neutral	20346	21325
+Netaji Subhas University of Technology	EVDT	OS	SC	Gender-Neutral	86128	42156
+Netaji Subhas University of Technology	EVDT	OS	SC	Female-only (including supernumerary)		105707
+Netaji Subhas University of Technology	EVDT	OS	ST	Gender-Neutral	169445	212888
+Netaji Subhas University of Technology	EE	OS	OPEN	Gender-Neutral	10811	11618
+Netaji Subhas University of Technology	EE	OS	OPEN	Female-only (including supernumerary)	18535	19079
+Netaji Subhas University of Technology	EE	OS	EWS	Gender-Neutral	14691	17516
+Netaji Subhas University of Technology	EE	OS	OBC-NCL	Gender-Neutral	23620	25227
+Netaji Subhas University of Technology	EE	OS	SC	Gender-Neutral	99690	33912
+Netaji Subhas University of Technology	EE	OS	SC	Female-only (including supernumerary)		110025
+Netaji Subhas University of Technology	EE	OS	ST	Gender-Neutral	182782	218317
+Netaji Subhas University of Technology	EE	OS	ST	Female-only (including supernumerary)	247867	247867
+Netaji Subhas University of Technology	EE	OS	OPEN (PwD)	Gender-Neutral	38726	78306
+Netaji Subhas University of Technology	EE	OS	OBC-NCL (PwD)	Gender-Neutral	144979	144979
+Netaji Subhas University of Technology	ICE	OS	OPEN	Gender-Neutral	12860	13847
+Netaji Subhas University of Technology	ICE	OS	OPEN	Female-only (including supernumerary)	21017	23043
+Netaji Subhas University of Technology	ICE	OS	EWS	Gender-Neutral	19098	19321
+Netaji Subhas University of Technology	ICE	OS	OBC-NCL	Gender-Neutral	25227	27177
+Netaji Subhas University of Technology	ICE	OS	SC	Gender-Neutral	108494	56664
+Netaji Subhas University of Technology	ICE	OS	SC	Female-only (including supernumerary)	173934	112825
+Netaji Subhas University of Technology	ICE	OS	ST	Gender-Neutral	224228	173934
+Netaji Subhas University of Technology	ICE	OS	ST	Female-only (including supernumerary)		244269
+Netaji Subhas University of Technology	ICE	OS	OPEN (PwD)	Gender-Neutral	444900	289085
+Netaji Subhas University of Technology	ICE	OS	ST (PwD)	Gender-Neutral	713444	482416
+Netaji Subhas University of Technology	ICE	OS	OBC-NCL (PwD)	Gender-Neutral		219332
+Netaji Subhas University of Technology	ME	OS	OPEN	Gender-Neutral	14899	16519
+Netaji Subhas University of Technology	ME	OS	OPEN	Female-only (including supernumerary)	24312	27680
+Netaji Subhas University of Technology	ME	OS	EWS	Gender-Neutral	19662	20721
+Netaji Subhas University of Technology	ME	OS	EWS	Female-only (including supernumerary)	39228	40866
+Netaji Subhas University of Technology	ME	OS	OBC-NCL	Gender-Neutral	29634	30636
+Netaji Subhas University of Technology	ME	OS	OBC-NCL	Female-only (including supernumerary)	53447	59034
+Netaji Subhas University of Technology	ME	OS	SC	Gender-Neutral	129765	137329
+Netaji Subhas University of Technology	ME	OS	SC	Female-only (including supernumerary)	184119	192039
+Netaji Subhas University of Technology	ME	OS	ST	Gender-Neutral	206370	224750
+Netaji Subhas University of Technology	ME	OS	SC (PwD)	Gender-Neutral	216632	325646
+Netaji Subhas University of Technology	ME	OS	EWS (PwD)	Gender-Neutral		406907
+Netaji Subhas University of Technology	ME	OS	SC (PwD)	Gender-Neutral	216632	876697
+Netaji Subhas University of Technology	BT	OS	OPEN	Gender-Neutral	16059	19843
+Netaji Subhas University of Technology	BT	OS	OPEN	Female-only (including supernumerary)	29361	29417
+Netaji Subhas University of Technology	BT	OS	EWS	Gender-Neutral	26079	29025
+Netaji Subhas University of Technology	BT	OS	OBC-NCL	Gender-Neutral	32681	35321
+Netaji Subhas University of Technology	BT	OS	SC	Gender-Neutral	139195	59579
+Netaji Subhas University of Technology	BT	OS	SC	Female-only (including supernumerary)		140153
+Netaji Subhas University of Technology	BT	OS	ST	Gender-Neutral	239753	239753
+Netaji Subhas University of Technology	BT	OS	SC (PwD)	Gender-Neutral	303956	350483
+Netaji Subhas University of Technology	CSDA*	OS	OPEN	Gender-Neutral	8031	9434
+Netaji Subhas University of Technology	CSDA*	OS	EWS	Gender-Neutral	11877	11876
+Netaji Subhas University of Technology	CSDA*	OS	OBC-NCL	Gender-Neutral	18639	21820
+Netaji Subhas University of Technology	CSDA*	OS	SC	Gender-Neutral	85687	44817
+Netaji Subhas University of Technology	CSDA*	OS	SC	Female-only (including supernumerary)	104350	96278
+Netaji Subhas University of Technology	CSDA*	OS	ST	Gender-Neutral	206631	147133
+Netaji Subhas University of Technology	CSDA*	OS	ST	Female-only (including supernumerary)		218154
+Netaji Subhas University of Technology	CSDA*	OS	EWS (PwD)	Gender-Neutral	92922	92922
+Netaji Subhas University of Technology	CIOT*	OS	OPEN	Gender-Neutral	8595	9720
+Netaji Subhas University of Technology	CIOT*	OS	OPEN	Female-only (including supernumerary)	14219	15228
+Netaji Subhas University of Technology	CIOT*	OS	EWS	Gender-Neutral	14833	15113
+Netaji Subhas University of Technology	CIOT*	OS	OBC-NCL	Gender-Neutral	19163	21003
+Netaji Subhas University of Technology	CIOT*	OS	SC	Gender-Neutral	78579	49174
+Netaji Subhas University of Technology	CIOT*	OS	SC	Female-only (including supernumerary)		78579
+Netaji Subhas University of Technology	CIOT*	OS	ST	Gender-Neutral	204647	216309
+Netaji Subhas University of Technology	ECAM*	OS	OPEN	Gender-Neutral	9233	10468
+Netaji Subhas University of Technology	ECAM*	OS	OPEN	Female-only (including supernumerary)	15247	17121
+Netaji Subhas University of Technology	ECAM*	OS	EWS	Gender-Neutral	14421	15296
+Netaji Subhas University of Technology	ECAM*	OS	EWS	Female-only (including supernumerary)	27550	37305
+Netaji Subhas University of Technology	ECAM*	OS	OBC-NCL	Gender-Neutral	22313	22771
+Netaji Subhas University of Technology	ECAM*	OS	OBC-NCL	Female-only (including supernumerary)	25568	46105
+Netaji Subhas University of Technology	ECAM*	OS	SC	Gender-Neutral	95807	100287
+Netaji Subhas University of Technology	ECAM*	OS	ST	Gender-Neutral	207757	228033
+Netaji Subhas University of Technology	ECAM*	OS	ST	Female-only (including supernumerary)	337465	337465
+Netaji Subhas University of Technology	ECAM*	OS	OPEN (PwD)	Gender-Neutral	203290	203290
+Netaji Subhas University of Technology	ECAM*	OS	EWS (PwD)	Gender-Neutral	88647	88647
+Netaji Subhas University of Technology	ECAM*	OS	SC (PwD)	Gender-Neutral		625093
+Netaji Subhas University of Technology	MEEV**	OS	OPEN	Gender-Neutral	15466	17097
+Netaji Subhas University of Technology	MEEV**	OS	OPEN	Female-only (including supernumerary)	26170	29213
+Netaji Subhas University of Technology	MEEV**	OS	EWS	Gender-Neutral	20968	24542
+Netaji Subhas University of Technology	MEEV**	OS	OBC-NCL	Gender-Neutral	30966	32224
+Netaji Subhas University of Technology	MEEV**	OS	SC	Gender-Neutral	128043	60621
+Netaji Subhas University of Technology	MEEV**	OS	SC	Female-only (including supernumerary)		137631
+Netaji Subhas University of Technology	MEEV**	OS	ST	Gender-Neutral	225039	241881
+Netaji Subhas University of Technology	CE**	OS	OPEN	Gender-Neutral	18202	19710
+Netaji Subhas University of Technology	CE**	OS	OPEN	Female-only (including supernumerary)	25276	31837
+Netaji Subhas University of Technology	CE**	OS	EWS	Gender-Neutral	24081	26493
+Netaji Subhas University of Technology	CE**	OS	OBC-NCL	Gender-Neutral	32921	45683
+Netaji Subhas University of Technology	CE**	OS	SC	Gender-Neutral	133067	34275
+Netaji Subhas University of Technology	CE**	OS	ST	Gender-Neutral		140563
+Netaji Subhas University of Technology	CE**	OS	SC (PwD)	Gender-Neutral	49652	49854
+Netaji Subhas University of Technology	GI**	OS	OPEN	Gender-Neutral	18449	20300
+Netaji Subhas University of Technology	GI**	OS	OPEN	Female-only (including supernumerary)	28759	30438
+Netaji Subhas University of Technology	GI**	OS	OBC-NCL	Gender-Neutral	33120	35734
+Netaji Subhas University of Technology	GI**	OS	SC	Gender-Neutral	139339	148808
+Netaji Subhas University of Technology	GI**	OS	ST	Gender-Neutral	241017	254058
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	OS	OPEN	Gender-Neutral	772	1107
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	OS	EWS	Gender-Neutral	3732	2905
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	OS	OBC-NCL	Gender-Neutral	1880	2387
+Netaji Subhas University of Technology	B.Arch.** (Paper-2)	OS	SC	Gender-Neutral	2203	2797
+IIIT Delhi	CSAM	AI	OBC-NCL (PwD)	Gender-Neutral	16331	16331
+IIIT Delhi	CSAI	AI	OBC-NCL (PwD)	Gender-Neutral	16016	16016
+IIIT Delhi	CSB	AI	OBC-NCL (PwD)	Gender-Neutral	18942	18942
+IIIT Delhi	CSD	AI	OBC-NCL (PwD)	Gender-Neutral	17828	17828
+IIIT Delhi	CSE	AI	OBC-NCL (PwD)	Gender-Neutral	12321	12321
+IIIT Delhi	CSSS	AI	OBC-NCL (PwD)	Gender-Neutral	20355	20355
+IIIT Delhi	ECE	AI	OBC-NCL (PwD)	Gender-Neutral	20180	20180
+IIIT Delhi	EVE	AI	OBC-NCL (PwD)	Gender-Neutral	22664	22664
+IIIT Delhi	CSAM	AI	OBC-NCL	Gender-Neutral	2495	12210
+IIIT Delhi	CSAI	AI	OBC-NCL	Gender-Neutral	2269	9053
+IIIT Delhi	CSB	AI	OBC-NCL	Gender-Neutral	3139	15088
+IIIT Delhi	CSD	AI	OBC-NCL	Gender-Neutral	2777	13326
+IIIT Delhi	CSEcon	AI	OBC-NCL	Gender-Neutral	2444	13210
+IIIT Delhi	CSE	AI	OBC-NCL	Gender-Neutral	2108	10580
+IIIT Delhi	CSSS	AI	OBC-NCL	Gender-Neutral	3118	15688
+IIIT Delhi	ECE	AI	OBC-NCL	Gender-Neutral	3193	16246
+IIIT Delhi	EVE	AI	OBC-NCL	Gender-Neutral	3555	17024
+IIIT Delhi	CSAM	AI	OBC-NCL	Gender-Neutral	2495	2798
+IIIT Delhi	CSAI	AI	OBC-NCL	Gender-Neutral	2269	2444
+IIIT Delhi	CSB	AI	OBC-NCL	Gender-Neutral	3139	3455
+IIIT Delhi	CSD	AI	OBC-NCL	Gender-Neutral	2777	2841
+IIIT Delhi	CSEcon	AI	OBC-NCL	Gender-Neutral	2444	2495
+IIIT Delhi	CSE	AI	OBC-NCL	Gender-Neutral	2108	2269
+IIIT Delhi	CSSS	AI	OBC-NCL	Gender-Neutral	3118	3252
+IIIT Delhi	ECE	AI	OBC-NCL	Gender-Neutral	3193	3290
+IIIT Delhi	EVE	AI	OBC-NCL	Gender-Neutral	3555	3630
+IIIT Delhi	CSAI	AI	EWS (PwD)	Gender-Neutral	28146	8848
+IIIT Delhi	CSSS	AI	EWS (PwD)	Gender-Neutral		8294
+IIIT Delhi	ECE	AI	EWS (PwD)	Gender-Neutral		22138
+IIIT Delhi	CSAM	AI	EWS	Gender-Neutral	1449	6860
+IIIT Delhi	CSAI	AI	EWS	Gender-Neutral	1199	6064
+IIIT Delhi	CSB	AI	EWS	Gender-Neutral	1665	9425
+IIIT Delhi	CSD	AI	EWS	Gender-Neutral	1526	7924
+IIIT Delhi	CSEcon	AI	EWS	Gender-Neutral	6948	7449
+IIIT Delhi	CSE	AI	EWS	Gender-Neutral	1230	5800
+IIIT Delhi	CSSS	AI	EWS	Gender-Neutral	1658	10649
+IIIT Delhi	ECE	AI	EWS	Gender-Neutral	2072	9614
+IIIT Delhi	EVE	AI	EWS	Gender-Neutral	2391	10813
+IIIT Delhi	CSAM	AI	EWS	Gender-Neutral	1449	1719
+IIIT Delhi	CSAI	AI	EWS	Gender-Neutral	1199	1449
+IIIT Delhi	CSB	AI	EWS	Gender-Neutral	1665	2320
+IIIT Delhi	CSD	AI	EWS	Gender-Neutral	1526	2072
+IIIT Delhi	CSE	AI	EWS	Gender-Neutral	1230	1649
+IIIT Delhi	CSSS	AI	EWS	Gender-Neutral	1658	2367
+IIIT Delhi	ECE	AI	EWS	Gender-Neutral	2072	2132
+IIIT Delhi	EVE	AI	EWS	Gender-Neutral	2391	2511
+IIIT Delhi	CSAI	AI	EWS (PwD)	Gender-Neutral	28146	28144
+IIIT Delhi	CSE	AI	EWS (PwD)	Gender-Neutral	23761	23761
+IIIT Delhi	CSAM	AI	Kashmiri Migrant	Gender-Neutral	3642	3726
+IIIT Delhi	CSAI	AI	Kashmiri Migrant	Gender-Neutral	27390	27389
+IIIT Delhi	CSB	AI	Kashmiri Migrant	Gender-Neutral	7195	7195
+IIIT Delhi	CSD	AI	Kashmiri Migrant	Gender-Neutral	3691	3691
+IIIT Delhi	CSEcon	AI	Kashmiri Migrant	Gender-Neutral	3828	3828
+IIIT Delhi	CSE	AI	Kashmiri Migrant	Gender-Neutral	3183	3183
+IIIT Delhi	CSSS	AI	Kashmiri Migrant	Gender-Neutral	7068	7068
+IIIT Delhi	ECE	AI	Kashmiri Migrant	Gender-Neutral	3433	6138
+IIIT Delhi	EVE	AI	Kashmiri Migrant	Gender-Neutral	4671	26615
+IIIT Delhi	CSAM	AI	OPEN (PwD)	Gender-Neutral	19338	12177
+IIIT Delhi	CSAI	AI	OPEN (PwD)	Gender-Neutral	3403	3126
+IIIT Delhi	CSB	AI	OPEN (PwD)	Gender-Neutral	24688	6309
+IIIT Delhi	CSD	AI	OPEN (PwD)	Gender-Neutral	25227	28905
+IIIT Delhi	CSEcon	AI	OPEN (PwD)	Gender-Neutral	26530	2801
+IIIT Delhi	CSE	AI	OPEN (PwD)	Gender-Neutral	17820	16066
+IIIT Delhi	CSSS	AI	OPEN (PwD)	Gender-Neutral	26567	6434
+IIIT Delhi	ECE	AI	OPEN (PwD)	Gender-Neutral	19627	7213
+IIIT Delhi	EVE	AI	OPEN (PwD)	Gender-Neutral	27880	8217
+IIIT Delhi	CSAM	AI	OPEN	Gender-Neutral	474	2254
+IIIT Delhi	CSAI	AI	OPEN	Gender-Neutral	303	782
+IIIT Delhi	CSB	AI	OPEN	Gender-Neutral	1051	3531
+IIIT Delhi	CSD	AI	OPEN	Gender-Neutral	862	2606
+IIIT Delhi	CSEcon	AI	OPEN	Gender-Neutral	556	2255
+IIIT Delhi	CSE	AI	OPEN	Gender-Neutral	200	1413
+IIIT Delhi	CSSS	AI	OPEN	Gender-Neutral	967	3417
+IIIT Delhi	ECE	AI	OPEN	Gender-Neutral	880	3811
+IIIT Delhi	EVE	AI	OPEN	Gender-Neutral	1090	4210
+IIIT Delhi	CSAM	AI	OPEN	Gender-Neutral	474	881
+IIIT Delhi	CSAI	AI	OPEN	Gender-Neutral	303	620
+IIIT Delhi	CSB	AI	OPEN	Gender-Neutral	1051	1228
+IIIT Delhi	CSD	AI	OPEN	Gender-Neutral	862	1008
+IIIT Delhi	CSEcon	AI	OPEN	Gender-Neutral	556	955
+IIIT Delhi	CSE	AI	OPEN	Gender-Neutral	200	629
+IIIT Delhi	CSSS	AI	OPEN	Gender-Neutral	967	1225
+IIIT Delhi	ECE	AI	OPEN	Gender-Neutral	880	1133
+IIIT Delhi	EVE	AI	OPEN	Gender-Neutral	1090	1198
+IIIT Delhi	CSAM	AI	OPEN (PwD)	Gender-Neutral	19338	19338
+IIIT Delhi	CSAI	AI	OPEN (PwD)	Gender-Neutral	3403	3403
+IIIT Delhi	CSB	AI	OPEN (PwD)	Gender-Neutral	24688	24688
+IIIT Delhi	CSD	AI	OPEN (PwD)	Gender-Neutral	25227	25228
+IIIT Delhi	CSEcon	AI	OPEN (PwD)	Gender-Neutral	26530	26530
+IIIT Delhi	CSE	AI	OPEN (PwD)	Gender-Neutral	17820	18645
+IIIT Delhi	CSSS	AI	OPEN (PwD)	Gender-Neutral	26567	26567
+IIIT Delhi	ECE	AI	OPEN (PwD)	Gender-Neutral	19627	19627
+IIIT Delhi	EVE	AI	OPEN (PwD)	Gender-Neutral	27880	27879
+IIIT Delhi	CSAM	AI	SC	Gender-Neutral	11166	21858
+IIIT Delhi	CSAI	AI	SC	Gender-Neutral	8586	17636
+IIIT Delhi	CSB	AI	SC	Gender-Neutral	11688	24589
+IIIT Delhi	CSD	AI	SC	Gender-Neutral	10101	20377
+IIIT Delhi	CSEcon	AI	SC	Gender-Neutral	21438	22488
+IIIT Delhi	CSE	AI	SC	Gender-Neutral	9775	18648
+IIIT Delhi	CSSS	AI	SC	Gender-Neutral	11777	24636
+IIIT Delhi	ECE	AI	SC	Gender-Neutral	11915	24637
+IIIT Delhi	EVE	AI	SC	Gender-Neutral	12106	25483
+IIIT Delhi	CSAM	AI	SC	Gender-Neutral	11166	11166
+IIIT Delhi	CSAI	AI	SC	Gender-Neutral	8586	8586
+IIIT Delhi	CSB	AI	SC	Gender-Neutral	11688	11688
+IIIT Delhi	CSD	AI	SC	Gender-Neutral	10101	12412
+IIIT Delhi	CSE	AI	SC	Gender-Neutral	9775	10516
+IIIT Delhi	CSSS	AI	SC	Gender-Neutral	11777	13506
+IIIT Delhi	ECE	AI	SC	Gender-Neutral	11915	12688
+IIIT Delhi	EVE	AI	SC	Gender-Neutral	12106	13546
+IIIT Delhi	CSAI	AI	ST	Gender-Neutral	16558	28202
+IIIT Delhi	CSD	AI	ST	Gender-Neutral	17579	28457
+IIIT Delhi	CSSS	AI	ST	Gender-Neutral	18079	27686
+IIIT Delhi	CSAM	AI	ST	Gender-Neutral	20230	20230
+IIIT Delhi	CSAI	AI	ST	Gender-Neutral	16558	16558
+IIIT Delhi	CSB	AI	ST	Gender-Neutral	16634	16634
+IIIT Delhi	CSD	AI	ST	Gender-Neutral	17579	17579
+IIIT Delhi	CSE	AI	ST	Gender-Neutral	15744	15744
+IIIT Delhi	CSSS	AI	ST	Gender-Neutral	18079	18079
+IIIT Delhi	ECE	AI	ST	Gender-Neutral	19296	19296
+IIIT Delhi	EVE	AI	ST	Gender-Neutral	20287	21110
+IIIT Delhi	CSSS	AI	ST (PwD)	Gender-Neutral		29410
+IIIT Delhi	ECE	AI	OBC-NCL	Gender-Neutral		14157
+IIIT Delhi	CSE	AI	OBC-NCL	Gender-Neutral		1932
+IIIT Delhi	CSAM	AI	OPEN	Gender-Neutral	401	2119
+IIIT Delhi	CSAI	AI	OPEN	Gender-Neutral	97	457
+IIIT Delhi	CSD	AI	OPEN	Gender-Neutral		2455
+IIIT Delhi	EVE	AI	OPEN	Gender-Neutral	7	7
+IIIT Delhi	CSAI	AI	OPEN	Gender-Neutral	97	401
+IIIT Delhi	CSE	AI	OPEN	Gender-Neutral	131	8
+IIIT Delhi	ECE	AI	OPEN	Gender-Neutral	15	15
+IIIT Delhi	CSE	AI	OPEN (PwD)	Gender-Neutral	13705	13705
