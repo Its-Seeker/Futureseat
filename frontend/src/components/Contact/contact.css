@@ -178,3 +178,66 @@
   transform: scale(1.08);
   box-shadow: 0 0 15px rgba(37, 99, 235, 0.6);
 }
+
+/* ================= NAVBAR ================= */
+.contact-navbar {
+  width: 100%;
+  height: 70px;
+  background: rgba(15, 23, 42, 0.9); /* dark glass */
+  backdrop-filter: blur(10px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* CONTAINER */
+.contact-container {
+  width: 90%;
+  max-width: 1200px;
+  height: 100%;
+  margin: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* LOGO */
+.contact-container h2 {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+/* BUTTONS */
+.contact-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+/* BUTTON STYLE */
+.contact-buttons button {
+  padding: 7px 16px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: #e2e8f0;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s ease;
+}
+
+/* HOVER EFFECT */
+.contact-buttons button:hover {
+  color: #38bdf8;
+  transform: translateY(-2px);
+}
+
+/* ACTIVE BUTTON (optional) */
+.contact-buttons button.active {
+  background: #38bdf8;
+  color: #000
+}

@@ -49,15 +49,15 @@ const Rank = () => {
         <div className="rank-page">
             <div className="rank-navbar">
                 <div className="rank-container">
-                    <h2>Rank Vision</h2> 
+                    <h2>Rank Vision</h2>
 
                     <div className="rank-buttons">
-                    <button onClick={() => navigate("/about")}>About</button>
-                    <button onClick={() => navigate("/")}>Home</button>
-                    </div>   
+                        <button onClick={() => navigate("/about")}>About</button>
+                        <button onClick={() => navigate("/")}>Home</button>
+                    </div>
                 </div>
-                
-                    
+
+
             </div>
 
             <div className="rank-hero-section">
@@ -125,13 +125,13 @@ const Rank = () => {
                                 {loading ? "Analyzing..." : "Analyze Colleges"}
                             </button>
 
-                            {error && <p style={{color: "red", marginTop: "10px"}}>{error}</p>}
+                            {error && <p style={{ color: "red", marginTop: "10px" }}>{error}</p>}
                         </div>
                     </div>
 
                     <div className="rank-hero-right">
                         {results ? (
-                            <div className="results-container" style={{backgroundColor: "white", padding: "20px", borderRadius: "10px", color: "black", maxHeight: "400px", overflowY: "auto"}}>
+                            <div className="results-container" style={{ backgroundColor: "white", padding: "20px", borderRadius: "10px", color: "black", maxHeight: "400px", overflowY: "auto" }}>
 
                                 {results.safe?.length > 0 && (
                                     <>
@@ -146,7 +146,7 @@ const Rank = () => {
 
                                 {results.moderate?.length > 0 && (
                                     <>
-                                        <h4 style={{marginTop: "15px"}}>🟡 Moderate Choices</h4>
+                                        <h4 style={{ marginTop: "15px" }}>🟡 Moderate Choices</h4>
                                         <ul>
                                             {results.moderate.slice(0, 10).map((r, i) => (
                                                 <li key={i}><strong>{r.college}</strong> - {r.course}</li>
@@ -157,7 +157,7 @@ const Rank = () => {
 
                                 {results.risky?.length > 0 && (
                                     <>
-                                        <h4 style={{marginTop: "15px"}}>🔴 Risky Choices</h4>
+                                        <h4 style={{ marginTop: "15px" }}>🔴 Risky Choices</h4>
                                         <ul>
                                             {results.risky.slice(0, 10).map((r, i) => (
                                                 <li key={i}><strong>{r.college}</strong> - {r.course}</li>
@@ -167,7 +167,7 @@ const Rank = () => {
                                 )}
 
                                 {results.count === 0 && (
-                                    <p style={{textAlign: "center", color: "#666"}}>No colleges found for this rank. Try a higher rank or different filters.</p>
+                                    <p style={{ textAlign: "center", color: "#666" }}>No colleges found for this rank. Try a higher rank or different filters.</p>
                                 )}
                             </div>
                         ) : (
@@ -203,7 +203,11 @@ const Rank = () => {
             {/* FOOTER */}
             <div className="rank-footer">
                 <div className="rank-container footer-content">
-                    <div><h4>Contact</h4><p><FaLinkedin /> Linkedin</p><p><FaEnvelope /> Mail</p><p><FaTwitter /> Twitter</p></div>
+                    <div><button
+                        className="contact-switch"
+                        onClick={() => navigate("/contact")}>
+                        Contact
+                    </button><p><FaLinkedin /> Linkedin</p><p><FaEnvelope /> Mail</p><p><FaTwitter /> Twitter</p></div>
                     <div><h4>Legal</h4><p>Privacy Policy</p><p>Terms</p></div>
                 </div>
             </div>

@@ -1,9 +1,12 @@
 import React, { useState } from "react";
 import "./Contact.css";
+import { useNavigate } from "react-router-dom";
+
 import ketanImg from "../../assets/ketan.jpeg";
-import mayankImg from"../../assets/Mayank.jpeg";
-import utkarshImg from"../../assets/utkarsh.jpeg";
-import vaibhavImg from"../../assets/vaibhav.jpeg";
+import mayankImg from "../../assets/Mayank.jpeg";
+import utkarshImg from "../../assets/utkarsh.jpeg";
+import vaibhavImg from "../../assets/vaibhav.jpeg";
+
 import { FaLinkedin, FaGithub, FaMoon, FaSun } from "react-icons/fa";
 import { motion } from "framer-motion";
 
@@ -44,14 +47,31 @@ const team = [
 
 const Contact = () => {
   const [dark, setDark] = useState(false);
+  const navigate = useNavigate(); // ✅ add this
 
   return (
     <div className={dark ? "contact-page dark" : "contact-page"}>
-      
-      {/* DARK MODE BUTTON */}
-      <div className="toggle" onClick={() => setDark(!dark)}>
+
+      {/* 🔥 NAVBAR ADDED */}
+      <div className="contact-navbar">
+        <div className="contact-container">
+          <h2>Rank Vision</h2>
+
+          <div className="contact-buttons">
+            <button onClick={() => navigate("/about")}>About</button>
+            <button onClick={() => navigate("/")}>Home</button>
+          </div>
+          <div className="toggle" onClick={() => setDark(!dark)}>
         {dark ? <FaSun /> : <FaMoon />}
       </div>
+
+        </div>
+      </div>
+
+      {/* 🌙 DARK MODE */}
+      {/* <div className="toggle" onClick={() => setDark(!dark)}>
+        {dark ? <FaSun /> : <FaMoon />}
+      </div> */}
 
       <h1>Meet Our Team</h1>
       <p className="subtitle">

@@ -110,7 +110,7 @@ const About = () => {
 
             {/* FOOTER */}
             <div className="about-footer">
-                <div className="about-logo">
+                <div className="about-logu">
                     Rank<span>Vision</span>
                 </div>
 

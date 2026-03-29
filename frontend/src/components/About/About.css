@@ -2,12 +2,12 @@
 
 /* PAGE */
 .about-page {
-  background: #f7f8fc;
+  background: #f0e6d2;
 }
 
 /* NAVBAR */
 .about-nav {
-  background: #fff;
+  background: #0f172a;
   border-bottom: 1px solid #e4e7ef;
   padding: 0 32px;
   height: 56px;
@@ -19,17 +19,18 @@
 .about-logo {
   font-size: 17px;
   font-weight: 700;
-  color: #0f1624;
+  color: white;
 }
 
 .about-logo span {
   color: #2563eb;
 }
 
+
 .about-nav-link {
   background: transparent;
   border: none;
-  color: black;
+  color: white;
   cursor: pointer;
   font-size: 16px;
 }
@@ -163,4 +164,14 @@
   font-size: 12px;
   color: #6b7490;
   text-decoration: none;
+}
+
+.about-logu {
+  font-size: 17px;
+  font-weight: 700;
+  color: black;
+}
+
+.about-logu span {
+  color: #2563eb;
 }

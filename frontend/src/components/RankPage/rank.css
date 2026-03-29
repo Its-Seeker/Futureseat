@@ -18,9 +18,9 @@ body {
 
 /* ================= NAVBAR ================= */
 .rank-navbar {
-  background: #f9fafb;
+  background: #0f172a;
   border-bottom: 1px solid #e5e7eb;
-  padding: 18px 0;
+  padding: 13px 0;
   position: fixed;
   width: 100%;
   top: 0;
@@ -43,7 +43,7 @@ body {
 .rank-navbar h2 {
   font-size: 20px;
   font-weight: 600;
-  color: #111827;
+  color: white;
 }
 
 /* BUTTON WRAPPER */
@@ -286,4 +286,11 @@ body {
 
 .footer-content p:hover {
   color: #2563eb;
+}
+.contact-switch {
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-size: 14px;
+  cursor: pointer;
 }

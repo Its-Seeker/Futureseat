@@ -52,7 +52,12 @@ const Main = () => {
           </li>
         </ul>
 
-        <button className="main-login-btn">Login</button>
+        <button
+          className="main-login-btn"
+          onClick={() => navigate("/login")}
+        >
+          Login
+        </button>
       </nav>
 
       {/* HERO WITH SLIDING BACKGROUND */}
@@ -77,7 +82,11 @@ const Main = () => {
         <div className="Main-container footer-message">
 
           <div>
-            <h4>Contact</h4>
+            <button
+            className="contact-btn" 
+            onClick={() => navigate("/contact")}>
+              Contact
+            </button>
             <p><FaLinkedin /> Linkedin</p>
             <p><FaEnvelope /> Mail</p>
             <p><FaTwitter /> Twitter</p>
